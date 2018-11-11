@@ -1,0 +1,93 @@
+title               : Phlow Magazine
+slogan              : A pure, slim, beautiful Jekyll theme
+description         : mnml is a minimalists dream – pure, slim, beautiful.
+baseurl             : "" # the subpath of your site, e.g. /blog
+url                 : "" # the base hostname & protocol for your site, e.g. http://example.com
+author              : Moritz »mo.« Sauer
+author_description  : Phlow made this theme for you. Phlow is a little one-man-agency run by Moritz »mo.« Sauer
+
+# Build settings
+markdown: kramdown
+destination         : ./_1_BUILD_phlow-magazine_com
+
+
+#      ______                           ______          __          __
+#     / ____/__  ____ ___       __     / ____/  _______/ /_  ______/ /__  _____
+#    / / __/ _ \/ __ `__ \   __/ /_   / __/ | |/_/ ___/ / / / / __  / _ \/ ___/
+#   / /_/ /  __/ / / / / /  /_  __/  / /____>  </ /__/ / /_/ / /_/ /  __(__  )
+#   \____/\___/_/ /_/ /_/    /_/    /_____/_/|_|\___/_/\__,_/\__,_/\___/____/
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude these files from your production _site
+exclude:
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - INSTALL.md
+
+
+
+#     _____ __________
+#    / ___// ____/ __ \
+#    \__ \/ __/ / / / /
+#   ___/ / /___/ /_/ /
+#  /____/_____/\____/
+#  SEO is mainly based on the jekyll-seo-tag gem
+#  Read all instructions for this gem on
+#  https://github.com/jekyll/jekyll-seo-tag
+
+twitter:
+  username: phlow
+
+# facebook:
+#   app_id: 1234
+#   publisher: 1234
+#   admins: 1234
+
+social:
+  name: Phlow
+  links:
+    - https://twitter.com/phlow
+    - https://www.facebook.com/phlow.media
+    - http://github.com/phlow
+    - http://soundcloud.com/phlow
+    - https://www.instagram.com/phlowmedia/
+    - http://www.mixcloud.com/phlow/
+webmaster_verifications:
+#  google:
+#  bing:
+#  alexa:
+#  yandex:
+author:
+  twitter: phlow
+
+
+
+#       ____       ____            ____
+#      / __ \___  / __/___ ___  __/ / /_
+#     / / / / _ \/ /_/ __ `/ / / / / __/
+#    / /_/ /  __/ __/ /_/ / /_/ / / /_
+#   /_____/\___/_/  \__,_/\__,_/_/\__/
+#
+# Default Settings
+
+defaults:
+  -
+    scope:
+      path: ''            # an empty string here means all files in the project
+      type: 'pages'
+    values:
+      layout: page        # Set default layout to page
+      # metainfo: FALSE   # If you don't want meta-information under posts
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: post        # Set default layout to page
+      # metainfo: FALSE   # If you don't want meta-information under posts

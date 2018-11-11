@@ -1,0 +1,17 @@
+{% if page.metainfo == TRUE %}
+<footer>
+	<p class="post-meta">
+		<small><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">– {{ page.date | date: "%b %-d, %Y" }}</time></small>
+
+		<span class="social-icon"><a href="https://www.youtube.com/user/PhlowMedia">{% include svg-social-media/youtube.svg %}</a></span>
+		<span class="social-icon"><a href="https://www.instagram.com/phlowmedia/">{% include svg-social-media/instagram.svg %}</a></span>
+		<span class="social-icon"><a href="https://twitter.com/phlow/">{% include svg-social-media/twitter.svg %}</a></span>
+		<span class="social-icon"><a href="https://github.com/Phlow">{% include svg-social-media/github.svg %}</a></span>
+
+		<br>
+		{% if site.author %}
+		<small><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.author }}</span></span> – {{ site.author_description }}</small>
+		{% endif %}
+	</p>
+</footer>
+{% endif %}

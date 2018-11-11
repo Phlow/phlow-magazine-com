@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header>
+    {% if page.image.title %}
+    <figure>
+      <img src="{{ site.url }}{{ site.baseurl }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+
+      {% if page.image.url and page.image.caption %}
+      <figcaption>
+        <a href="{{ page.image.url }}">{{ page.image.caption }}</a>
+      </figcaption>
+      {% elsif page.image.caption %}
+      <figcaption>
+        {{ page.image.caption }}
+      </figcaption>
+      {% endif %}
+    </figure>
+    {% endif %}
+
+    {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
+    <h1 itemprop="name headline">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% include helper/meta-information.html %}
+  {% include helper/disqus_comments.html %}
+</article>
