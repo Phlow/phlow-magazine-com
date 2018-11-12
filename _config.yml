@@ -9,6 +9,7 @@ author_description  : Phlow made this theme for you. Phlow is a little one-man-a
 # Build settings
 markdown: kramdown
 destination         : ./_1_BUILD_phlow-magazine_com
+excerpt_separator   : <!--more-->
 
 
 #      ______                           ______          __          __
@@ -63,8 +64,6 @@ webmaster_verifications:
 #  bing:
 #  alexa:
 #  yandex:
-author:
-  twitter: phlow
 
 
 

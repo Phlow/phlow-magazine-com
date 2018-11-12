@@ -1,0 +1,6 @@
+<div class="toc-article" markdown="1">
+{{ include.title | default: 'Inhaltsverzeichnis' }}
+{: #toc }
+*  TOC
+{:toc}
+</div>

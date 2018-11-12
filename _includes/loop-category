@@ -1,0 +1,12 @@
+{% comment %}
+*
+*  This loop loops through a category of your choice and lists
+*  all entries. To address the category of your linking use the
+*  include like this:
+*
+*  {% include loop-category category='webdesign' %}
+*
+{% endcomment %}
+
+{% for entry in site.categories[include.category] reversed %}
+{% unless page.published == false %}<li><a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" title="{{ entry.title | escape }}">{{ entry.title | escape }}</a></li>{% endunless %}{% endfor %}

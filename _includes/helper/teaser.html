@@ -1,0 +1,30 @@
+{% comment %}
+#
+#   Explanation:
+#
+#   This include splits the content of {{ content }} into
+#   two parts if Jekyll finds an excerpt separator. This allows
+#   extra styling of the first part to enlarge the the fontsize
+#   of the teaser for example.
+#
+#   The excerpt separator can be defined directly in your
+#   _config.yml or via front matter. If no separator is defined
+#   Jekyll will fall back to the default separator <!--more-->.
+#   If no separator is set, Jekyll just spits out the content
+#   without splitting.
+#
+{% endcomment %}
+{% capture page_content %}{{ content }}{% endcapture %}
+{% if site.excerpt_separator %}{% assign separator = site.excerpt_separator %}{% else %}{% assign separator = '<!--more-->' %}{% endif %}
+
+{% if page_content contains separator %}
+  {% assign entry = page_content | split: separator %}
+
+  {{ entry | first | remove: '<p>' | prepend: '<p class="lead">' }}
+
+  {% include helper/ad_rectangle.html %}
+  {{ entry | last }}
+
+{% else %}
+  {{ page_content }}
+{% endif %}

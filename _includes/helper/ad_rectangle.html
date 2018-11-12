@@ -1,0 +1,13 @@
+{% if page.ad != false and site.data.ads.article_ad != null %}
+  {% if site.data.ads.article_ad.script %}
+    <div class="border-dotted text-center">
+    {{ site.data.ads.article_ad.script }}
+    </div>
+  {% else %}
+  <div class="border-dotted text-center">
+      <a href="{{ site.data.ads.article_ad.url }}" title="{{ site.data.ads.article_ad.title }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}{{ site.data.ads.article_ad.image }}" alt="{{ site.data.ad.footer-ad.title }}"></a>
+  </div>
+  {% endif %}
+
+
+{% endif %}

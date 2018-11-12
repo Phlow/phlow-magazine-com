@@ -1869,7 +1869,13 @@
 <lastmod>2017-02-15T13:21:08+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/info/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/images/12rec050_artists.htm</loc>

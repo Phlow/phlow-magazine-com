@@ -1,0 +1,5 @@
+<ol>
+{% for track in page.mp3 %}
+<li><a target="_blank" href="{{ track.url }}" title="Click to download {{ track.title | escape }} MP3">{{ track.title | escape }}</a></li>
+{% endfor %}
+</ol>

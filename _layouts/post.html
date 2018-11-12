@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header>
+  <header class="post-header">
     {% if page.image.title %}
     <figure>
       <img src="{{ site.url }}{{ site.baseurl }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
@@ -20,14 +20,16 @@ layout: default
     </figure>
     {% endif %}
 
-    {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
-    <h1 itemprop="name headline">{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    <!-- Genererate content -->
+    {% include helper/teaser.html %}
+
+    {% include download %}
   </div>
 
-  {% include helper/meta-information.html %}
-  {% include helper/disqus_comments.html %}
+  {% include helper/meta-info.html %}
 </article>

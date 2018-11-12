@@ -1,0 +1,7 @@
+.jekyll-metadata
+_1_BUILD_phlow-magazine_com/
+_site/
+_1_BUILD_site/
+.DS_Store
+.sass-cache/
+Gemfile.lock
