@@ -1,6 +1,7 @@
 ---
 image:
-  title: 
+  title: /images/phlow-monster-mixtape-2009.jpg
+  caption: 'Foto: <a href="http://www.flickr.com/photos/tjt195/" target="_blank">www.flickr.com/photos/tjt195/</a>'
 title: 'Phlow Monster Mixtape – Best of 2009'
 date: 2010-11-27T15:49:42+00:00
 author: Moritz »mo.« Sauer
@@ -8,12 +9,6 @@ permalink: /mp3-music-download/free-compilation/1578-phlow-monster-mixtape-best-
 categories:
   - Compilation
 ---
-
-
-<p style="text-align: right;">
-  <small>Foto: <a href="http://www.flickr.com/photos/tjt195/" target="_blank">www.flickr.com/photos/tjt195/</a></small>
-</p>
-
 We wave the **Creative Commons Music** Year 2009 a lovely 'Goodbye' with our **Phlow Monster Mixtape**. Listen to 9 hours, 38 minutes and 35 seconds of music compiled by 24 netaudio heads from all around the world during december 2009. Of course you can download the **[1.3 GIG-heavy gift in a ZIP](http://www.archive.org/compress/The_Best_Creative_Commons_Music_Moments_in_2009)** to get the free mp3 music plus all individual playlists from [our archive.org website](http://www.archive.org/details/The_Best_Creative_Commons_Music_Moments_in_2009) or just stream it by clicking on the tape.
 
 ## List of all the charts and participants

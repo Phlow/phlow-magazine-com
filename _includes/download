@@ -1,4 +1,6 @@
+{% if page.download == NULL %}
 <h2>{% for cat in page.categories %}{{ cat }} {% endfor %} MP3 Music Download</h2>
+{% endif %}
 
 {% if page.download.zip_url %}
 <p><a target="_blank" href="{{ page.download.zip_url }}" class="button radius" title="{{ page.download.title | escape }}">Download{% if page.download.title %} {{ page.download.title | escape }}{% endif %}</a></p>

@@ -1,6 +1,6 @@
 ---
 image:
-  title: 
+  title: /images/a-fistful-of-dub-compilation.jpg
 title: 'Phlow Jahtari Mixtape – »A Fistful Of Dub«'
 date: 2009-11-12T17:06:59+00:00
 author: Moritz »mo.« Sauer

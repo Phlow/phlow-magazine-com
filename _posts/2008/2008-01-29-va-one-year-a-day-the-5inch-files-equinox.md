@@ -1,7 +1,7 @@
 ---
 image:
   title: /images/equimod.jpg
-title: 'V.A. – »One Year &#038; A Day- The 5inch Files« (Equinox)'
+title: 'V.A. – »One Year« A Day- The 5inch Files« (Equinox)'
 date: 2008-01-29T05:39:24+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/254-va-one-year-a-day-the-5inch-files-equinox

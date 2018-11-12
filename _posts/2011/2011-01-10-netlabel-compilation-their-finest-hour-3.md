@@ -1,8 +1,10 @@
 ---
 image:
-  title: 
+  title: /images/cover-their-finest-hour-3-500x500.jpg
+  caption: 'Photo: <a href="http://flickr.com/photos/tjt195/">Taro Taylor</a>'
+subtitle: 'Music for the open-minded'
 title: 'Best Of Netlabels: »Their Finest Hour Vol. 3«'
-date: 1970-01-01T01:00:00+00:00
+date: 2011-01-10-01T01:00:00+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/free-compilation/411-netlabel-compilation-their-finest-hour-3
 categories:
@@ -15,12 +17,19 @@ tags:
   - music
   - netlabel
   - phlow compilation
-image:
-  title: /images/cover-their-finest-hour-3-500x500.jpg
+download:
+  zip_url      : http://www.archive.org/download/their_finest_hour_vol3/their_finest_hour_vol3_vbr_mp3.zip
+  title        : '"Their Finest Hour - Vol. 3"'
+  release_url  : http://www.archive.org/details/their_finest_hour_vol3/their_finest_hour_vol3
+mp3:
+  - title : ''
+    url   : 
+  - title : ''
+    url   : 
+  - title : ''
+    url   : 
 ---
-**Music for the open-minded** // We don't care about genres! Of course, we cultivate our preferences like everyone. But we try to stay open-minded as possible as we can. Convinced that **the only way to discover new worlds is to share**, to communicate and to listen to each other, we proudly present you the [third edition of our Phlow-Netlabel-Serie]({{ site.url }}{{ site.baseurl }}/mp3-music-download/free-compilation/411-netlabel-compilation-their-finest-hour-3). We dived into the deep ocean of free music and came back with this adventurous compilation. Explore with us music from all over the globe, from Indie-Pop to Techno to Drum'n'Bass to Ambient.<!--more-->
-
-<!--adsense-->
+We don't care about genres! Of course, we cultivate our preferences like everyone. But we try to stay open-minded as possible as we can. Convinced that **the only way to discover new worlds is to share**, to communicate and to listen to each other, we proudly present you the [third edition of our Phlow-Netlabel-Serie]({{ site.url }}{{ site.baseurl }}/mp3-music-download/free-compilation/411-netlabel-compilation-their-finest-hour-3). We dived into the deep ocean of free music and came back with this adventurous compilation. Explore with us music from all over the globe, from Indie-Pop to Techno to Drum'n'Bass to Ambient.<!--more-->
 
 ## mo.'s little note
 
@@ -31,10 +40,6 @@ As always we tried hard to combine the most impressive music-moments to one phlo
 Greets from Cologne/Germany, Yours mo.
 
 ## Playlist "Their Finest Hour Vol. 3"
-
-![Cover Artwork - Their Finest Hour Vol 3 (500×500)]({{ site.url }}{{ site.baseurl }}/images/cover-their-finest-hour-3-500x500.jpg)
-
-<small>Photo: <a href="http://flickr.com/photos/tjt195/">Taro Taylor</a></small>
 
   1. ["My Blue Plane (soto version)" from Soto]({{ site.url }}{{ site.baseurl }}/mp3-music-download/pop/265-soto-soto-ep-creation-centre)
   2. ["Did The Red Sea Part?" from Ghost Bees]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/396-various-52-weeks-winter-peppermill-records)
@@ -56,7 +61,6 @@ Greets from Cologne/Germany, Yours mo.
 
 Listen & Stream: [Start Playlist now!](http://www.archive.org/download/their_finest_hour_vol3/their_finest_hour_vol_3_playlist.m3u)
   
-Download: ["Their Finest Hour - Vol. 3" (ZIP)](http://www.archive.org/download/their_finest_hour_vol3/their_finest_hour_vol3_vbr_mp3.zip)
   
 Cover: [Download our Cover Artwork - Their Finest Hour Vol 3]({{ site.url }}{{ site.baseurl }}/images/cover-their-finest-hour-3-720x720.jpg "Cover Artwork - Their Finest Hour Vol 3")
 
