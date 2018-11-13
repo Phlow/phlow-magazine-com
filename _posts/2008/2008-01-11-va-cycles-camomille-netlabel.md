@@ -31,6 +31,6 @@ Never mind the name-dropping. I like especially the tracks with vocals composed 
 
 ## MP3 IDM Ambient Music Download
 
-Release-Download: [V.A. - Cycles](http://de.scene.org/pub/music/groups/camomille/cam100-va-cycles.zip)
+Release-Download: [V.A. - Cycles](http://ftp.scene.org/pub/music/groups/camomille/cam100-va-cycles.zip)
   
 Website: [Camomille Netlabel](http://camomille.genshimedia.com/)

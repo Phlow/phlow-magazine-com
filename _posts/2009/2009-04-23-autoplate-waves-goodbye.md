@@ -10,7 +10,7 @@ categories:
 ---
 ***Exclusive Compilation and Interview with Sebastian Redenz*** // From 2001 to 2008, Autoplate was the experimental subdivision of Thinner Netlabel. 50 high quality releases in eight years, the label was officially shut down three months ago with a beautiful EP by Russian Ambient outlet Slow. Time for us to get Sebastian Redenz in for a talk to shine a light on the Autoplate history and find out why the label had to cancel operation while Thinner is alive and kicking.
 
-Slow - "Morning Love": <a href="http://de.scene.org/pub/music/groups/thinner/autoplate/%5Bapl050%5D-320-01-slow_-_morning_love.mp3" target="new">Download</a>
+Slow - "Morning Love": <a href="http://ftp.scene.org/pub/music/groups/thinner/autoplate/%5Bapl050%5D-320-01-slow_-_morning_love.mp3" target="new">Download</a>
 
 <!--more-->
 

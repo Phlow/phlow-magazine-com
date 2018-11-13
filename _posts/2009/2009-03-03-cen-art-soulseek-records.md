@@ -22,7 +22,7 @@ tags:
 ---
 ***Chill Out Compilation*** // Once upon a time Soulseek was the filesharing platform for real music lovers. Maybe it is still today... I lost track but what I kept in mind is this wonderful project called Soulseek Records. A project coordinated by musicians who connected through the platform, shared their taste and last not least made some compilations together. One of those compilations is called "Cen Art".
 
-<a href="http://de.scene.org/pub/music/groups/soulseek_records/releases/slsk003_va_-_cenart_compilation/01_essell_-_daydream.mp3" target="new">essell "daydream" (MP3)</a>
+<a href="http://ftp.scene.org/pub/music/groups/soulseek_records/releases/slsk003_va_-_cenart_compilation/01_essell_-_daydream.mp3" target="new">essell "daydream" (MP3)</a>
   
 <!--more-->
 
@@ -36,7 +36,7 @@ The web is made for sharing, so enjoy this little contemporary piece of net art.
 
 ## MP3 Chill Out Music Download
 
-**Download:** [Various - "Cen Art" (FTP)](http://de.scene.org/pub/music/groups/soulseek_records/releases/slsk003_va_-_cenart_compilation/)
+**Download:** [Various - "Cen Art" (FTP)](http://ftp.scene.org/pub/music/groups/soulseek_records/releases/slsk003_va_-_cenart_compilation/)
   
 **Release:** [Various - "Cen Art"](http://soulseekrecords.org/releases/slsk003_va_-_cenart/)
   

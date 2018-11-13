@@ -22,7 +22,7 @@ tags:
 
 <!--adsense-->
 
-Since I discovered Comfort Fit on [Tokyo Dawn (FTP)](http://de.scene.org/pub/music/groups/tokyodawn/) I felt in love with each new production. I admire Comfort Fit for his production skills and passionate love for HipHop-Music. But while other musicians copy old patterns, Comfort Fit explores new paths. In his "Yellow Snow"-Mix you listen to a exciting fusion of jazz, minimal techno-inspired sounds and of course broken beats. With each listen you discover new sounds, twists and melodies. Five stars! Keep your head up, and dig this!
+Since I discovered Comfort Fit on [Tokyo Dawn (FTP)](http://ftp.scene.org/pub/music/groups/tokyodawn/) I felt in love with each new production. I admire Comfort Fit for his production skills and passionate love for HipHop-Music. But while other musicians copy old patterns, Comfort Fit explores new paths. In his "Yellow Snow"-Mix you listen to a exciting fusion of jazz, minimal techno-inspired sounds and of course broken beats. With each listen you discover new sounds, twists and melodies. Five stars! Keep your head up, and dig this!
 
 The mix was originally mixed for [mondayjazz.com](http://mondayjazz.com/) and is **not** released under a creative commons.
 

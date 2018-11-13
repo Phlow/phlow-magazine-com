@@ -26,11 +26,11 @@ tags:
 ---
 ***All-round Indiepop*** // Monokle finally released their third album. While "Ideas Aloud" from 2007 vanished with ElektroSound, "Teasurus" found a safe home at well-established Ideology Netlabel. Moving from melodic Electronica to [inspired electronic Pop- and Rock music]({{ site.url }}{{ site.baseurl }}/mp3-music-download/electronica-indietronic/1170-monokle-teasaurus-ideology), the Russian duo took a big step towards getting seriously awesome.
 
-<a href="http://de.scene.org/pub/music/groups/ideology/id053/id053_06_-_monokle-friday.mp3" target="new">Monokle - "Friday" (MP3)</a>
+<a href="http://ftp.scene.org/pub/music/groups/ideology/id053/id053_06_-_monokle-friday.mp3" target="new">Monokle - "Friday" (MP3)</a>
   
-<a href="http://de.scene.org/pub/music/groups/ideology/id053/id053_07_-_monokle-magic_go%21.mp3" target="new">Monokle - "Magic Go!" (MP3)</a>
+<a href="http://ftp.scene.org/pub/music/groups/ideology/id053/id053_07_-_monokle-magic_go%21.mp3" target="new">Monokle - "Magic Go!" (MP3)</a>
   
-<a href="http://de.scene.org/pub/music/groups/ideology/id053/id053_04_-_monokle-seven.mp3" target="new">Monokle - "Seven" (MP3)</a>
+<a href="http://ftp.scene.org/pub/music/groups/ideology/id053/id053_04_-_monokle-seven.mp3" target="new">Monokle - "Seven" (MP3)</a>
 
 <!--more-->
 

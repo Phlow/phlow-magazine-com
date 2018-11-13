@@ -25,4 +25,4 @@ Netlabel: [www.mono211.com/content/releases/mtkmp189.html](http://www.mono211.co
   
 Release-Download: [Malty Media - Bracken Bed EP](http://www.archive.org/details/mtk189)
   
-FTP-Download: <http://de.scene.org/pub/music/groups/mono/mp3/>
+FTP-Download: <http://ftp.scene.org/pub/music/groups/mono/mp3/>

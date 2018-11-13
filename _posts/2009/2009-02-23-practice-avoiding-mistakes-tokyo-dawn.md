@@ -33,6 +33,6 @@ _"Free Your Mind and Intelligence will follow!"_ Word up!
 
 ## MP3 Soul Music Download
 
-**Download:** <a href="http://de.scene.org/pub/music/groups/tokyodawn/tdr03-practice_avoiding_mistakes/" target="_blank">Various - "Practice Avoiding Mistakes"</a>
+**Download:** <a href="http://ftp.scene.org/pub/music/groups/tokyodawn/tdr03-practice_avoiding_mistakes/" target="_blank">Various - "Practice Avoiding Mistakes"</a>
   
 **Netlabel:** <a href="http://www.tokyodawn.net" target="_blank">Tokyo Dawn Records</a>

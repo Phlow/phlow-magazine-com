@@ -19,11 +19,11 @@ tags:
 ---
 ***Australian Trip Hop Vibes*** // [Velure is a quintet]({{ site.url }}{{ site.baseurl }}/mp3-music-download/trip-hop/350-velure-songbox-ideology) in the footsteps of Massive Attack, Goldfrapp, or Portishead. With muscled beats ranging from Hip Hop to Drum'n'Bass Velure make a stand and and crawl slowly under our skin. If I listen to this netaudio classic I always get caught by the haunting voice of Lynnelle Moran. Like a princess she spends velure a magic touch.
 
-[Velure - "Walk Home" (MP3)](http://de.scene.org/pub/music/groups/ideology/id010/id010_01_-_velure-walk_home.mp3)
+[Velure - "Walk Home" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id010/id010_01_-_velure-walk_home.mp3)
   
-[Velure - "Resonate" (MP3)](http://de.scene.org/pub/music/groups/ideology/id010/id010_05_-_velure-resonate.mp3)
+[Velure - "Resonate" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id010/id010_05_-_velure-resonate.mp3)
   
-[Velure - "Birdy" (MP3)](http://de.scene.org/pub/music/groups/ideology/id010/id010_04_-_velure-birdy.mp3)
+[Velure - "Birdy" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id010/id010_04_-_velure-birdy.mp3)
 
 <!--more-->
 
@@ -37,7 +37,7 @@ The only downside of "Songbox" is that we still miss a follow-up. These five acc
 
 ## MP3 Trip Hop Music Download
 
-Download: [FTP-Download](http://de.scene.org/pub/music/groups/ideology/id010)
+Download: [FTP-Download](http://ftp.scene.org/pub/music/groups/ideology/id010)
   
 Release: [Velure - "Songbox"](http://www.ideology.de/archives/audio000074.php)
   

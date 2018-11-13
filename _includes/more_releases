@@ -1,7 +1,7 @@
 {% assign size = page.content | size %}
-{% assign random = "now" | date: "%S" | modulo:size %}
+{% assign random = "now" | date: "%S" | modulo:size | at_least: 9 %}
 {% assign sorted-posts = site.posts | where: "categories",page.categories[0] %}
-{{ random | at_least: 9 }}
+
 <h3>More {{ page.categories[0] }} Music</h3>
 <ul class="no-bullet grid col-4 bem2">
 {% assign counter = 0 %}

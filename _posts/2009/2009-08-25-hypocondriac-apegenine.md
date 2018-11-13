@@ -21,7 +21,7 @@ tags:
 ---
 ***One-Song-Feature*** // OK, Today I have to share only one song with you: "Possibilities". I found the track on the average compilation "apegenine volume two" released by the apegenine Label. "Possibilities" from Henrik Jose totally blows me away with its pop-appeal, idm-ish sounds and a beautiful voice. Since I discoverd Henrik Jose on the ["Cycles" compilation by Camomille]({{ site.url }}{{ site.baseurl }}/mp3-music-download/electronica-indietronic/241-va-cycles-camomille-netlabel) I am a huge fan.
 
-[Henrik Jose "Possibilities" (MP3)](http://de.scene.org/pub/music/groups/camomille/%5bapg008%5d_17-henrik_jose-possibilities.mp3)
+[Henrik Jose "Possibilities" (MP3)](http://ftp.scene.org/pub/music/groups/camomille/%5bapg008%5d_17-henrik_jose-possibilities.mp3)
 
 <!--more-->
 

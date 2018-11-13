@@ -18,15 +18,15 @@ tags:
 ---
 ***Colourful Experimental Techno*** // Techno-Tracks by [Sudio]({{ site.url }}{{ site.baseurl }}/tag/sudio) twist all the time. The scientist in Sudio, cuts, filters, combines and experiments continously with sounds, loops and beats. His productions float in a permanent mutation and while you get a grip on a new groove, be sure it will change in the next seconds to evolve into something new.
 
-[Sudio - "Electrospray" (MP3)](http://de.scene.org/pub/music/groups/ideology/id040/id040_01_-_sudio-electrospray.mp3)
+[Sudio - "Electrospray" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id040/id040_01_-_sudio-electrospray.mp3)
   
-[Sudio - "Barbecue Slam" (MP3)](http://de.scene.org/pub/music/groups/ideology/id040/id040_02_-_sudio-barbecue_slam.mp3)
+[Sudio - "Barbecue Slam" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id040/id040_02_-_sudio-barbecue_slam.mp3)
   
-[Sudio - "Fundamental Oscilation" (MP3)](http://de.scene.org/pub/music/groups/ideology/id040/id040_03_-_sudio-fundamental_oscillation.mp3)
+[Sudio - "Fundamental Oscilation" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id040/id040_03_-_sudio-fundamental_oscillation.mp3)
   
-[Sudio - "This is Awareness (Remix)" (MP3)](http://de.scene.org/pub/music/groups/ideology/id040/id040_04_-_sudio-this_is_awareness_(lagavulin_remix).mp3)
+[Sudio - "This is Awareness (Remix)" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id040/id040_04_-_sudio-this_is_awareness_(lagavulin_remix).mp3)
   
-[Sudio - "Pulsed Deflection" (MP3)](http://de.scene.org/pub/music/groups/ideology/id040/id040_05_-_sudio-pulsed_deflection.mp3)
+[Sudio - "Pulsed Deflection" (MP3)](http://ftp.scene.org/pub/music/groups/ideology/id040/id040_05_-_sudio-pulsed_deflection.mp3)
 
 <!--more-->
 

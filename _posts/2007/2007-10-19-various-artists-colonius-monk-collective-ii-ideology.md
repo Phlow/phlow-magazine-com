@@ -24,6 +24,6 @@ Cologne might be famous for Kraut Rock and the Cologne Cathedral, but very few p
 
 Release-Site: [Various Artists - Colonius Monk Collective II](http://www.ideology.de/archives/audio000168.php "Colonius Monk Collective II @ Ideology")
   
-Release-Download: [Colonius Monk Collective II](http://de.scene.org/pub/music/groups/ideology/id037/)
+Release-Download: [Colonius Monk Collective II](http://ftp.scene.org/pub/music/groups/ideology/id037/)
   
 Netlabel: [www.ideology.de](http://www.ideology.de "Ideology Website")

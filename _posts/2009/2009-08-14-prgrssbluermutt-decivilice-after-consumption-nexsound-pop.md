@@ -29,9 +29,9 @@ tags:
 ---
 ***Electronic Pop Music from Italy's Finest*** // For nearly one year, I have been [waiting for this album]({{ site.url }}{{ site.baseurl }}/music-marketing-promotion/231-demand-note-bluermutt-decivilize-after-consumption). I asked Andrey of Nexsound for "Decivilice After Consumption" when I informed him about the review I wrote for [his latest record]({{ site.url }}{{ site.baseurl }}/mp3-music-download/techno/728-andrey-kiritchenko-sinemagiq)- and he told me that the album is done already and waiting to be released. After Giovanni's first album was free for download, "Decivilice" comes off as a beautifully wrapped CD.
 
-[Bluermutt - "Before Going To Bed" (MP3)](http://de.scene.org/pub/music/groups/nexsound/cd_samples/bluermutt-before_going_to_bed.mp3)
+[Bluermutt - "Before Going To Bed" (MP3)](http://ftp.scene.org/pub/music/groups/nexsound/cd_samples/bluermutt-before_going_to_bed.mp3)
   
-[Bluermutt - "Fashion Arithmetics" (MP3)](http://de.scene.org/pub/music/groups/nexsound/cd_samples/bluermutt-fashion_arithmetics.mp3)
+[Bluermutt - "Fashion Arithmetics" (MP3)](http://ftp.scene.org/pub/music/groups/nexsound/cd_samples/bluermutt-fashion_arithmetics.mp3)
 
 <!--more-->
 

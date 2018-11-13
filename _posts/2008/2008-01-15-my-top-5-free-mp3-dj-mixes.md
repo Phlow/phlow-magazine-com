@@ -27,13 +27,13 @@ tags:
 
 [Elliptic](http://www.elliptic-online.de/) normally prefers mixing and producing Drum'n'Bass. Still finding Drum'n'Bass-tunes on the web is a difficult and long journey. That's why Elliptic chose to mix sweet, lush and melodic Dub-House and Dub-Techno. His set called ["Digital Drive"](http://www.ideology.de/archives/audio000109.php) expands into a groovy trip through the free land of 4-to-the-floor.
 
-Mix-Download: [Elliptic - "Digital Drive"](http://de.scene.org/pub/music/groups/ideology/mix/idmix001_-_elliptic-digital_drive.mp3)
+Mix-Download: [Elliptic - "Digital Drive"](http://ftp.scene.org/pub/music/groups/ideology/mix/idmix001_-_elliptic-digital_drive.mp3)
 
 ## jm_ - "ASC." (Subsource)
 
 If you enjoy digging astrology, you know that ASC. is the abbreviation for Ascendant. But never mind, this mix has nothing to do with obscure new-age-shit. The subsource-mix by Jean-Michel is much deeper than some small-talk about live, and let everything free... His mix escorts you into another world. Into a world full of ambient, with subtle changes, lots of imaginated pictures and a humble feeling just to listen. I like this mix because I don't listen offen so carefully chosen music. Jean-Michel webs for us an intense ambient-mix like Haruki Murakami writes fantastic novels.
 
-Mix-Download: ["jm_ - ASC."](http://de.scene.org/pub/music/groups/subsource/mix/submix031_jm-asc.mp3)
+Mix-Download: ["jm_ - ASC."](http://ftp.scene.org/pub/music/groups/subsource/mix/submix031_jm-asc.mp3)
   
 Release-Notes and [Playlist on subsource.de](http://subsource.de/submix/031/submix031.html).
 

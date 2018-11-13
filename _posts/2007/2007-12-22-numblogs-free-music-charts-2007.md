@@ -21,7 +21,7 @@ New Urban Music Blog is a german weblog dedicated to all things jazz, broken bea
 
 ### NUMBlog's Songs Top 5
 
-The song from Authist & Dub One! called "Chessbase Dub (feat. Fritz 8)" can't be linked to our player, [download it here](http://de.scene.org/pub/music/groups/ideology/id034/id034_02_-_authist&dub_one_(feat_fritz_8)-chessbase_dub.mp3).
+The song from Authist & Dub One! called "Chessbase Dub (feat. Fritz 8)" can't be linked to our player, [download it here](http://ftp.scene.org/pub/music/groups/ideology/id034/id034_02_-_authist&dub_one_(feat_fritz_8)-chessbase_dub.mp3).
 
 You find the songs above on these netlabesl: [12rec.net](http://12rec.net), [Aquavelvas](http://www.aquavelvas.com), [ideology.de](http://ideology.de), [aerotone.net](http://aerotone.net) and [Sichtbeton on archive.org](http://www.archive.org/details/AnabelleUndKarsten-SichtbetonFeat.Tillevision).
 

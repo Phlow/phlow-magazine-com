@@ -28,9 +28,9 @@ tags:
 
 
   
-[aleksi virta - "o tema de viagem especial" (MP3)](http://de.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-07-o-tema-da-viagem-espacial-da-carolina.mp3)
+[aleksi virta - "o tema de viagem especial" (MP3)](http://ftp.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-07-o-tema-da-viagem-espacial-da-carolina.mp3)
   
-[aleksi virta - "whirlwind pistols dub" (MP3)](http://de.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-06-whirlwind-pistols-dub.mp3)
+[aleksi virta - "whirlwind pistols dub" (MP3)](http://ftp.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-06-whirlwind-pistols-dub.mp3)
   
 <!--mp3linksend-->
 
@@ -55,5 +55,5 @@ PS: Thanks to our writer [Martin aka 020200]({{ site.url }}{{ site.baseurl }}/ab
 **Netlabel:** [Monotonik](http://www.monotonik.com)
 
 <div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">
-  http://de.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-06-whirlwind-pistols-dub.mp3
+  http://ftp.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-06-whirlwind-pistols-dub.mp3
 </div>

@@ -22,9 +22,9 @@ image:
 ---
 ***HiFi Techno*** // [Sudio]({{ site.url }}{{ site.baseurl }}/tag/sudio) is one of my favorite Netaudio producers around. He likes to produce complex electronic music. With his release "Strange Attractors" he delivers four colourful techno tracks where he jams around with his filters, effects and software in general. For purists who like straightforward techno, this is sometimes surely to much. I dig it.
 
-[Sudio "Sonic Impact"](http://de.scene.org/pub/music/groups/ideology/id055_-_sudio-strange_attractors-ep/mp3/id055_01_-_sudio-sonic_impact.mp3)
+[Sudio "Sonic Impact"](http://ftp.scene.org/pub/music/groups/ideology/id055_-_sudio-strange_attractors-ep/mp3/id055_01_-_sudio-sonic_impact.mp3)
   
-[Sudio "Ion Funnel"](http://de.scene.org/pub/music/groups/ideology/id055_-_sudio-strange_attractors-ep/mp3/id055_02_-_sudio-ion_funnel.mp3)
+[Sudio "Ion Funnel"](http://ftp.scene.org/pub/music/groups/ideology/id055_-_sudio-strange_attractors-ep/mp3/id055_02_-_sudio-ion_funnel.mp3)
 
 <!--more-->
 
@@ -36,7 +36,7 @@ If you're a DJ, maybe these tracks ask to much to clubbers. It's like playing Fu
 
 ## MP3 Techno Music Download
 
-**Download:** [Sudio - Strange Attractors (ZIP-Archive)](http://de.scene.org/pub/music/groups/ideology/id055_-_sudio-strange_attractors-ep/zip/id055_mp3.zip)
+**Download:** [Sudio - Strange Attractors (ZIP-Archive)](http://ftp.scene.org/pub/music/groups/ideology/id055_-_sudio-strange_attractors-ep/zip/id055_mp3.zip)
   
 **Release:** [Sudio - "Strange Attractors"](http://www.ideology.de/archives/audio000225.php)
   

@@ -27,10 +27,10 @@ If you listen to the Batfinks from the Hippocamp Netlabel it won't be easy. On t
 
 ## MP3 Electronica Music Download
 
-MP3-Download: [Batfinks – the one towards the garrick from the bird EP](http://de.scene.org/pub/music/groups/hippocamp/hc022/)
+MP3-Download: [Batfinks – the one towards the garrick from the bird EP](http://ftp.scene.org/pub/music/groups/hippocamp/hc022/)
   
 MP3-Download: [Batfinks - "Peach Route"
   
-](http://de.scene.org/pub/music/groups/hippocamp/hc022/) MP3-Download: [Liveact @ Leeds STFU 18th March 2006](http://www.archive.org/details/hc165) [(ZIP)
+](http://ftp.scene.org/pub/music/groups/hippocamp/hc022/) MP3-Download: [Liveact @ Leeds STFU 18th March 2006](http://www.archive.org/details/hc165) [(ZIP)
   
 ](http://www.archive.org/download/hc165/leeds_stfu_180306_batfinks.mp3) Netlabel: [www.hippocamp.net](http://www.hippocamp.net)

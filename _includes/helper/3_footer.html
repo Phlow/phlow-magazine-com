@@ -1,10 +1,43 @@
-<footer id="footer" class="wrapper">
+<footer class="wrapper" id="site-footer">
+  <div class="tr"><span class="font-awesome-icon"><a href="{{ site.url }}{{ site.baseurl }}/feed.xml">{% include font-awesome-svg/rss.svg %}</a><a href="#masthead">{% include font-awesome-svg/arrow-up.svg %}</a></span></div>
+
+
   <div class="grid col-3">
-      <div></div>
-      <div></div>
-      <div class="tr">
-        <span class="font-awesome-icon"><a href="{{ site.url }}{{ site.baseurl }}/feed.xml">{% include font-awesome-svg/rss.svg %}</a><a href="#masthead">{% include font-awesome-svg/arrow-up.svg %}</a></span>
+      <div>
+        <div class="side-nav">
+          <p class="heading">About {{ site.title }}</p>
+          <p class="divider"></p>
+          <p>{{ site.description }}</p>
+        </div>
       </div>
+
+      <div>
+        <ul class="side-nav">
+        {% for col in site.data.footer.col2 %}
+        {% if forloop.first %}
+        <li class="heading">{{ col.heading }}</li>
+        <li class="divider"></li>
+        {% endif %}
+        <li><a href="{{ col.url }}">{{ col.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+
+      <div>
+        <ul class="side-nav">
+        {% for col in site.data.footer.col3 %}
+        {% if forloop.first %}
+        <li class="heading">{{ col.heading }}</li>
+        <li class="divider"></li>
+        {% endif %}
+        <li><a href="{{ col.url }}">{{ col.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+
+
+
+
   </div>
 </footer>
 {% include helper/google-analytics.html %}

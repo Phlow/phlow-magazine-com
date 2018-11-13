@@ -18,4 +18,4 @@ First track [Viburnum Farreri](ftp://ftp.scene.org/pub/music/groups/thinner/auto
 
 ## MP3 Ambient Music Download
 
-Release: [Klotzsch & Sudermann - Holzlaub (ZIP)](http://de.scene.org/pub/music/groups/thinner/autoplate/zip/%5bapl042%5d-klotzsch_&_sudermann_-_holzlaub.zip "Holzlaub @ Autoplate")
+Release: [Klotzsch & Sudermann - Holzlaub (ZIP)](http://ftp.scene.org/pub/music/groups/thinner/autoplate/zip/%5bapl042%5d-klotzsch_&_sudermann_-_holzlaub.zip "Holzlaub @ Autoplate")
