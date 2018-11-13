@@ -7,7 +7,6 @@ author: Bettina Rhymes
 permalink: /mp3-music-download/834-son-of-a-bricklayer-shades-of-grey-ground-floor
 categories:
   - Hip Hop
-  - MP3 Music Download
 tags:
   - download
   - Empire Guilt

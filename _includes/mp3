@@ -1,5 +1,7 @@
-<ol>
+<ul class="side-nav">
+<li class="heading">MP3 – Click to listen</li>
+<li class="divider"></li>
 {% for track in page.mp3 %}
 <li><a target="_blank" href="{{ track.url }}" title="Click to download {{ track.title | escape }} MP3">{{ track.title | escape }}</a></li>
 {% endfor %}
-</ol>
+</ul>

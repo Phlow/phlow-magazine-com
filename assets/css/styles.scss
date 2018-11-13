@@ -26,13 +26,19 @@ $global-radius        : 3px;
 $spacing-unit         : 30px;
 
 // Colors
+// https://github.com/chriskempson/tomorrow-theme
 $text                 : #111;
 $background           : #fdfdfd;
 $ci-1                 : #fabb00;   // brand color
+$ci-2                 : #600;   // brand color
 $line                 : #ddd;
 $grey                 : #828282;
 $grey-light           : #ddd;
 $grey-dark            : #aaa;
+$alert-color          : #aa0132;
+$success-color        : #6a9519;
+$warning-color        : #f29400;
+$info-color           : #0085ba;
 
 // Media Queries
 $content-width        : 1000px;

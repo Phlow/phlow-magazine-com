@@ -7,7 +7,6 @@ author: Bettina Rhymes
 permalink: /mp3-music-download/922-bettinas-favorite-netaudio-moments-in-2008
 categories:
   - Charts
-  - MP3 Music Download
 tags:
   - "2008"
   - best of

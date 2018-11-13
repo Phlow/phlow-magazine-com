@@ -7,7 +7,6 @@ author: Bettina Rhymes
 permalink: /mp3-music-download/890-joshua-twentythrees-favorite-netaudio-moments-2008
 categories:
   - Charts
-  - MP3 Music Download
 ---
 ***Advent Calendar Door 3*** // Joshua Twentythree is usually pretty busy; this is what he tells his friends so that he can bow gracefully out of social engagements. Not only is he the founder of netlabel Rope Swing Cities, he acts as a director, curator and performer for [www.communikey.us](http://www.communikey.us/) in Colorado and is now one of the owners of the [www.doperecordings.com](http://www.doperecordings.com/) digital record label. He believes in a life of art, beauty, love and exploration... and also of laughing when he sees someone hurt themselves.<!--more-->
 

@@ -8,7 +8,6 @@ permalink: /mp3-music-download/915-barry-rogers-best-of-netaudio-2008
 categories:
   - Charts
   - Downbeat
-  - MP3 Music Download
 tags:
   - best of 2008
   - Charts

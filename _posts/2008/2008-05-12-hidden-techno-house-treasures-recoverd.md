@@ -1,6 +1,6 @@
 ---
 image:
-  title: 
+  title: /images/cover-artwork-glander-vate-1bitwonder.jpg
 title: Hidden Techno-House-Treasures Recovered
 date: 2008-05-12T05:17:08+00:00
 author: Moritz »mo.« Sauer

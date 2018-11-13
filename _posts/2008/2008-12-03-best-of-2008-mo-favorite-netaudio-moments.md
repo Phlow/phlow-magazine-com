@@ -7,7 +7,6 @@ author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/885-best-of-2008-mo-favorite-netaudio-moments
 categories:
   - Charts
-  - MP3 Music Download
 ---
 ***Advent Calendar Door 2*** // "2008 was an incredible year for me to digg deeper into the world of netlabelism. Our magazine opened its leaves like a flower and each month I discovered more incredible music from different places on earth. One highlight in spring was the licence-clearing of six netlabel-tracks for a design conference in Berlin called <a href="http://www.typoberlin.de" target="_blank">Typo Berlin</a>. I got the chance to get some money and promotion for [Pirata]({{ site.url }}{{ site.baseurl }}/mp3-music-download/idm/308-pirata-minimental-pueblo-nuevo), [Apes on Tapes]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/283-apes-on-tapes-you-open-homework-records), [le mépris]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/129-le-mepris-le-mepris-aerotone), [Ambidextrous and Morkva]({{ site.url }}{{ site.baseurl }}/mp3-music-download/electronica-indietronic/311-ambidextrous-morkva-am-electrosound), [The Incognito Traveller]({{ site.url }}{{ site.baseurl }}/mp3-music-download/downbeat/326-the-incognito-traveller-the-incognito-traveller-ep-konfort-netlabel) and [The Raincoated Man]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/254-va-one-year-a-day-the-5inch-files-equinox). Thumbs up!<!--more-->
 

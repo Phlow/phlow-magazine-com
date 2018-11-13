@@ -1,29 +1,21 @@
 ---
 image:
   title: /images/superloader_cover008.jpg
+subtitle: Deep House
 title: 'Superloader – »Fusion« (Supafeed Netlabel)'
 date: 2011-01-01T03:01:46+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/1442-superloader-fusion-supafeed-netlabel
 categories:
   - House
+  - Techno
 tags:
   - Deephouse
   - House
   - supafeed
   - Superloader
-download:
-  zip_url: 
-  title  : ''
-mp3:
-- title : ''
-  url   : 
-- title : ''
-  url   : 
-- title : ''
-  url   : 
 ---
-**Deep House** // If you like Deep House Music with a juicy kickdrum and a relaxed mood, Supafeed is the netlabel of choice. Nearly every release sweets up the dancefloor. Superloader makes no exception and the power of his tunes - like his fellow mates on Supafeed - come from the stoic grooves, some little chords and the continous trippin on a mellow vibe.
+If you like Deep House Music with a juicy kickdrum and a relaxed mood, Supafeed is the netlabel of choice. Nearly every release sweets up the dancefloor. Superloader makes no exception and the power of his tunes - like his fellow mates on Supafeed - come from the stoic grooves, some little chords and the continous trippin on a mellow vibe.
 
 - Superloader - "Let if off!" (MP3)
 - Superloader - "Fusion" (MP3)

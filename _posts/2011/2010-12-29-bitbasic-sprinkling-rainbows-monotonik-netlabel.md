@@ -25,11 +25,11 @@ download:
   netlabel_url : 
   artist_url   : http://www.bitbasic.co.uk/
 mp3:
-  - title : 'realization'
+  - title : 'Realization'
     url   : https://archive.org/download/mtk213/mtk213-bitbasic-06-realization.mp3
-  - title : 'damaged beyond repair'
+  - title : 'Damaged Beyond Repair'
     url   : https://archive.org/download/mtk213/mtk213-bitbasic-12-damaged-beyond-repair.mp3
-  - title : 'aint no sunshine'
+  - title : 'Aint No Sunshine'
     url   : https://archive.org/download/mtk213/mtk213-bitbasic-13-aint-no-sunshine.mp3
 ---
 Bitbasic's new album Sprinkling Rainbows, released on Monotonik, delves deep into the world of smooth and funky Jazz stylings, in a follow up the 2007 "Grating Rainbows EP". This is an album of deft and clever combinations that soothe and then surprise the listener, as exquisite jazz chords and chromatics give way to drill and bass rasps and glitchy repetition, before falling luxuriously back into a pleasing bath of strings or mellow guitar. Bitbasic presents music that plays on the tensions between heavily quantized, truncated sound and free style playing; indulging in a playground of cut ups and programming.

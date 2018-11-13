@@ -17,9 +17,11 @@ Enjoy our free mp3 mixes with music licensed under a [creative commons](http://c
 {% for post in site.posts %}
 {% capture category %}{{ post.categories }}{% endcapture %}
 {% if category contains 'ompilation' %}
-<div class="card">
-<a href="{{ post.url | relative_url }}"><img src="{{ site.url }}{{ site.baseurl }}/{{ post.image.title }}" alt="{{ post.title | escape }}"></a>
+<a class="card" href="{{ post.url | relative_url }}">
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/{{ post.image.title }}" alt="{{ post.title | escape }}">
 </div>
+</a>
 {% endif %}
 {% endfor %}
 </div>

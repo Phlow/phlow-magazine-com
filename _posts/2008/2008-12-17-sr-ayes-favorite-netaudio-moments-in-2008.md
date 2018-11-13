@@ -7,7 +7,6 @@ author: Applejux
 permalink: /mp3-music-download/923-sr-ayes-favorite-netaudio-moments-in-2008
 categories:
   - Charts
-  - MP3 Music Download
 tags:
   - "2008"
   - best of

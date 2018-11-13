@@ -6,8 +6,8 @@ date: 2009-07-31T10:00:59+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/1257-phlow-mag-exclusive-boring-music-vol-6
 categories:
+  - Compilation
   - Feature
-  - MP3 Music Download
 tags:
   - Boring Music
   - download

@@ -7,7 +7,6 @@ author: Bettina Rhymes
 permalink: /mp3-music-download/147-inlets-vestibule-ep-luvsound
 categories:
   - Folk-Acoustic
-  - MP3 Music Download
   - Pop
 tags:
   - download

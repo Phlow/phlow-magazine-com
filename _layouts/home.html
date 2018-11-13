@@ -6,34 +6,63 @@
 {% include helper/2_header.html %}
 
 <div style="background: #fa0; height: 5em;" class="banner">
-  
 </div>
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
-        <h2>MP3 Reviews</h2>
 
-          <ul class="post-list">
-            {% assign counter = 0 %}
-            {% for post in site.posts limit:5 %}
-              {% capture category %}{{ post.categories }}{% endcapture %}
-              {% if category contains 'Charts' %}
-              {% elsif category contains 'Music Video' %}
-              {% elsif category contains 'Feature' %}
-              {% elsif category contains 'News' %}
-              {% else %}
-              <li>
-                <img style="height: 54px;" src="{{ site.url }}{{ site.baseurl }}/{{ post.image.title }}" alt="">
-                <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-              </li>
-              {% assign counter=counter | plus:1 %}
-              {% endif %}
-            {% endfor %}
-          </ul>
+<h2>Start with a free Compilation</h2>
 
-        <p>Reviews: {{ counter }}</p>      </div>
-    </main>
+<p>
+  Choose one of our <a href="{{ '/creative-commons-compilation/' | absolute_url }}">creative commons compilations.</a>
+</p>
+
+<h2>Music by Genres</h2>
+
+<p>We have music for everybodies taste! Choose your favorite music style:
+
+{% assign categories_list = site.categories %}
+  {% if categories_list.first[0] == null %}
+    {% for category in categories_list %}
+      <a href="{{ site.url }}{{ site.baseurl }}/free-mp3-music-download/#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}</a>,
+    {% endfor %}
+  {% else %}
+    {% for category in categories_list %}
+
+      {% if
+        category[0] == 'Charts' or
+        category[0] == 'News' or
+        category[0] == 'Music Video' or
+        category[0] == 'DJ/Liveact Mix' or
+        category[0] == 'Music Marketing Promotion' or
+        category[0] == 'Interview Portrait' or
+        category[0] == 'Feature'
+      %}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}/free-mp3-music-download/#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</a>,
+      {% endif %}
+
+    {% endfor %}
+  {% endif %}
+{% assign categories_list = nil %}
+</p>
+
+
+<h2>Latest Reviews</h2>
+
+<div class="grid col-4">
+{% for post in site.posts limit:8 %}
+<a class="card" href="{{ post.url | relative_url }}">
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/{{ post.image.title }}" alt="{{ post.title | escape }}">
+</div>
+</a>
+{% endfor %}
+</div>
+
+</div>
+</main>
 
 {% include helper/3_footer.html %}
 

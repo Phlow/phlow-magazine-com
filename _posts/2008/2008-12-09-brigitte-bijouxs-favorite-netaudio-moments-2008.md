@@ -7,7 +7,6 @@ author: Brigitte
 permalink: /mp3-music-download/895-brigitte-bijouxs-favorite-netaudio-moments-2008
 categories:
   - Charts
-  - MP3 Music Download
 ---
 ***Advent Calendar Door 5*** // _Woooh! Gee!_, 2008 was a hell of a year to make awesome discoveries from Japan to Chile, from Mexico to Italy. 2008 was the year for netlabelism and netaudio to break its shell to see some light. In Spain, Germany, Russia, Italy and of course England small and huge events took place.
 

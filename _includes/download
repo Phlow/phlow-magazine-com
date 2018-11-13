@@ -1,29 +1,30 @@
-{% if page.download == NULL %}
-<h2>{% for cat in page.categories %}{{ cat }} {% endfor %} MP3 Music Download</h2>
+{% if page.download != NULL %}
+<p>
+  <h2>{% for cat in page.categories %}{{ cat }} {% endfor %} MP3 Music Download</h2>
+
+  {% if page.download.zip_url %}
+  <a target="_blank" href="{{ page.download.zip_url }}" class="button radius bem1 success" title="{{ page.download.title | escape }}">Download{% if page.download.title %} {{ page.download.title | escape }}{% endif %}</a><br>
+  {% endif %}
+
+  {% if page.download.release_url %}
+  <strong>Release</strong> // <a target="_blank" href="{{ page.download.release_url }}">{{ page.download.title | escape }}</a><br>
+  {% endif %}
+
+  {% if page.download.netlabel_url == NULL %}
+  {% elsif page.download.netlabel_url contains 'http' %}
+  <strong>Netlabel</strong> // <a target="_blank" href="{{ page.download.netlabel_url }}">{{ page.download.netlabel_url }}</a><br>
+  {% else %}
+  <strong>Netlabel</strong> // ⚰️ {{ page.download.netlabel_url }}<br>
+  {% endif %}
+
+
+  {% if page.download.artist_url == NULL %}
+  {% elsif page.download.artist_url contains 'http' %}
+  <strong>Artist-Website</strong> // <a target="_blank" href="{{ page.download.artist_url }}">{{ page.download.artist_url }}</a><br>
+  {% else %}
+  <strong>Artist-Website</strong> // {{ page.download.artist_url }}<br>
+  {% endif %}
+
+
+</p>
 {% endif %}
-
-{% if page.download.zip_url %}
-<p><a target="_blank" href="{{ page.download.zip_url }}" class="button radius" title="{{ page.download.title | escape }}">Download{% if page.download.title %} {{ page.download.title | escape }}{% endif %}</a></p>
-{% endif %}
-
-{% if page.download.release_url %}
-<p><strong>Release</strong> // <a target="_blank" href="{{ page.download.release_url }}">{{ page.download.title | escape }}</a></p>
-{% endif %}
-
-{% if page.download.netlabel_url == NULL %}
-{% elsif page.download.netlabel_url contains 'http' %}
-<p><strong>Netlabel</strong> // <a target="_blank" href="{{ page.download.netlabel_url }}">{{ page.download.netlabel_url }}</a></p>
-{% else %}
-<p><strong>Netlabel</strong> // {{ page.download.netlabel_url }}</p>
-{% endif %}
-
-
-{% if page.download.artist_url == NULL %}
-{% elsif page.download.artist_url contains 'http' %}
-<p><strong>Artist-Website</strong> // <a target="_blank" href="{{ page.download.artist_url }}">{{ page.download.artist_url }}</a></p>
-{% else %}
-<p><strong>Artist-Website</strong> // {{ page.download.artist_url }}</p>
-{% endif %}
-
-
-

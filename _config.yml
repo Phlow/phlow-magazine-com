@@ -82,11 +82,10 @@ defaults:
       type: 'pages'
     values:
       layout: page        # Set default layout to page
-      # metainfo: FALSE   # If you don't want meta-information under posts
+      meta_info: FALSE
   -
     scope:
       path: ''
       type: 'posts'
     values:
-      layout: post        # Set default layout to page
-      # metainfo: FALSE   # If you don't want meta-information under posts
+      layout: review        # Set default layout to page

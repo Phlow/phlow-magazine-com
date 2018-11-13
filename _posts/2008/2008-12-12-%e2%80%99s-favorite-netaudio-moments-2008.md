@@ -7,7 +7,6 @@ author: Applejux
 permalink: '/mp3-music-download/901-%e2%80%99s-favorite-netaudio-moments-2008'
 categories:
   - Charts
-  - MP3 Music Download
 tags:
   - david domingo
   - netaudio.es

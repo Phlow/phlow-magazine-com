@@ -7,7 +7,6 @@ author: Bettina Rhymes
 permalink: /mp3-music-download/911-filippo-flip-aldovini-favorite-netaudio-moments-in-2008
 categories:
   - Charts
-  - MP3 Music Download
 tags:
   - best of 2008
   - Charts

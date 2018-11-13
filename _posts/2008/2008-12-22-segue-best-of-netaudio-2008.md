@@ -7,7 +7,6 @@ author: Bettina Rhymes
 permalink: /mp3-music-download/918-segue-best-of-netaudio-2008
 categories:
   - Charts
-  - MP3 Music Download
 tags:
   - best of 2008
   - Charts

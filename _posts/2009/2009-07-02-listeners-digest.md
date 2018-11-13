@@ -6,7 +6,7 @@ date: 2009-07-02T15:50:27+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/1241-listeners-digest
 categories:
-  - MP3 Music Download
+  - Compilation
 tags:
   - Automassage
   - Bird Song
@@ -38,9 +38,7 @@ tags:
 
 <!--adsense-->
 
-## **Portformat - "Classics"****
-  
-** 
+## Portformat - "Classics"
 
 [<img class="left size-full wp-image-1242" src="{{ site.url }}{{ site.baseurl }}/images/portformat_front.jpg"]({{ site.url }}{{ site.baseurl }}/images/portformat_front.jpg)
 
@@ -48,7 +46,7 @@ tags:
 
 ["Classics" via sendspace.com](http://sendspace.com/file/2018y2)
 
-## **Mobydick & Plaistow - "Tarial EP"** (eDogm)
+## Mobydick & Plaistow - "Tarial EP" (eDogm)
 
 [<img class="left size-full wp-image-1243" src="{{ site.url }}{{ site.baseurl }}/images/edo023-500.jpg"]({{ site.url }}{{ site.baseurl }}/images/edo023-500.jpg)
 
@@ -56,7 +54,7 @@ Critically acclaimed Geneve Jazztrio [Plaistow](http://www.myspace.com/plaistowm
 
 ["Tariel EP" @ eDogm](http://edogm.net/releases/edo023)
 
-## **Kauders - "Brian Invited June"** (Bird Song)
+## Kauders - "Brian Invited June" (Bird Song)
 
 [<img class="left size-full wp-image-1244" src="{{ site.url }}{{ site.baseurl }}/images/kauders_500.jpg"]({{ site.url }}{{ site.baseurl }}/images/kauders_500.jpg)
 
@@ -64,7 +62,7 @@ Gottfried Kauders is guitarist of [Automassage](http://www.myspace.com/automassa
 
 ["Brian Invited June" @ Bird Song](http://birdsong.co.il/#kauders)
 
-## **Deastro - "Grower EP"** (RCRDLBL)
+## Deastro - "Grower EP" (RCRDLBL)
 
 [<img class="left size-full wp-image-1246" src="{{ site.url }}{{ site.baseurl }}/images/art.jpg"]({{ site.url }}{{ site.baseurl }}/images/art.jpg)
 
@@ -72,7 +70,7 @@ Gottfried Kauders is guitarist of [Automassage](http://www.myspace.com/automassa
 
 ["Grower EP" @ RCRDLBL](http://rcrdlbl.com/2009/05/18/download_deastro_grower_ep)
 
-## ****Fine Before You Came - "sfortuna"****
+## **Fine Before You Came - "sfortuna"****
 
 [<img class="left size-full wp-image-1247" src="{{ site.url }}{{ site.baseurl }}/images/pib016.jpg"]({{ site.url }}{{ site.baseurl }}/images/pib016.jpg)
 

@@ -5,6 +5,9 @@
 - Clearfix
 - Grid
 - Card
+- Buttons
+- Button Styles
+- Button Sizes
 
 --- */
 
@@ -174,13 +177,10 @@ the padding will be perfect.
 
 .card {
   border-radius: 3px;
+  border: 0;
   border-top: 4px solid #333;
-  -webkit-box-shadow: -1px 0 2px 0 rgba(0,0,0,0.12), 1px 0 2px 0 rgba(0,0,0,0.12), 0 1px 1px 0 rgba(0,0,0,0.24);
   box-shadow: -1px 0 2px 0 rgba(0,0,0,0.12), 1px 0 2px 0 rgba(0,0,0,0.12), 0 1px 1px 0 rgba(0,0,0,0.24);
   padding: .75em;
-}
-
-.card {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   -webkit-transition: -webkit-transform .15s cubic-bezier(0.33, 0.66, 0.66, 1);
@@ -191,7 +191,9 @@ the padding will be perfect.
   width: auto;
 }
 
-.card:hover {
+a.card:hover {
+  background: transparent;
+  border: 0;
   border-top: 4px solid $ci-1;
   -webkit-box-shadow: -2px 0 2px 0 rgba(0,0,0,0.16), 2px 0 2px 0 rgba(0,0,0,0.16), 0 2px 2px 0 rgba(0,0,0,0.23);
   box-shadow: -2px 0 2px 0 rgba(0,0,0,0.16), 2px 0 2px 0 rgba(0,0,0,0.16), 0 2px 2px 0 rgba(0,0,0,0.23);
@@ -199,4 +201,119 @@ the padding will be perfect.
   transform: translate3d(0, -3px, 0);
 }
 
+
+/* Buttons
+-------------------------------------------------------- */
+
+.button,
+a.button:visited {
+  font-family: $font-family-sans;
+  color: $text;
+  background: $grey-light;
+  box-shadow: 0 3px $grey-dark;
+  border: none;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  -webkit-appearance: none;
+  transition: all 0.25s ease-out;
+  vertical-align: middle;
+  padding: 0.25em 1em;
+  margin: 0 1em .25em 0;
+}
+
+.button:hover,
+a.button:hover {
+  background: $grey-light;
+  box-shadow: 0 3px $grey-dark !important;
+}
+
+.button:active {
+  color: $text;
+  background: mix(#fff, $ci-1, 20%);
+  transform: translateY(2px);
+}
+
+
+/* Button Styles
+-------------------------------------------------------- */
+
+.button.noborder {
+  color: $text !important;
+  background: transparent !important;
+  box-shadow: 0 0 #fff !important;
+  border: 1px solid $grey-light !important;
+}
+.button.noborder:hover {
+  background: rgba(0, 0, 0, .1) !important;
+  box-shadow: 0 0 $grey-light !important;
+}
+
+.button.alert {
+  color: #fff !important;
+  background: $alert-color !important;
+  box-shadow: 0 3px mix(#000, $alert-color, 20%) !important;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.button.alert:hover {
+  background: lighten( $alert-color, 5% ) !important;
+  box-shadow: 0 3px lighten( $alert-color, 15% ) !important;
+}
+
+.button.success {
+  color: #fff !important;
+  background: $success-color !important;
+  box-shadow: 0 3px mix(#000, $success-color, 20%) !important;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.button.success:hover {
+  background: lighten( $success-color, 5% ) !important;
+  box-shadow: 0 3px lighten( $success-color, 15% ) !important;
+}
+
+.button.warning {
+  color: #fff !important;
+  background: $warning-color !important;
+  box-shadow: 0 3px mix(#f00, $warning-color, 20%) !important;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.button.warning:hover {
+  background: lighten( $warning-color, 10% ) !important;
+  box-shadow: 0 3px lighten( $warning-color, 25% ) !important;
+}
+
+.button.info {
+  color: #fff !important;
+  background: $info-color !important;
+  box-shadow: 0 3px mix(#000, $info-color, 40%) !important;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.button.info:hover {
+  background: lighten( $info-color, 10% ) !important;
+  box-shadow: 0 3px lighten( $info-color, 40% ) !important;
+}
+
+.button.grey {
+  color: #fff !important;
+  background: $grey !important;
+  box-shadow: 0 3px $grey-dark !important;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.button.grey:hover {
+  background: mix(#000, $grey, 30%) !important;
+  box-shadow: 0 3px mix(#000, $grey, 60%) !important;
+}
+
+/* Button Sizes
+-------------------------------------------------------- */
+
+.button-small {
+  font-size: $small;
+  line-height: $small*1.5;
+}
+.button-large {
+  font-size: $h5;
+}
 

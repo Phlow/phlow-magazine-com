@@ -7,7 +7,6 @@ author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/929-020200s-favorite-netaudio-moments-in-2008
 categories:
   - Charts
-  - MP3 Music Download
 tags:
   - best of 2008
   - Charts

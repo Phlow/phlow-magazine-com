@@ -1,0 +1,26 @@
+{% assign size = page.content | size %}
+{% assign random = "now" | date: "%S" | modulo:size %}
+{% assign sorted-posts = site.posts | where: "categories",page.categories[0] %}
+{{ random | at_least: 9 }}
+<h3>More {{ page.categories[0] }} Music</h3>
+<ul class="no-bullet grid col-4 bem2">
+{% assign counter = 0 %}
+{% for num in (1..50) %}
+  {% if sorted-posts[random].title == NULL %}
+    {% assign random=random | minus:1 %}
+  {% else %}
+    {% if counter < 4 %}
+      {% if counter == 1 %}{% assign random=random | minus:1 %}{% endif %}
+      {% if counter == 2 %}{% assign random=random | minus:1 %}{% endif %}
+      {% if counter == 3 %}{% assign random=random | minus:1 %}{% endif %}
+<li>
+<a href="{{ sorted-posts[random].url }}"><img src="{{ sorted-posts[random].image.title }}" alt="Listen to {{ sorted-posts[random].title }}">
+</a>
+</li>
+
+      {% assign counter=counter | plus:1 %}
+    {% else %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>

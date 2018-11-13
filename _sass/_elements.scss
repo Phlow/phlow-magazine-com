@@ -13,6 +13,8 @@
 .tr     { text-align: right; }
 .tl     { text-align: left; }
 .c      { text-align: center; }
+.left   { float: left; margin: $spacing-unit/4 $spacing-unit/4 0 0;}
+.right  { float: right; margin: $spacing-unit/4 0 0 $spacing-unit/4;}
 
 /* CSS-Classes to add margin at top or bottom
 -------------------------------------------------------- */

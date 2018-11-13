@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/benfay.jpg
+subtitle: The Art of Dub
 title: Tribute to Benfay
 date: 2007-09-27T12:23:55+00:00
 author: Moritz »mo.« Sauer
@@ -12,9 +13,8 @@ categories:
 tags:
   - digital phlow
 ---
-[<img src="{{ site.url }}{{ site.baseurl }}/images/benfay.jpg" alt="" title="benfay" width="250" height="250" class="alignleft size-medium wp-image-1597" />]({{ site.url }}{{ site.baseurl }}/images/benfay.jpg)**Best of Benfay** // [Benfay](http://www.benfay.com/) lives in Bern, Switzerland, and is one of the early netaudio-artists who released his music on the web. His first releases can be found on the highly proclaimed Thinner netlabel. While Benfay produced pushing and Detroit-inspired tracks in the beginning like [Bonnie Mandarin](http://de.scene.org/pub/music/groups/thinner/%5Bthn007%5D_b1_benfay-bonnie_mandarin.mp3) (MP3) on his Carbon EP, he later composed more smooth and melodic tracks.<!--more-->
-
-<!--adsense-->
+Benfay lives in Bern, Switzerland, and is one of the early netaudio-artists who released his music on the web. His first releases can be found on the highly proclaimed Thinner netlabel. While Benfay produced pushing and Detroit-inspired tracks in the beginning like [Bonnie Mandarin](http://de.scene.org/pub/music/groups/thinner/%5Bthn007%5D_b1_benfay-bonnie_mandarin.mp3) (MP3) on his Carbon EP, he later composed more smooth and melodic tracks.
+<!--more-->
 
 But Benfay didn't only produce music for Thinner, he even mastered as engineer some of the most popular Thinner-releases. Later on he opened his own netlabel together with Digitalis and [Sam Graf](http://sgis.ch/). They called their now resting netlabel [Realaudio](http://www.realaudio.ch/). There you'll find Benfays album ["albedo feature"](http://realaudio.ch/amb/raam007.html), where he focused on ambient and experimental sounds.
 

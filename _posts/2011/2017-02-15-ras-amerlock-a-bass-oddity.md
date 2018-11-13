@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/cover_ras_amerlock_bass_odditiy.jpg
+subtitle: Dubby Reggae
 title: 'Ras Amerlock – »A Bass Oddity – Trinity All Star« (LibreCommeLair)'
 date: 2017-02-15T12:21:08+00:00
 author: Moritz »mo.« Sauer
@@ -12,7 +13,7 @@ tags:
   - LibreCommeLair
   - Ras Amerlock
 ---
-**Dubby Reggae** I love unique websites, unique sounds and of course high quality. The french dub netlabel LCL aka LibreCommeLair has everything. A website with a unique hand-made look, a dedication to reggae in all kinds of tastes and a bunch of musicians releasing wonderful productions. The »Juggernaut of an EP« is a classy slice of music by Ras Amerlock on the french dub netlabel.
+**** I love unique websites, unique sounds and of course high quality. The french dub netlabel LCL aka LibreCommeLair has everything. A website with a unique hand-made look, a dedication to reggae in all kinds of tastes and a bunch of musicians releasing wonderful productions. The »Juggernaut of an EP« is a classy slice of music by Ras Amerlock on the french dub netlabel.
 <!--more-->
 
 <!--mp3links-->

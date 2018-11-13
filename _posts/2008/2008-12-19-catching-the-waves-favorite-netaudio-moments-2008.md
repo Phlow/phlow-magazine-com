@@ -7,7 +7,6 @@ author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/936-catching-the-waves-favorite-netaudio-moments-2008
 categories:
   - Charts
-  - MP3 Music Download
 tags:
   - best of 2008
   - Charts

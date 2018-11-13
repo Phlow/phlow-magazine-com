@@ -7,7 +7,6 @@ author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/892-marc-robert-zendrinis-favorite-netaudio-moments-2008
 categories:
   - Charts
-  - MP3 Music Download
 ---
 ***Advent Calendar Door 4*** // Born 1978. Studies communication sociology and social anthropology. Was trainee at the Club Transmediale 2004 festival. Organizes concerts and events in Switzerland. Co-founded <a href="http://adozen.org/" target="_blank">adozen.org</a> in 2004 with Luc Doebereiner. adozen.org distributes experimental electronic music. The main objective is to release music from artists coming from different fields, but with a sound approach corresponding to the expectations of Marc Robert Zendrini and his buddies. The emphasis lies on temporality, narrativity of the sound sources, their origin and production as well as on the questions related to their free distribution.<!--more-->
 

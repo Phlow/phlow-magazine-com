@@ -1,0 +1,66 @@
+---
+# Review Layout for Phlow-Magazine
+layout: default
+---
+<article class="post grid col-33-67" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div><!-- start col-1 -->
+      {% if page.image.title %}
+      <figure class="card">
+        <img src="{{ site.url }}{{ site.baseurl }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+
+        {% if page.image.url and page.image.caption %}
+        <figcaption>
+          <a href="{{ page.image.url }}">{{ page.image.caption }}</a>
+        </figcaption>
+        {% elsif page.image.caption %}
+        <figcaption>
+          {{ page.image.caption }}
+        </figcaption>
+        {% endif %}
+      </figure>
+      {% endif %}
+  </div><!-- /col-1 -->
+
+  <div><!-- start col-2 -->
+    <header class="post-header">
+
+      {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    </header>
+    <div class="post-content" itemprop="articleBody">
+      <!-- Genererate content -->
+      {% include helper/teaser.html %}
+
+      {% include download %}
+    </div>
+
+
+{% comment %}
+
+Mit assign author erstellt man einen Array aus den Daten von
+'review_authors.yml'. Um den author des Beitrages herauszufiltern
+nutzt Du den 'where'-Filter, der sich wiederum am im Frontmatter
+definierten author über 'page-author' bedient.
+
+Damit Du jetzt aus dem neuen Array namens author die einzelnen
+Angaben herausfiltern kannst, musst Du – auch wenn nur ein Element
+vorliegt – das ERSTE Element über 'author[0]' abrufen.
+
+{% endcomment %}
+
+    {% assign author = site.data.review_authors | where: 'author', page.author %}
+    <footer class="post-meta">
+      <p>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">– written on {{ page.date | date: "%b %-d, %Y" }}</time> by {{ author[0].first_name }} {{ author[0].last_name }}
+      </p>
+      <p>
+        <img class="left" src="{{ site.url }}{{ site.baseurl }}/{{ author[0].image }}" alt="Phlow Music Editor {{ author[0].first_name }} {{ author[0].last_name }}">
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"></span></span>{{ author[0].description }}
+      </p>
+    </footer>
+
+{% include more_releases %}
+
+  </div><!-- /col-2 -->
+</article>
