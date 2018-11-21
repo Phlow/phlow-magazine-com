@@ -48,7 +48,7 @@ mp3:
 ---
 With "Their Finest Hour Vol. 1" we start our very first free music compilation with netlabel music from all over the globe. We scanned our January-2008-reviews again and combined for you just the very best. [Brigitte]({{ site.url }}{{ site.baseurl }}/about#brigitte), [Sven]({{ site.url }}{{ site.baseurl }}/about#sven) and [mo.]({{ site.url }}{{ site.baseurl }}/about#mo) discovered these tunes throughout January 2008. We hope you enjoy this little gold mine of music from netlabels like Corpid, addSensor, aerotone or Camomille and their fine artists.<!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 You can stream the whole compilation via M3U-Playlist. We took extra-care to combine the tunes in a smooth manner.
 

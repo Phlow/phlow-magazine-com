@@ -34,7 +34,7 @@ mp3:
 Paulina Mum proves that you don't need any sophisticated, techy music gear to compose  colourful adventures. All it needs is a cheap casio keyboard and a talent to compose sweet little songs. "Morning Rain" on Camomille is a trip into a naive world of plinkerplonker-sounds where Glockenspiel and candy sounds rule and where lollipops are the favorite food of the musician.
 <!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 What I like best about this Electronica release are the slight jolts. Always if some of melodies stumble a little bit and the rhythm gets a little bit confused I must smile. "Morning Rain" sounds private and feels like sitting next to the musician listening to his compositions.
 

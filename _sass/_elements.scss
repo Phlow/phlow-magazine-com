@@ -12,9 +12,16 @@
 
 .tr     { text-align: right; }
 .tl     { text-align: left; }
-.c      { text-align: center; }
+.tc      { text-align: center; }
 .left   { float: left; margin: $spacing-unit/4 $spacing-unit/4 0 0;}
 .right  { float: right; margin: $spacing-unit/4 0 0 $spacing-unit/4;}
+
+/* Shadows
+------------------------------------------------------------------- */
+
+.shadow-no      {text-shadow: rgba(0, 0, 0, 0) 0 0 0;}
+.shadow-black   {text-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 2px;}
+.shadow-white   {text-shadow: rgba(255, 255, 255, 0.498039) 0px 1px 2px;}
 
 /* CSS-Classes to add margin at top or bottom
 -------------------------------------------------------- */

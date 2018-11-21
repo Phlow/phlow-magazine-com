@@ -33,7 +33,7 @@ mp3:
 If Hello Kitty enjoys some LSD and Speed and begins to dance, than our hyperactive cute cat listens to Candlestickmaker. Because the musicfreak from Romania, spanks her hairy butt with some serious drill'n'bass plus sweet melodies. Like Hello Kitty he enjoys serious artists like Autechre, Aphex Twin and Squarepusher.
 <!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 Welcome to the neon-coloured world of Alexandru M. Seidiu aka Candlestickmaker! Enjoy a ride full of squashed and mashed up beats. The correctly tickled rhythms swoosh over you in a hustle and bustle, take you direclty on a rollercoaster through a happy-acid-megalomania, into a world where SpongeBob enjoys playing with the nipples of Hello Kitty...
 

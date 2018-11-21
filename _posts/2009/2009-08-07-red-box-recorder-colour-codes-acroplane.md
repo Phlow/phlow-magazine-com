@@ -36,7 +36,7 @@ mp3:
 For quite a long time, Arcoplane went below my radar. The label is around since 2003, but only due to the advice of my dear friend Ian Hawgood I follow them now. Londons' Red Box Recorder represent the label sound perfectly and deliver a mature album with superb artwork.
 <!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 You know, I'm a sucker for elaborate artwork. In case of <a href="http://www.myspace.com/djparticlefusion" target="_blank">Red Box Recorder</a>s' second album "Colour Codes", the frontcover made me download the record <span style="text-decoration: line-through;">blindly</span> deafly. Once unpacked I was delighted to find a PDF with a lot more wonderful images... Thumbs up for the man <a href="http://maxmclaughlin.blogspot.com/" target="_blank">Max McLaughlin</a>, who is some sort of in-house designer at Acroplane. Take a look:
 

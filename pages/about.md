@@ -4,39 +4,36 @@ title               : What is Phlow-Magazine.com?
 permalink           : /about/
 ---
 <div class="grid col-67-33 bem2">
-    <div>
-        <a name="history" href="http://phlow-magazine.com">Phlow-Magazine.com</a> is a magazine about free mp3 music culture. <strong>Our magazine offers you free music to download</strong> from netlabels and musicians all over the globe.
+  <div>
+    <a name="history" href="http://phlow-magazine.com">Phlow-Magazine.com</a> is a magazine about free mp3 music culture. <strong>Our magazine offers you free music to download</strong> from netlabels and musicians all over the globe.
 
-        We pick the finest songs and digg the fattest grooves out of terrabytes of music released under a <a href="https://creativecommons.org/">creative commons</a> licence. Have a look into <a href="{{ '/free-mp3-music-download/' | absolute_url }}">our mp3-archive of free music</a> and read our portraits of amazing netlabels and musicians.
+    We pick the finest songs and digg the fattest grooves out of terrabytes of music released under a <a href="https://creativecommons.org/">creative commons</a> licence. Have a look into <a href="{{ '/free-mp3-music-download/' | absolute_url }}">our mp3-archive of free music</a> and read our portraits of amazing netlabels and musicians.
 
-        <h2>What we achieved so far...</h2>
-        <p>
-            After one year from september 2007 to september 2008 we accomplished to get some exciting results together... Just enjoy some numbers with us:
-        </p>
-        <ul>
-            <li>After <strong>365 days</strong> of Phlow-Magazine.com we welcomed <strong>114.205 visitors</strong> from <strong>189 different countries</strong>.</li>
-            <li>We served <strong>316.851 webpages</strong> in one year, starting from nothing.</li>
-            <li>In that year our <strong>RSS-Subscribers read 205.856</strong> of our articles, <strong>clicked 34.982</strong> to come back on the website and <strong>downloaded 48.829 MP3s</strong> via Podcast.</li>
-            <li>Our <a title="free mp3 music compilations" href="{{ '/creative-commons-compilation/' | absolute_url }}">free music compilations</a> got massive feedback and in general each compilation was downloaded more than <strong>5.000 times</strong>.</li>
-        </ul>
+    <h2>What we achieved so far...</h2>
+    <p>
+      After one year from september 2007 to september 2008 we accomplished to get some exciting results together... Just enjoy some numbers with us:
+    </p>
+    <ul>
+      <li>After <strong>365 days</strong> of Phlow-Magazine.com we welcomed <strong>114.205 visitors</strong> from <strong>189 different countries</strong>.</li>
+      <li>We served <strong>316.851 webpages</strong> in one year, starting from nothing.</li>
+      <li>In that year our <strong>RSS-Subscribers read 205.856</strong> of our articles, <strong>clicked 34.982</strong> to come back on the website and <strong>downloaded 48.829 MP3s</strong> via Podcast.</li>
+      <li>Our <a title="free mp3 music compilations" href="{{ '/creative-commons-compilation/' | absolute_url }}">free music compilations</a> got massive feedback and in general each compilation was downloaded more than <strong>5.000 times</strong>.</li>
+    </ul>
 
-        <h2><a name="testimonials"></a>Testimonials: What people say about Phlow!</h2>
-        <p>
-            Professionals, musicians and our readers like us. Listen what they say about Phlow-Magazine.com:
-        </p>
-        <dl>
-           <dt><em>"The future of culture will be free. Musicians are its avantgarde. If you want to know where free music is heading, just go with the phlow."</em></dt>
-           <dd class="tr bem2"><a href="http://www.wizards-of-os.org/">Volker Grassmuck, project lead of Wizards of OS</a></dd>
-           <dt><em>"Phlow tries to chart the unknown waters of netmusic, providing lots of navigational aids for the intrepid musical explorer. The 'free mp3 downloads' section is organised by genre, making it easy to look for your preferred style, something that is surprisingly rare on the netmusic scene. It also supports Creative Commons music and is a thoroughly pleasant and inspiring place to visit. It's the perfect diving-board for the netlabel newbie."</em></dt> <dd class="tr bem2"><a href="http://soundthefreetrumpet.typepad.com/catching_the_waves/2008/05/go-with-the-phl.html" target="_blank">Catching The Waves Weblog</a> </dd>
-           <dt><em>"Ich bin total begeistert von Eurem Baby "Phlow Magazine". Ich habe heute schon wieder den Tag damit begonnen im meinem RSS Reader nach neuen Phlow Magazine Beiträgen zu schauen. Ganz enttäuscht habe ich dann gesehen, dass es noch keinen neuen Artikel gab, bin dann - wie so oft - direkt auf Deine Seite gegangen und habe den Musikstücken, die mich beim ersten Hören nicht begeistert haben eine zweite Chance gegeben. Und wieder haben ich Perlen freier Musik entdeckt, die mir sonst verborgen geblieben wären. Auch die Einbindung des Flashplayers ist genial! Kurz gesagt: Die ganz Seite rockt!</em></dt> <dd class="tr bem2"><a href="http://www.digitalekultur.org/">Tobias "tobi" Heim, Executive Committee of Digitale Kultur e.V.</a></dd>
-           <dt><em>"Phlow-Magazine.com is a weblog about free mp3 music culture. It is one of the best webzines, at the moment, according to netlabelism. mo., Sven Swift, Brigitte Bijoux and other authors made a brilliant peace of free culture."</em></dt> <dd class="tr bem2"><a href="http://www.netlabels.ru/?p=4">NetAudio Russia on www.netlabels.ru</a></dd>
-           <dt><em>"THE number one source for net (music) culture and everything related. Beautifully designed and excellently written, with the cool extra of interesting discussions between scene protagonists. Held and to be followed in the comment part to every article. All thumbs up, plus one more."</em></dt> <dd class="tr bem2"><a href="http://www.jahtari.org/">disrupt, head of jahtari.org</a></dd>
-           <dt><em>"DYN-O-MITE! Love the site. Thank you for the english version. I look forward to raiding your pantry. Creative Commons recording scene is the most exciting "thing" I've encountered in a long time. Rock on."</em></dt> <dd class="tr bem2">heymarlin via email</dd>
-           <dt><em>"Ce site est vraiment montagne du trésor."</em></dt> <dd class="tr bem2"><a href="http://threeguysinabus.vox.com/library/post/calendrier-de-lavent-musical.html#comments">anonymous commentator on threeguysinabus.vox.com</a></dd> </dl>
-
-
-
-    </div>
+    <h2><a name="testimonials"></a>Testimonials: What people say about Phlow!</h2>
+    <p>
+        Professionals, musicians and our readers like us. Listen what they say about Phlow-Magazine.com:
+    </p>
+    <dl>
+       <dt><em>"The future of culture will be free. Musicians are its avantgarde. If you want to know where free music is heading, just go with the phlow."</em></dt>
+       <dd class="tr bem2"><a href="http://www.wizards-of-os.org/">Volker Grassmuck, project lead of Wizards of OS</a></dd>
+       <dt><em>"Phlow tries to chart the unknown waters of netmusic, providing lots of navigational aids for the intrepid musical explorer. The 'free mp3 downloads' section is organised by genre, making it easy to look for your preferred style, something that is surprisingly rare on the netmusic scene. It also supports Creative Commons music and is a thoroughly pleasant and inspiring place to visit. It's the perfect diving-board for the netlabel newbie."</em></dt> <dd class="tr bem2"><a href="http://soundthefreetrumpet.typepad.com/catching_the_waves/2008/05/go-with-the-phl.html" target="_blank">Catching The Waves Weblog</a> </dd>
+       <dt><em>"Ich bin total begeistert von Eurem Baby "Phlow Magazine". Ich habe heute schon wieder den Tag damit begonnen im meinem RSS Reader nach neuen Phlow Magazine Beiträgen zu schauen. Ganz enttäuscht habe ich dann gesehen, dass es noch keinen neuen Artikel gab, bin dann - wie so oft - direkt auf Deine Seite gegangen und habe den Musikstücken, die mich beim ersten Hören nicht begeistert haben eine zweite Chance gegeben. Und wieder haben ich Perlen freier Musik entdeckt, die mir sonst verborgen geblieben wären. Auch die Einbindung des Flashplayers ist genial! Kurz gesagt: Die ganz Seite rockt!</em></dt> <dd class="tr bem2"><a href="http://www.digitalekultur.org/">Tobias "tobi" Heim, Executive Committee of Digitale Kultur e.V.</a></dd>
+       <dt><em>"Phlow-Magazine.com is a weblog about free mp3 music culture. It is one of the best webzines, at the moment, according to netlabelism. mo., Sven Swift, Brigitte Bijoux and other authors made a brilliant peace of free culture."</em></dt> <dd class="tr bem2"><a href="http://www.netlabels.ru/?p=4">NetAudio Russia on www.netlabels.ru</a></dd>
+       <dt><em>"THE number one source for net (music) culture and everything related. Beautifully designed and excellently written, with the cool extra of interesting discussions between scene protagonists. Held and to be followed in the comment part to every article. All thumbs up, plus one more."</em></dt> <dd class="tr bem2"><a href="http://www.jahtari.org/">disrupt, head of jahtari.org</a></dd>
+       <dt><em>"DYN-O-MITE! Love the site. Thank you for the english version. I look forward to raiding your pantry. Creative Commons recording scene is the most exciting "thing" I've encountered in a long time. Rock on."</em></dt> <dd class="tr bem2">heymarlin via email</dd>
+       <dt><em>"Ce site est vraiment montagne du trésor."</em></dt> <dd class="tr bem2"><a href="http://threeguysinabus.vox.com/library/post/calendrier-de-lavent-musical.html#comments">anonymous commentator on threeguysinabus.vox.com</a></dd> </dl>
+  </div>
     <div>
         <img src="{{ '/images/button-wallpaper.jpg' | absolute_url }}" alt="">
     </div>

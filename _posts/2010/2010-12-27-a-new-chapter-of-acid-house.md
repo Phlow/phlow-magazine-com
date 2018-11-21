@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/cover_toolz303-II.jpg
+subtitle: Acid
 title: 'Various – »A New Chapter Of Acid House!« (Tribe Toolz)'
 date: 2010-12-27T20:12:32+00:00
 author: Moritz »mo.« Sauer
@@ -27,9 +28,10 @@ mp3:
   - title: 'Tobias Hoermann - "Acid 3-4" (MP3)'
     url  : https://archive.org/download/Toolz303-II_2010/Toolz303-II-15-TobiasHoermann-Acid3-4.mp3
 ---
-***Aciiiiid!*** // If we believe the peepz at Tribe Toolz today is the (un)official birthday of the fabulous Roland TB-303 synthesizer. No synthesizer - except the drummachines 808 and 909 - left such an imprint on electronic music like this monophone bassline synthie. Originally invented for musicians in need of a bassline player, the TB-303 was a real flop... Until some kids like [Phuture](http://en.wikipedia.org/wiki/Phuture) get hooked by the quirky sounds of the 303. And still the kids like to torture those knobs till some phunky acid bubbles its way through the speakers.
+If we believe the peepz at Tribe Toolz today is the (un)official birthday of the fabulous Roland TB-303 synthesizer. No synthesizer - except the drummachines 808 and 909 - left such an imprint on electronic music like this monophone bassline synthie. Originally invented for musicians in need of a bassline player, the TB-303 was a real flop... Until some kids like [Phuture](http://en.wikipedia.org/wiki/Phuture) get hooked by the quirky sounds of the 303. And still the kids like to torture those knobs till some phunky acid bubbles its way through the speakers.
+<!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 Already in 2009 Tribe Toolz released a first Acid Compilation full of tributes to the sound of the Roland TB-303. One year later they return with another 18 tracks celebrating [Acid](http://en.wikipedia.org/wiki/Acid_house) with all kind of flavors from chicago house over newskool acidlike bombs to classical acid house.
 

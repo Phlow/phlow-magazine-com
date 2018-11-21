@@ -33,8 +33,9 @@ mp3:
     url   : https://archive.org/download/mtk213/mtk213-bitbasic-13-aint-no-sunshine.mp3
 ---
 Bitbasic's new album Sprinkling Rainbows, released on Monotonik, delves deep into the world of smooth and funky Jazz stylings, in a follow up the 2007 "Grating Rainbows EP". This is an album of deft and clever combinations that soothe and then surprise the listener, as exquisite jazz chords and chromatics give way to drill and bass rasps and glitchy repetition, before falling luxuriously back into a pleasing bath of strings or mellow guitar. Bitbasic presents music that plays on the tensions between heavily quantized, truncated sound and free style playing; indulging in a playground of cut ups and programming.
+<!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 At over fifty minutes, this wonderfully cohesive album treats the listener to a variety of gear shifts and mood changes that make the whole experience engaging and enervating from beginning to end. Whether it is the rapid, funky breaks and signature changes of "Realization", the acoustic guitar sound, descending Resident style analogue synth sighs and stuttering, reverby drums of "Damaged Beyond Repair", or the surprising but beautifully executed cover of "Ain't No Sunshine", this is an album that will make you grin at the pleasure of it all.
 

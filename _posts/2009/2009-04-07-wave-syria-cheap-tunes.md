@@ -45,7 +45,7 @@ mp3:
 To know how music was created brings forth a certain surplus- or disappointment, respectively. This is especially true for electronic music. Circuit bending punks, bearded men over analogue synthesizers and console-tuning kids always appeard more interesting to me than fancy Macbook nerds.
 <!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 Thus, Sloveanian Electropop duo New Wave Syria got my attention right away. Girl (Urša) and boy (Rok) perform on a battery of cheap little synths and drum machines, curly head Urša sings and shouts over the instrumentals. Dreamy and noisy, the band settles their niche between hipster Pop a la _The Ting Tings_ on the one and 80's influenced psychedelia on the other hand.
 

@@ -2,7 +2,7 @@ title               : Phlow Magazine
 slogan              : Free MP3 Music Culture Magazine
 description         : 'Phlow-Magazine.com is a magazine about free mp3 music released under a creative commons. You can legally download all the mp3s on this website.'
 baseurl             : "" # the subpath of your site, e.g. /blog
-url                 : "" # the base hostname & protocol for your site, e.g. http://example.com
+url                 : "http://phlow-magazine.com"
 author              : Moritz »mo.« Sauer
 author_description  : Phlow made this theme for you. Phlow is a little one-man-agency run by Moritz »mo.« Sauer
 

@@ -23,7 +23,10 @@
   {{ entry | first | remove: '<p>' | prepend: '<p class="lead">' }}
 
   {% include helper/ad_rectangle.html %}
-  {{ entry | last }}
+
+  {% capture mp3-links %}{% include mp3 %}{% endcapture %}
+
+  {{ entry | last | remove_first: '</p>' | prepend: mp3-links | prepend: '</p>' }}
 
 {% else %}
   {{ page_content }}

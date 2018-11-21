@@ -8,6 +8,8 @@
 - Buttons
 - Button Styles
 - Button Sizes
+- Banner
+- Footer
 
 --- */
 
@@ -58,8 +60,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 -------------------------------------------------------- */
 
 #masthead {
-  border-bottom: 1px solid $grey-light;
-  min-height: 56px;
+  min-height: 2em;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -88,7 +89,6 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 }
 .side-nav li {
   margin: 0 0 .2em 0;
-  font-size: 0.85em;
 }
 .side-nav a {
   box-shadow: inset 0 0 0 transparent;
@@ -317,3 +317,37 @@ a.button:hover {
   font-size: $h5;
 }
 
+/* Banner
+-------------------------------------------------------- */
+
+.banner {
+  background: #fa0;
+  color: #fff;
+  padding: 1em 0 2em 0;
+}
+.banner a {
+  font-weight: bold;
+  color: $ci-2;
+  box-shadow: inset 0 -3px 0 $ci-2;
+}
+
+/* Footer
+-------------------------------------------------------- */
+
+#site-footer {
+  box-shadow: inset 0px 4px 5px 0px rgba(0, 0, 0, 0.75);
+  margin-top: 1em;
+  padding: 2em 0 5em 0;
+  background: $ci-2;
+  color: #fff;
+  font-size: $small;
+}
+#site-footer .heading {
+  text-transform: uppercase;
+  border-bottom: 1px solid #fff;
+  margin-bottom: $spacing-unit/4;
+
+}
+#site-footer .side-nav {
+  padding: 0;
+}

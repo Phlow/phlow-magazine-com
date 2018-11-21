@@ -1,67 +1,69 @@
 ---
-
 ---
 {% include helper/1_head.html %}
-
 {% include helper/2_header.html %}
 
-<div style="background: #fa0; height: 5em;" class="banner">
+<div class="banner">
+  <p class="wrapper shadow-black h2">
+    <em>Phlow Magazine</em> offers you {{ site.posts.size }} <a href="{{ '/free-mp3-music-download/' | absolute_url }}">mp3 reviews</a> of free available Creative Commons Music releases and more than 20 <a href="{{ '/creative-commons-compilation/' | absolute_url }}">compilations</a> to download.
+  </p>
 </div>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    {{ content }}
 
-<h2>Start with a free Compilation</h2>
+    <h2>Music by Genres</h2>
 
-<p>
-  Choose one of our <a href="{{ '/creative-commons-compilation/' | absolute_url }}">creative commons compilations.</a>
-</p>
+    <p>We have music for everybodies taste! Choose your favorite music style:
 
-<h2>Music by Genres</h2>
-
-<p>We have music for everybodies taste! Choose your favorite music style:
-
-{% assign categories_list = site.categories %}
-  {% if categories_list.first[0] == null %}
-    {% for category in categories_list %}
-      <a href="{{ site.url }}{{ site.baseurl }}/free-mp3-music-download/#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}</a>,
-    {% endfor %}
-  {% else %}
-    {% for category in categories_list %}
-
-      {% if
-        category[0] == 'Charts' or
-        category[0] == 'News' or
-        category[0] == 'Music Video' or
-        category[0] == 'DJ/Liveact Mix' or
-        category[0] == 'Music Marketing Promotion' or
-        category[0] == 'Interview Portrait' or
-        category[0] == 'Feature'
-      %}
+    {% assign categories_list = site.categories %}
+      {% if categories_list.first[0] == null %}
+        {% for category in categories_list %}
+          <a href="{{ site.url }}{{ site.baseurl }}/free-mp3-music-download/#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}</a>,
+        {% endfor %}
       {% else %}
-        <a href="{{ site.url }}{{ site.baseurl }}/free-mp3-music-download/#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</a>,
+        {% for category in categories_list %}
+
+          {% if
+            category[0] == 'Charts' or
+            category[0] == 'News' or
+            category[0] == 'Music Video' or
+            category[0] == 'DJ/Liveact Mix' or
+            category[0] == 'Music Marketing Promotion' or
+            category[0] == 'Interview Portrait' or
+            category[0] == 'Feature'
+          %}
+          {% else %}
+            <a href="{{ site.url }}{{ site.baseurl }}/free-mp3-music-download/#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</a>,
+          {% endif %}
+
+        {% endfor %}
       {% endif %}
+    {% assign categories_list = nil %}
+    </p>
 
-    {% endfor %}
-  {% endif %}
-{% assign categories_list = nil %}
-</p>
+    <h2>Favorite Compilations</h2>
 
+    <div class="grid col-3">
+      <a class="card" href="{{ '/mp3-music-download/free-compilation/745-nivel-del-mar-sounds-for-soulsurfers' | absolute_url }}">
+        <div>
+          <img src="{{ '/images/nivel-del-mar-cover-500x500.jpg' | absolute_url }}" alt="{{ post.title | escape }}">
+        </div>
+      </a>
+      <a class="card" href="{{ '/mp3-music-download/dub-reggae/1470-phlow-jahtari-mixtape-a-fistful-of-dub' | absolute_url }}">
+        <div>
+          <img src="{{ '/images/a-fistful-of-dub-compilation.jpg' | absolute_url }}" alt="{{ post.title | escape }}">
+        </div>
+      </a>
+      <a class="card" href="{{ '/mp3-music-download/techno/1663-x-a-free-techno-compilation' | absolute_url }}">
+        <div>
+          <img src="{{ '/images/cover_x_a_free_techno_compilation.jpg' | absolute_url }}" alt="{{ post.title | escape }}">
+        </div>
+      </a>
+    </div>
 
-<h2>Latest Reviews</h2>
-
-<div class="grid col-4">
-{% for post in site.posts limit:8 %}
-<a class="card" href="{{ post.url | relative_url }}">
-<div>
-<img src="{{ site.url }}{{ site.baseurl }}/{{ post.image.title }}" alt="{{ post.title | escape }}">
-</div>
-</a>
-{% endfor %}
-</div>
-
-</div>
+  </div>
 </main>
 
 {% include helper/3_footer.html %}

@@ -32,7 +32,7 @@ mp3:
 Tracky Birthday is one of those artists, who push out his majestry of artistry through every pore of his body. While reflecting society and its desire to show off in his Video-Series "Bootyclipse", his website makes fun of all that Web 2.0-Dingeling. And till then, you haven't heard his mind-twisting raps full of satirical rhymes. "Animal Audition" haunts you with its Funk, Samples and absorbing grooves.
 <!--more-->
 
-{% include mp3 %}
+<!--mp3links-->
 
 Infrequently I stumble upon musicians who really impress me. Most of the time musicians only think about their music, compose good or bad songs and often forget about entertainment and other arts. On the contrary Tracky Birthday introduces you to music by letting you see the full scope.
 
