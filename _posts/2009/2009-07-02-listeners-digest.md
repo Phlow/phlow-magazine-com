@@ -6,7 +6,7 @@ date: 2009-07-02T15:50:27+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/1241-listeners-digest
 categories:
-  - Compilation
+  - experimental
 tags:
   - Automassage
   - Bird Song

@@ -22,14 +22,38 @@ download:
   title        : '"Their Finest Hour - Vol. 3"'
   release_url  : http://www.archive.org/details/their_finest_hour_vol3/their_finest_hour_vol3
 mp3:
-  - title : ''
-    url   : 
-  - title : ''
-    url   : 
-  - title : ''
-    url   : 
+  - title : '1. “My Blue Plane (soto version)” from Soto'
+    url   : https://archive.org/download/their_finest_hour_vol3/01._soto_-_my_blue_plane_soto_version.mp3
+  - title : '2. “Did The Red Sea Part?” from Ghost Bees'
+    url   : https://archive.org/download/their_finest_hour_vol3/02._ghost_bees_-_did_the_red_sea_part.mp3
+  - title : '3. “I’m on your side” from Henrik José'
+    url   : https://archive.org/download/their_finest_hour_vol3/03._henrik_jos_-_im_on_your_side.mp3
+  - title : '4. “The Giant Squid from My Awesome Mixtape'
+    url   : https://archive.org/download/their_finest_hour_vol3/04._my_awesome_mixtape_-_the_giant_squid.mp3
+  - title : '5. “agrippa’s trilemma” from gillicuddy'
+    url   : https://archive.org/download/their_finest_hour_vol3/05._gillicuddy_-_agrippas_trilemma.mp3
+  - title : '6. “Pension Tension” from Cactus On Fire feat. Baba Brinkman'
+    url   : https://archive.org/download/their_finest_hour_vol3/06._cactus_on_fire_feat._baba_brinkman_-_pension_tension.mp3
+  - title : '7. “Walk home” from Velure'
+    url   : https://archive.org/download/their_finest_hour_vol3/07._velure_-_walk_home.mp3
+  - title : '8. “rhode-o” from sabian'
+    url   : https://archive.org/download/their_finest_hour_vol3/08._sabian_-_rhode-o.mp3
+  - title : '9. “Dorian Concept” from Mickey Eats Plastic'
+    url   : https://archive.org/download/their_finest_hour_vol3/09._mickey_eats_plastic_-_dorian_concept__exactly_as_an_hypothesis_my_funk_is_my_identity_mep_2nd_round_mix.mp3
+  - title : '10. “Da Try Bute” from Apes on Tapes'
+    url   : https://archive.org/download/their_finest_hour_vol3/10._apes_on_tapes_-_da_try_bute.mp3
+  - title : '11. “Take Me Beyond (Paul Keeley Remix)” from Vincent Casanova'
+    url   : https://archive.org/download/their_finest_hour_vol3/11._vincent_casanova_-_take_me_beyond_paul_keeley_remix.mp3
+  - title : '12. “Rise And Fall” from Evolent'
+    url   : https://archive.org/download/their_finest_hour_vol3/12._evolent_-_rise_and_fall.mp3
+  - title : '13. “mr. illusion” from dataman'
+    url   : https://archive.org/download/their_finest_hour_vol3/13._dataman_-_mr._illusion.mp3
+  - title : '14. “ammettiamo…” from Seralf'
+    url   : https://archive.org/download/their_finest_hour_vol3/14._seralf_-_ammettiamo....mp3
+  - title : '15. “Orange” from Soto'
+    url   : https://archive.org/download/their_finest_hour_vol3/15._soto_-_orange.mp3
 ---
-We don't care about genres! Of course, we cultivate our preferences like everyone. But we try to stay open-minded as possible as we can. Convinced that **the only way to discover new worlds is to share**, to communicate and to listen to each other, we proudly present you the [third edition of our Phlow-Netlabel-Serie]({{ site.url }}{{ site.baseurl }}/mp3-music-download/free-compilation/411-netlabel-compilation-their-finest-hour-3). We dived into the deep ocean of free music and came back with this adventurous compilation. Explore with us music from all over the globe, from Indie-Pop to Techno to Drum'n'Bass to Ambient.<!--more-->
+We don't care about genres! Of course, we cultivate our preferences like everyone. But we try to stay open-minded as possible as we can. Convinced that **the only way to discover new worlds is to share**, to communicate and to listen to each other, we proudly present you the third edition of our Phlow-Netlabel-Serie. We dived into the deep ocean of free music and came back with this adventurous compilation. Explore with us music from all over the globe, from Indie-Pop to Techno to Drum'n'Bass to Ambient.<!--more-->
 
 ## mo.'s little note
 
@@ -39,7 +63,7 @@ As always we tried hard to combine the most impressive music-moments to one phlo
 
 Greets from Cologne/Germany, Yours mo.
 
-## Playlist "Their Finest Hour Vol. 3"
+## Check out our reviews of each release
 
   1. ["My Blue Plane (soto version)" from Soto]({{ site.url }}{{ site.baseurl }}/mp3-music-download/pop/265-soto-soto-ep-creation-centre)
   2. ["Did The Red Sea Part?" from Ghost Bees]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/396-various-52-weeks-winter-peppermill-records)
@@ -56,13 +80,6 @@ Greets from Cologne/Germany, Yours mo.
  13. ["mr. illusion" from dataman]({{ site.url }}{{ site.baseurl }}/feature/359-run-for-cover-2-the-flash-cover-art-from-n-netlabel)
  14. ["ammettiamo..." from Seralf]({{ site.url }}{{ site.baseurl }}/interview-portrait/325-dharmasound-netlabel-interview)
  15. ["Orange" from Soto]({{ site.url }}{{ site.baseurl }}/mp3-music-download/pop/265-soto-soto-ep-creation-centre)
-
-## Free MP3 Music Download
-
-Listen & Stream: [Start Playlist now!](http://www.archive.org/download/their_finest_hour_vol3/their_finest_hour_vol_3_playlist.m3u)
-  
-  
-Cover: [Download our Cover Artwork - Their Finest Hour Vol 3]({{ site.url }}{{ site.baseurl }}/images/cover-their-finest-hour-3-720x720.jpg "Cover Artwork - Their Finest Hour Vol 3")
 
 ## Information about the Cover-Artwork
 

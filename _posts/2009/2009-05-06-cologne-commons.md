@@ -29,8 +29,6 @@ While thinking about [Cologne Commons](http://cologne-commons.de) and our upcomi
 
 While thinking about your statement, have a look on this fantastic video footage, [Tom aka Pandrr](http://drastic.net/) produced for us!
 
-
-
 Together with the work of fabulous Scener [Pandr](http://www.vimeo.com/pandrr) shortly we will release some exciting video footage to promote Cologne Commons.
 
 **Website:** [www.cologne-commons.de](http://www.cologne-commons.de)

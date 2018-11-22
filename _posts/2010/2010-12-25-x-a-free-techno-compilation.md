@@ -51,10 +51,5 @@ mp3:
 
 Get ready for the next supernova!
 
-"X - A Free Techno Compilation" - Playlist
-
-<!--mp3links-->
-
 compiled by [Mango Aioli](url: http://www.mangoaioli.com) for Phlow
 
-{% include download %}
