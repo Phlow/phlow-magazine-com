@@ -2,6 +2,7 @@
 nav_title           : Compilations
 subtitle            : Free MP3 Music
 title               : Creative Commons Music Compilations
+meta_description    : Download these creative commons compilations for free. We collected the mp3 music carefully and present you different tastes.
 permalink           : /creative-commons-compilation/
 ---
 We try our best to collect only the best of the best. With this attitude we present you MP3-music published by netlabels which are freely available. All collections come around in a customer-friendly ZIP-Archive.

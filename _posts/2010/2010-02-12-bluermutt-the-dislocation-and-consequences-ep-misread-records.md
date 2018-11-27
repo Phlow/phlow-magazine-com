@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/cover_bluermutt.jpg
+subtitle: Electronic Folk Music
 title: 'Bluermutt – »The Dislocation (and Consequences) EP« (Misread Records)'
 date: 2010-02-12T14:40:07+00:00
 author: Bettina Rhymes
@@ -21,20 +22,12 @@ tags:
   - music
   - netlabel
   - Pop
+download:
+  title        : 'Bluermutt – »The Dislocation (and Consequences) EP«'
+  release_url  : https://bluermutt.bandcamp.com/album/the-dislocation-and-consequences-ep
+  artist_url   : https://bluermutt.bandcamp.com/
 ---
-***Electronic Folk Music*** // News from my man Bluermutt, and it is good news! I have been a big fan of his former albums and various [side projects]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/258-mickey-eats-plastic-to-kill-the-white-glamour-reworks-ep-1), and the more delighted to hear that this EP will be on for free although the "[Decivilize After Consumption]({{ site.url }}{{ site.baseurl }}/news/824-prgrssbluermutt-decivilice-after-consumption-nexsound-pop)" album was a CD release. These six tracks come off like a collection of songs rather than an EP so I reckon we get outtakes to hear - however, this does not diminish quality in any way.
-
-[Bluermutt - "The Broken City" (MP3)](http://rubored.org/phlow_magazine/Bluermutt_-_The_Broken_City.mp3)
-  
-[Bluermutt - "Androids' Breath" (MP3)](http://rubored.org/phlow_magazine/Bluermutt_-_Androids_Breath.mp3)
-  
-[Bluermutt - "Indoor Failure" (MP3)](http://rubored.org/phlow_magazine/Bluermutt_-_Indoor_Failure.mp3)
-  
-[Bluermutt - "Single Touch" (MP3)<!--more-->](http://rubored.org/phlow_magazine/Bluermutt_-_Single_Touch.mp3) 
-
-<!--mp3linksend-->
-
-<!--adsense-->
+News from my man Bluermutt, and it is good news! I have been a big fan of his former albums and various [side projects]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/258-mickey-eats-plastic-to-kill-the-white-glamour-reworks-ep-1), and the more delighted to hear that this EP will be on for free although the "[Decivilize After Consumption]({{ site.url }}{{ site.baseurl }}/news/824-prgrssbluermutt-decivilice-after-consumption-nexsound-pop)" album was a CD release. These six tracks come off like a collection of songs rather than an EP so I reckon we get outtakes to hear - however, this does not diminish quality in any way.<!--more-->
 
 **Bluermutt**'s "Dislocation (and Consequences)" EP oscillates between highly processed Folk, Krautrock and melodic Electronica. Strength to his compositions is always the strong melodies, governed by a warm and rich production. Maybe this is why I consider **Bluermutt** Pop music rather than anything else- albeit, Pop music with respectable edges.
 
@@ -42,10 +35,3 @@ The first four tracks are breathtaking: "The Broken City" sounds like a dedusted
 
 Support **Bluermutt** by sending over some bucks for the download! "The Dislocation (and Consequences)" EP is available for _pay-as-you-like_ via [bandcamp](http://bluermutt.bandcamp.com/album/the-dislocation-and-consequences-ep).
 
-## MP3 Electronic Pop Music Download
-
-**Artist-Website:** <a href="http://www.skyapnea.com/home_of_bluermutt/" target="_blank">skyapnea.com</a>
-  
-**Release:** <a href="http://bluermutt.bandcamp.com/album/the-dislocation-and-consequences-ep" target="_blank">Bluermutt - The Disloaction (and Consequences) EP</a>**
-  
-**

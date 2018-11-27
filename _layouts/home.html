@@ -13,6 +13,30 @@
   <div class="wrapper">
     {{ content }}
 
+    <h2>Album of the Week</h2>
+
+    <div class="grid col-33-67 bem2">
+    {% for review in site.posts %}
+    {% if review.id contains '/mp3-music-download/electronica-indietronic/risch-missing-monsters-petite-jolie-netlabel' %}
+
+      <a class="card" href="{{ site.url }}{{ site.baseurl }}/{{ review.url }}">
+        <div>
+          <img src="{{ site.url }}{{ site.baseurl }}{{ review.image.title }}" width="970" alt="{{ review.title | escape_once }}" itemprop="image">
+        </div>
+      </a>
+
+      <div>
+        {% if review.subtitle %}<p class="subtitle">{{ review.subtitle }}</p>{% endif %}
+        <p class="h5" itemprop="name headline">{{ review.title | escape }}</p>
+        <p>{{ review.excerpt }}</p>
+        <p><a class="button success" href="{{ site.url }}{{ site.baseurl }}/{{ review.url }}">Check out and download ›</a></p>
+      </div>
+
+    </div>
+    {% endif %}
+{% endfor %}
+
+
     <h2>Music by Genres</h2>
 
     <p>We have music for everybodies taste! Choose your favorite music style:
