@@ -2,6 +2,7 @@
 image:
   title: /images/krowley-500.jpg
 title: 'Krowley – »Four Pieces« (Autark)'
+subtitle: 
 date: 2008-04-21T12:12:26+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/idm/446-krowley-four-pieces-autark

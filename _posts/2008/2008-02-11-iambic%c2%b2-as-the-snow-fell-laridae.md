@@ -2,6 +2,7 @@
 image:
   title: /images/laridae037-00-iambic2_-_as_the_snow_fell_-_gfx1_front.jpg
 title: 'Iambic² – »As The Snow Fell« (laridae)'
+subtitle: 
 date: 2008-02-11T12:43:47+00:00
 author: Moritz »mo.« Sauer
 permalink: '/mp3-music-download/electronica-indietronic/290-iambic%c2%b2-as-the-snow-fell-laridae'

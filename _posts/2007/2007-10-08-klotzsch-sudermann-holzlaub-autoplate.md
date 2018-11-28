@@ -2,6 +2,7 @@
 image:
   title: /images/apl042cover.jpg
 title: 'Klotzsch &amp; Sudermann – Holzlaub (Autoplate)'
+subtitle: 
 date: 2007-10-08T08:58:07+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/electronica-indietronic/32-klotzsch-sudermann-holzlaub-autoplate

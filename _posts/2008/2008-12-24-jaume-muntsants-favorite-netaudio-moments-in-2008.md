@@ -2,6 +2,7 @@
 image:
   title: /images/jaume-muntsant.jpg
 title: Jaume Muntsant's Favorite Netaudio Moments in 2008
+subtitle: 
 date: 2008-12-24T10:30:57+00:00
 author: Applejux
 permalink: /mp3-music-download/942-jaume-muntsants-favorite-netaudio-moments-in-2008

@@ -2,6 +2,7 @@
 image:
   title: /images/markdenardo-lion-tiger-bear.jpg
 title: 'Mark Denardo – »Lion, Tiger, Bear« (8bitpeoples)'
+subtitle: 
 date: 2008-05-05T08:00:34+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/folk-acoustic/475-mark-denardo-lion-tiger-bear-8bitpeoples

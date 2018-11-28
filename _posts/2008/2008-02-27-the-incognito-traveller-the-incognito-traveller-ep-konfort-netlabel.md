@@ -2,6 +2,7 @@
 image:
   title: /images/konfort016.jpg
 title: 'The Incognito Traveller – »The Incognito Traveller EP« (Konfort Netlabel)'
+subtitle: 
 date: 2008-02-27T12:07:37+00:00
 author: Brigitte
 permalink: /mp3-music-download/downbeat/326-the-incognito-traveller-the-incognito-traveller-ep-konfort-netlabel

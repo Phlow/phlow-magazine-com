@@ -2,6 +2,7 @@
 image:
   title: /images/sim_sullen.jpg
 title: Sim Sullen/ 12rec.net Free Music Charts 2007
+subtitle: 
 date: 2007-12-26T05:54:54+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/215-sim-sullen-12recnet-free-music-charts-2007

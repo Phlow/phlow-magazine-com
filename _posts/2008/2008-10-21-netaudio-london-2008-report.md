@@ -2,6 +2,7 @@
 image:
   title: /images/logo-netaudio-london.gif
 title: Netaudio London 2008 we're coming!
+subtitle: 
 date: 2008-10-21T23:05:20+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/796-netaudio-london-2008-report

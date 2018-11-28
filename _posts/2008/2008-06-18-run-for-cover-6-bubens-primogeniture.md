@@ -2,6 +2,7 @@
 image:
   title: /images/mzykn004_a.jpg
 title: Run For Cover #6: Buben's »Primogeniture«
+subtitle: 
 date: 2008-06-18T05:06:04+00:00
 author: Bettina Rhymes
 permalink: /feature/563-run-for-cover-6-bubens-primogeniture

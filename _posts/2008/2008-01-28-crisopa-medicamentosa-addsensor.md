@@ -2,6 +2,7 @@
 image:
   title: /images/cover-crisopa-medicamentosa.jpg
 title: 'Crisopa – »Medicamentosa« (addSensor)'
+subtitle: 
 date: 2008-01-28T05:24:10+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/ambient/270-crisopa-medicamentosa-addsensor

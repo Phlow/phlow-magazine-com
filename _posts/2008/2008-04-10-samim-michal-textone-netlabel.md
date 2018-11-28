@@ -2,6 +2,7 @@
 image:
   title: /images/textone-cover-samim-michal.jpg
 title: 'Samim &#038; Michal – »ripop ep« (Textone)'
+subtitle: 
 date: 2008-04-10T09:56:44+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/437-samim-michal-textone-netlabel

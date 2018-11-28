@@ -2,6 +2,7 @@
 image:
   title: /images/netaudio-statistics.jpg
 title: Wanna see the most common netaudio music genres?
+subtitle: 
 date: 2008-11-19T11:53:17+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/864-wanna-see-the-most-common-netaudio-music-genres

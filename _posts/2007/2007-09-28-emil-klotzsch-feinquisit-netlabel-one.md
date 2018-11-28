@@ -2,6 +2,7 @@
 image:
   title: /images/emil-klotzsch-cover-one-netalbel-feinquisit.jpg
 title: 'Emil Klotzsch – »Feinquisit« (Netlabel one)'
+subtitle: 
 date: 2007-09-28T13:15:11+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/idm/15-emil-klotzsch-feinquisit-netlabel-one

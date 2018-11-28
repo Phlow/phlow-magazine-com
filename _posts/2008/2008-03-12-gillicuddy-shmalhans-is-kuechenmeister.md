@@ -2,6 +2,7 @@
 image:
   title: /images/gillicuddy.jpg
 title: 'Gillicuddy – »Shmalhans is Kuechenmeister«'
+subtitle: 
 date: 2008-03-12T05:11:33+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/335-gillicuddy-shmalhans-is-kuechenmeister

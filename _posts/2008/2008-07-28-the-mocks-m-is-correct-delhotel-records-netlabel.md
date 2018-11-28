@@ -2,6 +2,7 @@
 image:
   title: /images/a-themocks-miscorrect-front.jpg
 title: 'The Mocks – »M is Correct« (Delhotel Records Netlabel)'
+subtitle: 
 date: 2008-07-28T10:44:17+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/electronica-indietronic/639-the-mocks-m-is-correct-delhotel-records-netlabel

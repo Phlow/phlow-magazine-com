@@ -2,6 +2,7 @@
 image:
   title: /images/zym019_600.jpg
 title: 'con_cetta – »Sclerosis« (Zymogen)'
+subtitle: 
 date: 2008-04-14T11:01:19+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/393-con_cetta-sclerosis-zymogen

@@ -2,6 +2,7 @@
 image:
   title: /images/processing_500.jpg
 title: 'Processing&#8230; – »s/t EP« (Resting Bell)'
+subtitle: 
 date: 2007-11-15T06:00:46+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/118-processing-st-ep-resting-bell

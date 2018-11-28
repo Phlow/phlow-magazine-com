@@ -2,6 +2,7 @@
 image:
   title: /images/mo_120x160.jpg
 title: "mo.'s/Phlow Free Music Charts 2007"
+subtitle: 
 date: 2007-12-09T06:00:31+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/159-mo-phlow-free-music-charts-2007

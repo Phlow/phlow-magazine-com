@@ -2,6 +2,7 @@
 image:
   title: /images/cover-artwork-breitbandkater.jpg
 title: 'Breitbandkater – »More EP« (DCC Records)'
+subtitle: 
 date: 2008-05-30T05:55:42+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/548-breitbandkater-dcc-records-netlabel

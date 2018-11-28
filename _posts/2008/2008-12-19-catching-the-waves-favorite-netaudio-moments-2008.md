@@ -2,6 +2,7 @@
 image:
   title: /images/catching-the-waves.jpg
 title: Catching The Waves Favorite Netaudio Moments 2008
+subtitle: 
 date: 2008-12-19T07:57:26+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/936-catching-the-waves-favorite-netaudio-moments-2008

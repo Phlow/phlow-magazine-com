@@ -2,6 +2,7 @@
 image:
   title: /images/dp_007_cover_artwork.jpg
 title: 'Digital Phlow Radio Show: Connected with Applejux'
+subtitle: 
 date: 2008-10-16T05:36:41+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/789-digital-phlow-radio-show-connected-with-applejux

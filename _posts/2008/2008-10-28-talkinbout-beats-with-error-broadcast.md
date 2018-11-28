@@ -2,6 +2,7 @@
 image:
   title: 
 title: Talkin'bout Beats with Error Broadcast
+subtitle: 
 date: 2008-10-28T13:54:58+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/816-talkinbout-beats-with-error-broadcast

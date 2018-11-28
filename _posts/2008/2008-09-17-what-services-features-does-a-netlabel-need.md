@@ -2,6 +2,7 @@
 image:
   title: /images/broque-logo.gif
 title: 'What services &#038; features does a netlabel need?'
+subtitle: 
 date: 2008-09-17T20:46:57+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/737-what-services-features-does-a-netlabel-need

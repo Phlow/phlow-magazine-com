@@ -2,6 +2,7 @@
 image:
   title: 
 title: Filippo Aldovini/ Zymogen Free Music Charts 2007
+subtitle: 
 date: 2007-12-19T01:21:51+00:00
 author: Bettina Rhymes
 permalink: /charts/208-filippo-aldovini-zymogen-free-music-charts-2007

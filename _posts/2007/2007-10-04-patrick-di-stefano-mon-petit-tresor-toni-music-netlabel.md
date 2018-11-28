@@ -2,6 +2,7 @@
 image:
   title: /images/toni02_sleeve.jpg
 title: 'Patrick di Stefano – »Mon petit tresor« (Toni Music Netlabel)'
+subtitle: 
 date: 2007-10-04T08:04:47+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/37-patrick-di-stefano-mon-petit-tresor-toni-music-netlabel

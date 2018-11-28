@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/monosplit001_front.png
+subtitle: 
 title: 'Double Review: »Colores: Fluidos« and »Libertad EP« (Monofónicos Netlabel)'
 date: 2009-01-06T13:14:17+00:00
 author: Moritz »mo.« Sauer

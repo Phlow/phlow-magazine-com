@@ -2,6 +2,7 @@
 image:
   title: /images/mep-front.jpg "mep-front.jpg
 title: 'Mickey Eats Plastic – »To Kill the White Glamour – Reworks EP 1« (Sijis Netlabel)'
+subtitle: 
 date: 2008-01-25T05:47:00+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/258-mickey-eats-plastic-to-kill-the-white-glamour-reworks-ep-1

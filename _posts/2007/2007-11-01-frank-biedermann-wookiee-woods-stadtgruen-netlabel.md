@@ -2,6 +2,7 @@
 image:
   title: /images/rc_stadt004.jpg
 title: 'Frank Biedermann – »Wookiee Woods« (Stadtgruen Netlabel)'
+subtitle: 
 date: 2007-11-01T06:00:18+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/86-frank-biedermann-wookiee-woods-stadtgruen-netlabel

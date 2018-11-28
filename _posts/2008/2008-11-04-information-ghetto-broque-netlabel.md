@@ -2,6 +2,7 @@
 image:
   title: /images/broque-cover-artwork-information-ghetto.gif
 title: 'Information Ghetto – »Information Ghetto« (Broque Netlabel)'
+subtitle: 
 date: 2008-11-04T05:24:44+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/787-information-ghetto-broque-netlabel

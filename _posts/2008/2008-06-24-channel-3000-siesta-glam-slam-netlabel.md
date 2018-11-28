@@ -2,6 +2,7 @@
 image:
   title: /images/channel_3000_siesta.jpg
 title: 'Channel 3000 – »Siesta« (Glam Slam Netlabel)'
+subtitle: 
 date: 2008-06-24T13:16:27+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/601-channel-3000-siesta-glam-slam-netlabel

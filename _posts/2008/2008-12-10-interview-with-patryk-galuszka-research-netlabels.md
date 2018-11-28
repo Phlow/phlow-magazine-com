@@ -2,6 +2,7 @@
 image:
   title: /images/patryk_meeting_netlabel_stammtisch_cologne.jpg
 title: An interview with Patryk Galuszka about his research on netlabels
+subtitle: 
 date: 2008-12-10T21:49:36+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/867-interview-with-patryk-galuszka-research-netlabels

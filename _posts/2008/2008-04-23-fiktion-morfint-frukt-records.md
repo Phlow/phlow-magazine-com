@@ -2,6 +2,7 @@
 image:
   title: /images/front2.jpg
 title: 'Fiktion – »Morfint« (Frukt Records)'
+subtitle: 
 date: 2008-04-23T05:12:55+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/electronica-indietronic/444-fiktion-morfint-frukt-records

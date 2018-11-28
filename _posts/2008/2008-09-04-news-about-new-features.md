@@ -2,6 +2,7 @@
 image:
   title: /images/foto-mo-phlow-magazinecom.jpg
 title: Where have you been?
+subtitle: 
 date: 2008-09-04T11:17:57+00:00
 author: Brigitte
 permalink: /news/712-news-about-new-features

@@ -2,6 +2,7 @@
 image:
   title: /images/cover-artwork-edensonic-compilation.gif
 title: 'Various – »Edensonic compilation« (Edensonic Netlabel)'
+subtitle: 
 date: 2008-06-17T07:59:24+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/593-various-edensonic-compilation-edensonic-netlabel

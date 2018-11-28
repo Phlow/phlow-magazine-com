@@ -2,6 +2,7 @@
 image:
   title: /images/tend-granlab-broque-2.jpg
 title: The Future of Music Distribution
+subtitle: 
 date: 2008-06-05T05:10:39+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/511-future-of-music-distribution-interview-broque-netlabel

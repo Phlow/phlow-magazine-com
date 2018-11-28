@@ -2,6 +2,7 @@
 image:
   title: /images/cover-ronny-ragtroll.jpg
 title: 'Ronny Ragtroll – »Greatest Clubhits From Beyond« (Entity)'
+subtitle: 
 date: 2008-02-20T05:21:56+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/downbeat/313-ronny-ragtroll-greatest-clubhits-from-beyond-entity

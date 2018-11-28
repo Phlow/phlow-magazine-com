@@ -2,6 +2,7 @@
 image:
   title: /images/rop002.jpg
 title: 'Direwires &amp; Freder – »Sleeping Near Highways« (Robotopera)'
+subtitle: 
 date: 2007-09-26T10:31:36+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/18-direwires-freder-sleeping-near-highways-robotopera

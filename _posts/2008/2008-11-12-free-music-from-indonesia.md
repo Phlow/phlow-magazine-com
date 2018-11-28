@@ -2,6 +2,7 @@
 image:
   title: /images/yesnowavemusic1.jpg
 title: 'Yes No Wave Music: Free Music from Indonesia'
+subtitle: 
 date: 2008-11-12T13:41:43+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/843-free-music-from-indonesia

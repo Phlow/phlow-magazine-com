@@ -3,6 +3,7 @@ image:
   title: /images/free-music-charts-logo-jean.jpg
   caption: 'Artwork: <a href="http://jcorneille.de">Jeannette Corneille</a>'
 title: 'Music Advent Calendar: Free Music Charts 2007'
+subtitle: 
 date: 2007-12-01T07:17:29+00:00
 author: Moritz »mo.« Sauer
 excerpt: "<img src='{{ site.url }}{{ site.baseurl }}/images/wise-guys.jpg' alt='Fang Lijun - 2006.6.4 (Supper) - 2006, Oil on canvas, 250 x 180 cm' />"

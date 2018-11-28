@@ -2,6 +2,7 @@
 image:
   title: /images/luanqibazao-front-cover.jpg
 title: 'Dublin Duck Dispensary – »Luanqibazao« (Rack &amp; Ruin)'
+subtitle: 
 date: 2008-11-03T12:17:06+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/776-dublin-duck-dispensary-luanqibazao-rack-ruin

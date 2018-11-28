@@ -2,6 +2,7 @@
 image:
   title: /images/bufi.jpg
 title: 'Bufi – »Homeless Hero EP« (Poni Republic Netlabel)'
+subtitle: 
 date: 2008-06-23T04:16:32+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/electronica-indietronic/599-bufi-homeless-hero-ep-poni-republic-netlabel

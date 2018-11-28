@@ -3,6 +3,7 @@ image:
   title: /images/brunoep.jpg
 subtitle: Sweet LoFi-Pop
 title: 'Jóvenes y Sexys – »Bruno EP« (Poni Republic Netlabel)'
+subtitle: 
 date: 2008-06-03T16:05:42+00:00
 author: Christian Grasse
 permalink: '/mp3-music-download/pop/542-jovenes-y-sexys-%e2%80%93-bruno-ep-poni-republic-netlabel'

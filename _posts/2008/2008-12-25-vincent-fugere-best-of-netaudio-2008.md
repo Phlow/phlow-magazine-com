@@ -2,6 +2,7 @@
 image:
   title: /images/vincefug.jpg
 title: Vincent Fugère’s Favorite Netaudio Moments in 2008
+subtitle: 
 date: 2008-12-25T13:22:28+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/944-vincent-fugere-best-of-netaudio-2008

@@ -2,6 +2,7 @@
 image:
   title: /images/christian_ratz.jpg
 title: Christian/ Resting Bell Free Music Charts 2007
+subtitle: 
 date: 2007-12-07T06:52:57+00:00
 author: Bettina Rhymes
 permalink: /charts/173-christian-resting-bell-free-music-charts-2007

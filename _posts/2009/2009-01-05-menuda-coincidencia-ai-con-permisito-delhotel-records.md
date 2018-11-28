@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/portada.jpg
+subtitle: 
 title: 'Menuda Coincidencia – »Ai con Permisito« (Delhotel Records)'
 date: 2009-01-05T19:06:52+00:00
 author: Moritz »mo.« Sauer

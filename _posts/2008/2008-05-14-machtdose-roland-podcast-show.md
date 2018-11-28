@@ -2,6 +2,7 @@
 image:
   title: /images/roland-machtdose.jpg
 title: A Passionate Podcaster with no Boundaries
+subtitle: 
 date: 2008-05-14T05:00:53+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/510-machtdose-roland-podcast-show

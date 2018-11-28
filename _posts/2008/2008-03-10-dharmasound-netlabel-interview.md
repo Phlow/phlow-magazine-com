@@ -2,6 +2,7 @@
 image:
   title: /images/dharmasound-title-picture.jpg
 title: '»Live-Events Are The Core Of A Netlabel«'
+subtitle: 
 date: 2008-03-10T20:21:34+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/325-dharmasound-netlabel-interview

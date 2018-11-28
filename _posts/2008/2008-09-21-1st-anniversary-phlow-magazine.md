@@ -2,6 +2,7 @@
 image:
   title: /images/party-1st-anniversary.jpg
 title: Let's celebrate 365 freakin' days of Phlow-Magazine.com!
+subtitle: 
 date: 2008-09-21T01:50:19+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/746-1st-anniversary-phlow-magazine

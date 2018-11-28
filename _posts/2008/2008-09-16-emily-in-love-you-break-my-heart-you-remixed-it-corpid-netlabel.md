@@ -2,6 +2,7 @@
 image:
   title: /images/cx024_coverjpg.png
 title: 'Emily in Love – »You Break My Heart, You Remixed It« (Corpid Netlabel)'
+subtitle: 
 date: 2008-09-16T09:20:47+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/732-emily-in-love-you-break-my-heart-you-remixed-it-corpid-netlabel

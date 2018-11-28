@@ -2,6 +2,7 @@
 image:
   title: /images/netlabels-header.jpg
 title: "Larry Johnson's Free Music Charts 2007"
+subtitle: 
 date: 2007-12-17T00:00:28+00:00
 author: Bettina Rhymes
 permalink: /charts/176-larry-johnson-free-music-charts-2007

@@ -2,6 +2,7 @@
 image:
   title: 
 title: Music from the Digital Phlow Podcast Show
+subtitle: 
 date: 2008-10-17T10:54:01+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/792-music-from-the-digital-phlow-podcast-show

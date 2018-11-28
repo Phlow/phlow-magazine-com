@@ -2,6 +2,7 @@
 image:
   title: /images/id048_frontcover.jpg
 title: 'Monomatik – »But We Made It So Far« (Ideology)'
+subtitle: 
 date: 2008-09-09T23:24:46+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/706-monomatik-but-we-made-it-so-far-ideology

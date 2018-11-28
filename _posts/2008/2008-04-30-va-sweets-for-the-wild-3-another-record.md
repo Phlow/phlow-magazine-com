@@ -2,6 +2,7 @@
 image:
   title: /images/sweets.jpg
 title: 'V.A. – »Sweets For The Wild 3« (Another Record)'
+subtitle: 
 date: 2008-04-30T17:40:32+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/pop/498-va-sweets-for-the-wild-3-another-record

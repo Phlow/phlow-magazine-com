@@ -2,6 +2,7 @@
 image:
   title: /images/front_5001.jpg
 title: 'Niteffect – »Lost Identity« (Kreislauf)'
+subtitle: 
 date: 2008-05-19T05:59:19+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/471-niteffect-lost-identity-kreislauf

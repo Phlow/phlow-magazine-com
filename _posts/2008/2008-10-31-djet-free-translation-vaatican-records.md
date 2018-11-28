@@ -3,6 +3,7 @@ image:
   title: /images/cover-artwork-djet.jpg
 subtitle: Dark Trip
 title: 'Djet – »Free Translation« (Vaatican Records)'
+subtitle: 
 date: 2008-10-31T13:02:17+00:00
 author: David McQuillan
 permalink: /mp3-music-download/downbeat/820-djet-free-translation-vaatican-records

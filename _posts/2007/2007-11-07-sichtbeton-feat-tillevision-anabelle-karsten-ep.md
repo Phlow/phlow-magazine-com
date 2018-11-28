@@ -2,6 +2,7 @@
 image:
   title: /images/sichteton-tillevision_anabelle-karsten-ep.jpg
 title: 'Sichtbeton feat. Tillevision – »Anabelle &amp; Karsten EP«'
+subtitle: 
 date: 2007-11-07T06:00:30+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/92-sichtbeton-feat-tillevision-anabelle-karsten-ep

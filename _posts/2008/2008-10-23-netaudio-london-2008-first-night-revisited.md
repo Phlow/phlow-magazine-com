@@ -2,6 +2,7 @@
 image:
   title: /images/nl08-8.jpg
 title: 'Netaudio London 2008: First Night revisited!'
+subtitle: 
 date: 2008-10-23T18:54:52+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/799-netaudio-london-2008-first-night-revisited

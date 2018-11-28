@@ -2,6 +2,7 @@
 image:
   title: /images/netvibes-electro-compilation-artwork.jpg
 title: 'Various – »Netwaves Bytes: Electro 1« (Netlabelism.net)'
+subtitle: 
 date: 2008-10-07T12:59:47+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/free-compilation/773-netwaves-electro-compilation-1

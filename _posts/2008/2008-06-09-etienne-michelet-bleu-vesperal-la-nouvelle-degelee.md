@@ -2,6 +2,7 @@
 image:
   title: /images/front_5003.jpg
 title: 'Etienne Michelet – »Bleu Vespéral« (La Nouvelle Dégelée)'
+subtitle: 
 date: 2008-06-09T05:30:30+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/552-etienne-michelet-bleu-vesperal-la-nouvelle-degelee

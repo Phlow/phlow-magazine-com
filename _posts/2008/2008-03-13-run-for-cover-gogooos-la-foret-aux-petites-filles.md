@@ -2,6 +2,7 @@
 image:
   title: /images/gogooo.jpg
 title: Run for Cover #1: GoGooo's »La Forét aux Petites Filles«
+subtitle: 
 date: 2008-03-13T05:16:58+00:00
 author: Bettina Rhymes
 permalink: /feature/348-run-for-cover-gogooos-la-foret-aux-petites-filles

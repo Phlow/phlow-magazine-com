@@ -2,6 +2,7 @@
 image:
   title: /images/cover-artwork-cycles.jpg
 title: 'V.A. – »Cycles« (Camomille Netlabel)'
+subtitle: 
 date: 2008-01-11T05:39:32+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/241-va-cycles-camomille-netlabel

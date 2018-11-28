@@ -2,6 +2,7 @@
 image:
   title: /images/anamanaguchi-video-clip.jpg
 title: 'Video: »Sting Operation« for Anamanaguchi'
+subtitle: 
 date: 2008-02-25T11:33:39+00:00
 author: Moritz »mo.« Sauer
 permalink: /music-video/323-video-sting-operation-for-anamanaguchi

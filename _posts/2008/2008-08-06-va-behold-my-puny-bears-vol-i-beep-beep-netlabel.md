@@ -2,6 +2,7 @@
 image:
   title: /images/puny_cover.jpg
 title: 'V.A. – »Behold My Puny Bears, Vol. I« (Beep! Beep! Netlabel)'
+subtitle: 
 date: 2008-08-06T12:46:43+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/pop/674-va-behold-my-puny-bears-vol-i-beep-beep-netlabel

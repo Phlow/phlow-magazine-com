@@ -2,6 +2,7 @@
 image:
   title: 
 title: 'Video: »DeefUltra« on rec72 Netlabel'
+subtitle: 
 date: 2008-11-27T14:31:34+00:00
 author: Moritz »mo.« Sauer
 permalink: /music-video/877-video-deefultra-on-rec72-netlabel

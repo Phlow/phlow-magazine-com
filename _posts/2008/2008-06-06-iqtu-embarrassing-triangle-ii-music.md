@@ -2,6 +2,7 @@
 image:
   title: /images/itqu-embarrassing_triangle.jpg
 title: 'Iqtu – »Embarrassing Triangle« (II-Music)'
+subtitle: 
 date: 2008-06-06T05:25:36+00:00
 author: MartinWisniowski
 permalink: /mp3-music-download/idm/560-iqtu-embarrassing-triangle-ii-music

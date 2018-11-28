@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/cover-rolancho.gif
+subtitle: 
 title: 'Rolancho – »Quizás quiso decir Rolando« (modismo netlabel)'
 date: 2009-01-09T07:42:00+00:00
 author: Brigitte

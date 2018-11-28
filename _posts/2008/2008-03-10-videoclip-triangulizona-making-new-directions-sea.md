@@ -2,6 +2,7 @@
 image:
   title: 
 title: 'Videoclip: TrianguliZona – »Making New Directions (Sea)«'
+subtitle: 
 date: 2008-03-10T12:19:26+00:00
 author: Moritz »mo.« Sauer
 permalink: /music-video/352-videoclip-triangulizona-making-new-directions-sea

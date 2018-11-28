@@ -2,6 +2,7 @@
 image:
   title: /images/aemin001.jpg
 title: 'VA – »Viva La Fuerza EP« (Audioexit)'
+subtitle: 
 date: 2008-01-30T05:57:32+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/271-va-viva-la-fuerza-ep-audioexit

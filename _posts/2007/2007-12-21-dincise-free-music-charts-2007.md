@@ -2,6 +2,7 @@
 image:
   title: /images/leep46.jpg
 title: d'incise/Insubordinations Free Music Charts 2007
+subtitle: 
 date: 2007-12-21T05:51:58+00:00
 author: Bettina Rhymes
 permalink: /charts/172-dincise-free-music-charts-2007

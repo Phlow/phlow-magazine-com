@@ -2,6 +2,7 @@
 image:
   title: /images/jan_aerotone.jpg
 title: Jan/Aerotone Free Music Charts 2007
+subtitle: 
 date: 2007-12-01T06:00:22+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/148-janaerotone-free-music-charts-2007

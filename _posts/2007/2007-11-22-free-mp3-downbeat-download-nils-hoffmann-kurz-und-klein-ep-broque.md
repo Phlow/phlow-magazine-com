@@ -3,6 +3,7 @@ image:
   title: /images/cover-nils-hoffmann.gif
 subtitle: Swinging Downbeats
 title: 'Nils Hoffmann – »kurz und klein e.p.« (Broque)'
+subtitle: 
 date: 2007-11-22T06:38:30+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/134-free-mp3-downbeat-download-nils-hoffmann-kurz-und-klein-ep-broque

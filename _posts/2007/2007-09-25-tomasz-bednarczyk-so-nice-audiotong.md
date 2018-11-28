@@ -2,6 +2,7 @@
 image:
   title: /images/tng1014.jpg
 title: 'Tomasz Bednarczyk – »So Nice EP« (AudioTong)'
+subtitle: 
 date: 2007-09-25T15:18:40+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/19-tomasz-bednarczyk-so-nice-audiotong

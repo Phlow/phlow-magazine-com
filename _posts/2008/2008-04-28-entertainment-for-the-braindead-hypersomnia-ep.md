@@ -2,6 +2,7 @@
 image:
   title: /images/hypersomnia.jpg
 title: 'Entertainment For The Braindead – Hypersomnia EP'
+subtitle: 
 date: 2008-04-28T10:30:24+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/pop/479-entertainment-for-the-braindead-hypersomnia-ep

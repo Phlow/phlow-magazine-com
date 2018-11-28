@@ -2,6 +2,7 @@
 image:
   title: /images/hmr009_500.jpg
 title: 'DJ Internet &amp; Kid Kool – »God Likes The Picture Of You« (Hungry Men Records)'
+subtitle: 
 date: 2008-07-03T21:00:59+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/605-dj-internet-kid-kool-god-likes-the-picture-of-you-hungry-men-records

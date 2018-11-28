@@ -2,6 +2,7 @@
 image:
   title: /images/tamara_green_by_jonathan_de_villiers500x281.jpg
 title: 'Calendar Songs: A delicate Creative Commons-Project'
+subtitle: 
 date: 2008-05-16T05:33:30+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/509-calendar-songs-a-delicate-creative-commons-project

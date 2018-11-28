@@ -2,6 +2,7 @@
 image:
   title: /images/sven-in-graz.jpg
 title: Sven Swift Free Music Charts 2007
+subtitle: 
 date: 2007-12-04T05:31:21+00:00
 author: Bettina Rhymes
 permalink: /charts/170-sven-swift-free-music-charts-2007

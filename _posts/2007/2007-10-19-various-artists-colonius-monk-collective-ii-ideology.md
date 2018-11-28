@@ -2,6 +2,7 @@
 image:
   title: /images/id037_frontcover_mittel.jpg
 title: 'Various Artists – »Colonius Monk Collective II« (Ideology)'
+subtitle: 
 date: 2007-10-19T06:00:27+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/52-various-artists-colonius-monk-collective-ii-ideology

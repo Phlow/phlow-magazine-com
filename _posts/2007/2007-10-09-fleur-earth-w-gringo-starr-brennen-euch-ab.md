@@ -2,6 +2,7 @@
 image:
   title: /images/jahtari-cover-wir-brennen-euch-ab.jpg
 title: 'Fleur Earth w/ Gringo Starr – Brennen Euch Ab (Jahtari Netlabel)'
+subtitle: 
 date: 2007-10-09T08:00:52+00:00
 author: Brigitte
 permalink: /mp3-music-download/dub-reggae/48-fleur-earth-w-gringo-starr-brennen-euch-ab

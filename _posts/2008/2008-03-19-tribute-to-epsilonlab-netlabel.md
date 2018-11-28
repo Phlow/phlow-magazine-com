@@ -2,6 +2,7 @@
 image:
   title: /images/epsilonlab-feature-cover2.jpg
 title: It's House Music! A Tribute to Epsilonlab Netlabel
+subtitle: 
 date: 2008-03-19T05:38:46+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/370-tribute-to-epsilonlab-netlabel

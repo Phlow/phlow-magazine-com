@@ -2,6 +2,7 @@
 image:
   title: /images/front_2.jpg
 title: 'Inlets – »Vestibule EP« (LuvSound)'
+subtitle: 
 date: 2007-11-27T06:00:47+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/147-inlets-vestibule-ep-luvsound

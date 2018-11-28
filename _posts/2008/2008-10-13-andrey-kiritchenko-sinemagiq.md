@@ -2,6 +2,7 @@
 image:
   title: /images/akir-sinemagiq_big.jpg
 title: 'Andrey Kiritchenko – »Sinemagiq«'
+subtitle: 
 date: 2008-10-13T13:17:27+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/techno/728-andrey-kiritchenko-sinemagiq

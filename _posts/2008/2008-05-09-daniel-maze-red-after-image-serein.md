@@ -2,6 +2,7 @@
 image:
   title: /images/a-front.jpg
 title: 'Daniel Maze – »Red After Image« (Serein)'
+subtitle: 
 date: 2008-05-09T06:20:39+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/439-daniel-maze-red-after-image-serein

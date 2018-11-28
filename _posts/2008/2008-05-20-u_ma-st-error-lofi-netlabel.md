@@ -2,6 +2,7 @@
 image:
   title: /images/uma.jpg
 title: 'U_mä – s/t (Error-Lofi Netlabel)'
+subtitle: 
 date: 2008-05-20T05:04:41+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/pop/512-u_ma-st-error-lofi-netlabel

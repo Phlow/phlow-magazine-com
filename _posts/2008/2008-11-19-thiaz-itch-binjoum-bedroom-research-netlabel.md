@@ -2,6 +2,7 @@
 image:
   title: /images/binjoum_artwork.jpg
 title: 'Thiaz Itch – »Binjoum« (Bedroom Research Netlabel)'
+subtitle: 
 date: 2008-11-19T11:59:45+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/861-thiaz-itch-binjoum-bedroom-research-netlabel

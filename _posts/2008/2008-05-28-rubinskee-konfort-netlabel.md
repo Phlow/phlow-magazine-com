@@ -2,6 +2,7 @@
 image:
   title: /images/cover-artwork-rubinskee-konfort-netlabel.jpg
 title: 'Rubinskee – »Telurico« (Konfort Netlabel)'
+subtitle: 
 date: 2008-05-28T07:38:48+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/540-rubinskee-konfort-netlabel

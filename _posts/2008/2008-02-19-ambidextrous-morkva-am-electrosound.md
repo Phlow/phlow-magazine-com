@@ -2,6 +2,7 @@
 image:
   title: /images/electrosoundru_es39large.jpg
 title: 'Ambidextrous / Morkva – »A&#038;M« (Electrosound)'
+subtitle: 
 date: 2008-02-19T05:25:10+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/311-ambidextrous-morkva-am-electrosound

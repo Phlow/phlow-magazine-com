@@ -2,6 +2,7 @@
 image:
   title: /images/did_cover.jpg
 title: 'Did – »Ask U2« (Kirstens Postcard Netlabel)'
+subtitle: 
 date: 2008-11-13T05:11:26+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/electronica-indietronic/839-did-kirstens-postcard-netlabel

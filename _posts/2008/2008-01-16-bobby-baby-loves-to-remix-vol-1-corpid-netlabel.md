@@ -2,6 +2,7 @@
 image:
   title: /images/cover-bobby-baby-remixes1.jpg
 title: 'Bobby Baby – »Loves To Remix Vol. 1« (Corpid Netlabel)'
+subtitle: 
 date: 2008-01-16T08:00:22+00:00
 author: Brigitte
 permalink: /mp3-music-download/electronica-indietronic/250-bobby-baby-loves-to-remix-vol-1-corpid-netlabel

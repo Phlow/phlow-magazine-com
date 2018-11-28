@@ -2,6 +2,7 @@
 image:
   title: /images/solaire.jpg
 title: 'Solaire – »…and then I strapped explosives to my body« (Dying Giraffe Recordings)'
+subtitle: 
 date: 2008-05-14T19:31:55+00:00
 author: Christian Grasse
 permalink: '/mp3-music-download/experimental/492-solaire-%e2%80%a6and-then-i-strapped-explosives-to-my-body-dying-giraffe-recordings'

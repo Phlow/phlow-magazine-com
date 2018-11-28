@@ -2,6 +2,7 @@
 image:
   title: /images/front5.jpg
 title: 'Liger – »Crash Symbols« (Beatismurder) with Phlow CD Raffle'
+subtitle: 
 date: 2008-11-14T12:14:54+00:00
 author: Bettina Rhymes
 permalink: /music-marketing-promotion/822-liger-crash-symbols-beatismurder-with-phlow-cd-raffle

@@ -2,6 +2,7 @@
 image:
   title: /images/insubcdr02-cover_print_version_web.jpg
 title: 'Plaistow Trio – »Los Criminales Reciclados« (Insubordinations)'
+subtitle: 
 date: 2007-10-24T06:00:27+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/jazz/63-plaistow-trio-los-criminales-reciclados-insubordinations

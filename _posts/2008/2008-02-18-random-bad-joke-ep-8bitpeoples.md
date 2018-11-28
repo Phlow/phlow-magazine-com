@@ -2,6 +2,7 @@
 image:
   title: /images/cover-large.jpg
 title: 'Random – »Bad Joke EP« (8bitpeoples)'
+subtitle: 
 date: 2008-02-18T05:58:03+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/chip-music/282-random-bad-joke-ep-8bitpeoples

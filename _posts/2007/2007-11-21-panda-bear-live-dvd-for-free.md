@@ -2,6 +2,7 @@
 image:
   title: /images/phlow-magazine_panda-bear_live-dvd.jpg
 title: 'Panda Bear Live DVD – for free!'
+subtitle: 
 date: 2007-11-21T06:26:30+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/89-panda-bear-live-dvd-for-free

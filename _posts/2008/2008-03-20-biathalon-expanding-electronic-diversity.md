@@ -2,6 +2,7 @@
 image:
   title: /images/biathalon-biathalon-2-eed.jpg
 title: 'Biathalon – »Biathalon 2« (Expanding Electronic Diversity)'
+subtitle: 
 date: 2008-03-20T05:30:21+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/334-biathalon-expanding-electronic-diversity

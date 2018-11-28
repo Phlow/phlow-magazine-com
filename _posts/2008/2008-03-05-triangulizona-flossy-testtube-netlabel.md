@@ -2,6 +2,7 @@
 image:
   title: /images/tube113_cover_front.jpg
 title: 'TrianguliZona – »Flossy« (Testtube Netlabel)'
+subtitle: 
 date: 2008-03-05T12:30:36+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/jazz/342-triangulizona-flossy-testtube-netlabel

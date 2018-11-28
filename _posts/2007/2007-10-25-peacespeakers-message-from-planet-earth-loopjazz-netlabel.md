@@ -2,6 +2,7 @@
 image:
   title: /images/peacespeakers-message_cover.jpg
 title: 'Peacespeakers – »Message from Planet Earth« (Loopjazz Netlabel)'
+subtitle: 
 date: 2007-10-25T06:00:03+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/downbeat/75-peacespeakers-message-from-planet-earth-loopjazz-netlabel

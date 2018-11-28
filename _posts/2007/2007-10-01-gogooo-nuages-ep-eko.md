@@ -2,6 +2,7 @@
 image:
   title: /images/eko015.jpg
 title: 'GoGooo – Nuages EP (EKO)'
+subtitle: 
 date: 2007-10-01T14:08:22+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/30-gogooo-nuages-ep-eko

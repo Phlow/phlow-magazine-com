@@ -2,6 +2,7 @@
 image:
   title: /images/theheavens.jpg
 title: 'The Heavens – »The Heavens EP«'
+subtitle: 
 date: 2008-05-23T05:05:56+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/pop/529-the-heavens-ep

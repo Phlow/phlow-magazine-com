@@ -2,6 +2,7 @@
 image:
   title: /images/owl_500.jpg
 title: 'Owl Dudes – »For The Feelers« (La Familia Netlabel)'
+subtitle: 
 date: 2008-08-02T05:42:38+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/636-owl-dudes-for-the-feelers-la-familia-netlabel

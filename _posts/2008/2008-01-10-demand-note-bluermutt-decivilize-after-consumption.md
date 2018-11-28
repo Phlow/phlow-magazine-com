@@ -2,6 +2,7 @@
 image:
   title: /images/nsp04.jpg
 title: 'Demand Note: Bluermutt – »Decivilize After Consumption«'
+subtitle: 
 date: 2008-01-10T05:52:35+00:00
 author: Bettina Rhymes
 permalink: /music-marketing-promotion/231-demand-note-bluermutt-decivilize-after-consumption

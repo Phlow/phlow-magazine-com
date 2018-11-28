@@ -2,6 +2,7 @@
 image:
   title: /images/hi009_cover_large.jpg
 title: 'Emilsson – »Another« (Heavy Industries Netlabel)'
+subtitle: 
 date: 2008-05-06T05:47:49+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/503-emilsson-another-heavy-industries-netlabel

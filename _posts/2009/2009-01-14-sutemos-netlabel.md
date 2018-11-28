@@ -2,6 +2,7 @@
 image:
   title: /images/sutemos-intelligent-toys-5-big.jpg
 title: Playground for Electronic Music
+subtitle: 
 date: 2009-01-14T15:15:33+00:00
 author: Moritz »mo.« Sauer
 permalink: /feature/988-sutemos-netlabel

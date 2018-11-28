@@ -2,6 +2,7 @@
 image:
   title: /images/front3.jpg
 title: 'America Del Sur – »America Del Sur« (Rack &amp; Ruin Records)'
+subtitle: 
 date: 2008-08-28T23:45:17+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/688-america-del-sur-america-del-sur-rack-ruin-records

@@ -2,6 +2,7 @@
 image:
   title: 
 title: NUMBlog's Free Music Charts 2007
+subtitle: 
 date: 2007-12-22T05:14:17+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/214-numblogs-free-music-charts-2007

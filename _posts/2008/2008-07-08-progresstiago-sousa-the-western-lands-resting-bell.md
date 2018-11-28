@@ -2,6 +2,7 @@
 image:
   title: /images/rb030_the_western_lands_front_500.jpg
 title: 'Tiago Sousa – »The Western Lands« (Resting Bell)'
+subtitle: 
 date: 2008-07-08T16:14:01+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/experimental/595-progresstiago-sousa-the-western-lands-resting-bell

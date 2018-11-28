@@ -2,6 +2,7 @@
 image:
   title: 
 title: 'Run for Cover #2: The Flash-Cover Art From -N Netlabel'
+subtitle: 
 date: 2008-03-17T05:15:43+00:00
 author: Brigitte
 permalink: /feature/359-run-for-cover-2-the-flash-cover-art-from-n-netlabel

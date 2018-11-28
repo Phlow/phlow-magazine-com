@@ -2,6 +2,7 @@
 image:
   title: /images/janos_krueger.gif
 title: Janos Krüger/ Fukkle Free Music Charts 2007
+subtitle: 
 date: 2007-12-15T05:24:41+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/205-janos-kruger-fukkle-free-music-charts-2007

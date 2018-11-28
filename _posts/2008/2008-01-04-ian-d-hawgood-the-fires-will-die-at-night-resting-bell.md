@@ -2,6 +2,7 @@
 image:
   title: /images/phlow_ian-d-hawgood.jpg
 title: 'Ian D. Hawgood – »The Fires Will Die at Night« (Resting Bell)'
+subtitle: 
 date: 2008-01-04T05:52:56+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/160-ian-d-hawgood-the-fires-will-die-at-night-resting-bell

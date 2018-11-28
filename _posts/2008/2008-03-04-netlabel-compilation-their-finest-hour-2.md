@@ -3,6 +3,7 @@ image:
   title: /images/their_finest_hour_2_cover.jpg
 subtitle: Phlow-Netlabel-Compilation
 title: 'Best Of Netlabels: “Their Finest Hour Vol. 2″'
+subtitle: 
 date: 2008-03-04T15:24:07+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/free-compilation/332-netlabel-compilation-their-finest-hour-2

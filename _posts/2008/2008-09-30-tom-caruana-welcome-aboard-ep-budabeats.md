@@ -2,6 +2,7 @@
 image:
   title: /images/budabeats-tom-caruana.jpg
 title: 'Tom Caruana – »Welcome Aboard EP« (Budabeats Netlabel)'
+subtitle: 
 date: 2008-09-30T20:16:23+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/hiphop/767-tom-caruana-welcome-aboard-ep-budabeats

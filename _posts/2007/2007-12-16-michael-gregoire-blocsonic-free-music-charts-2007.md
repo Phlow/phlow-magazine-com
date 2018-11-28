@@ -2,6 +2,7 @@
 image:
   title: 
 title: Michael Gregoire/ blocSonic Free Music Charts 2007
+subtitle: 
 date: 2007-12-16T00:05:19+00:00
 author: Bettina Rhymes
 permalink: /charts/183-michael-gregoire-blocsonic-free-music-charts-2007

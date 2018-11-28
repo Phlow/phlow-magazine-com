@@ -2,6 +2,7 @@
 image:
   title: /images/idmix001_frontcover_mittel.jpg
 title: Brigitte Biojux's Top-5 Free MP3 Mixes
+subtitle: 
 date: 2008-01-15T05:05:32+00:00
 author: Brigitte
 permalink: /mp3-music-download/dj-mix/245-my-top-5-free-mp3-dj-mixes

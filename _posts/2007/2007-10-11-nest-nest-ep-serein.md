@@ -2,6 +2,7 @@
 image:
   title: /images/a_front.jpg
 title: 'Nest – »Nest EP« (Serein)'
+subtitle: 
 date: 2007-10-11T08:01:32+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/28-nest-nest-ep-serein

@@ -2,6 +2,7 @@
 image:
   title: /images/trails.jpg
 title: 'Lokua – »Trails« (Moment Sound)'
+subtitle: 
 date: 2008-04-22T12:03:05+00:00
 author: Brigitte
 permalink: /mp3-music-download/downbeat/462-lokua-moment-sound-netlabel

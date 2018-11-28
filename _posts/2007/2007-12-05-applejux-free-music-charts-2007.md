@@ -2,6 +2,7 @@
 image:
   title: /images/christian_op3n.jpg
 title: Christian/ Applejux Free Music Charts 2007
+subtitle: 
 date: 2007-12-05T06:35:32+00:00
 author: Bettina Rhymes
 permalink: /charts/178-applejux-free-music-charts-2007

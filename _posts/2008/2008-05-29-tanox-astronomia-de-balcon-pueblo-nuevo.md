@@ -2,6 +2,7 @@
 image:
   title: images/tanox-cover-artwork-pueblo-nuevo.jpg
 title: 'Tanox – »Astronomia de Balcon« (Pueblo Nuevo)'
+subtitle: 
 date: 2008-05-29T05:57:38+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/idm/547-tanox-astronomia-de-balcon-pueblo-nuevo

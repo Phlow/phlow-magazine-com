@@ -2,6 +2,7 @@
 image:
   title: /images/david_domingo.jpg
 title: David »sml« Domingo’s Favorite Netaudio Moments 2008
+subtitle: 
 date: 2008-12-12T16:21:52+00:00
 author: Applejux
 permalink: '/mp3-music-download/901-%e2%80%99s-favorite-netaudio-moments-2008'

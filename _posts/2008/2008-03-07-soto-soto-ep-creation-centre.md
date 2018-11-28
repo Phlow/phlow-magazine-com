@@ -2,6 +2,7 @@
 image:
   title: /images/soto-big.jpg
 title: 'Soto – »Soto EP« (Creation Centre)'
+subtitle: 
 date: 2008-03-07T05:43:48+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/265-soto-soto-ep-creation-centre

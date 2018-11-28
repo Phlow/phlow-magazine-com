@@ -2,6 +2,7 @@
 image:
   title: /images/masayuki-music-forest.jpg
 title: Masayuki/ Music Forest Free Music Charts 2007
+subtitle: 
 date: 2007-12-06T06:00:03+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/192-masayuki-music-forest-free-music-charts-2007

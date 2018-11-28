@@ -2,6 +2,7 @@
 image:
   title: /images/swen-swift-underwater-mix.jpg
 title: Our Multitasking-Wizard Sven Swift did it again!
+subtitle: 
 date: 2008-03-12T12:42:44+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/364-our-multitask-wizard-sven-swift-did-it-again

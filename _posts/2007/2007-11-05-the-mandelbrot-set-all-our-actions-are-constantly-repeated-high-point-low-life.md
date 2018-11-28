@@ -2,6 +2,7 @@
 image:
   title: /images/the-mandelbrot-set.jpg
 title: 'The Mandelbrot Set – »All Our Actions are Constantly Repeated« (High Point Low Life)'
+subtitle: 
 date: 2007-11-05T06:00:20+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/95-the-mandelbrot-set-all-our-actions-are-constantly-repeated-high-point-low-life

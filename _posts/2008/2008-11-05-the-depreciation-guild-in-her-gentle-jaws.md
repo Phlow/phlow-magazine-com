@@ -2,6 +2,7 @@
 image:
   title: /images/front4.jpg
 title: 'The Depreciation Guild – »In Her Gentle Jaws«'
+subtitle: 
 date: 2008-11-05T14:10:41+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/759-the-depreciation-guild-in-her-gentle-jaws

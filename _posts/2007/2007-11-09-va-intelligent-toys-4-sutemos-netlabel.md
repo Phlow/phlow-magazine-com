@@ -2,6 +2,7 @@
 image:
   title: /images/sutemos_intelligent_toys-1.jpg
 title: 'VA – »Intelligent Toys 4« (Sutemos Netlabel)'
+subtitle: 
 date: 2007-11-09T06:00:13+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/idm/110-va-intelligent-toys-4-sutemos-netlabel

@@ -2,6 +2,7 @@
 image:
   title: /images/netlabelism-logo.gif
 title: Michel Berghs/Netlabelism.net Free Music Charts 2007
+subtitle: 
 date: 2007-12-12T06:00:00+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/191-michel-berghsnetlabelismnet-free-music-charts-2007

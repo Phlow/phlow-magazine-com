@@ -2,6 +2,7 @@
 image:
   title: /images/cover-proviant-audio.jpg
 title: 'Proviant Audio – Welcome Wilderness EP (Aquavelvas Netlabel)'
+subtitle: 
 date: 2007-10-10T08:00:01+00:00
 author: Brigitte
 permalink: /mp3-music-download/downbeat/50-proviant-audio-welcome-wilderness-ep-aquavelvas-netlabel

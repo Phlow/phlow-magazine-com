@@ -1,23 +1,23 @@
 ---
 layout: default
 ---
+<div class="tem4">
+  {{ content }}
 
-{{ content }}
+  <h1>{{ page.title }}</h1>
 
-<h1>{{ page.title }}</h1>
+  {% include search %}
 
-{% include search %}
-
-  <ul id="search-results" class="no-bullet sans"></ul>
+  <ul id="search-results" class="no-bullet sans tem2"></ul>
 
       <script>
         window.store = {
           {% for post in site.posts %}
           "{{ post.url | slugify }}": {
-            "title": "{{ post.title | xml_escape }}",
+            "title": "{{ post.title | remove: '"' | xml_escape }}",
             "author": "{{ post.author | xml_escape }}",
-            "category": "{{ post.category | xml_escape }}",
-            "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+            "category": "{{ post.categories | xml_escape | remove: '&quot;' | remove: '[' | remove: ']' }}",
+            "content": {% capture review_content %}{{ post.content | strip_html | remove: '"' | strip_newlines | truncatewords: 30 }}{% endcapture %}{{ review_content | jsonify }},
             "url": "{{ post.url | xml_escape | absolute_url }}"
           }
           {% unless forloop.last %},{% endunless %}
@@ -26,3 +26,4 @@ layout: default
       </script>
       <script src="{{ "/assets/js/lunr.min.js" | absolute_url }}"></script>
       <script src="{{ "/assets/js/search.js" | absolute_url }}"></script>
+</div>

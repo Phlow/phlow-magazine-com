@@ -2,6 +2,7 @@
 image:
   title: /images/cover-artwork-mia049.jpg
 title: 'Aphilas – »Instrumentally Ill EP« (Miasmah Netlabel)'
+subtitle: 
 date: 2008-07-07T14:41:37+00:00
 author: Brigitte
 permalink: /mp3-music-download/downbeat/613-aphilas-instrumentally-ill-ep-miasmah-netlabel

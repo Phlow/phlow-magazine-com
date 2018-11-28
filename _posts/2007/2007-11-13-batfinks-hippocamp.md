@@ -2,6 +2,7 @@
 image:
   title: /images/batfinks.jpg
 title: 'Batfinks – »Peach Route« (Hippocamp Netlabel)'
+subtitle: 
 date: 2007-11-13T12:51:56+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/116-batfinks-hippocamp

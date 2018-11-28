@@ -2,6 +2,7 @@
 image:
   title: /images/id033_frontcover.jpg
 title: 'Run For Cover #4: The Art of one!man'
+subtitle: 
 date: 2008-04-15T11:07:40+00:00
 author: Moritz »mo.« Sauer
 permalink: /feature/451-run-for-cover-4-the-art-of-oneman

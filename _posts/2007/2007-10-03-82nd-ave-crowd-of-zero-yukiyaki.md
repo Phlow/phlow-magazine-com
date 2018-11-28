@@ -2,6 +2,7 @@
 image:
   title: /images/ykyk011_cover_front.jpg
 title: "'82nd ave – »Crowd Of Zero« (yukiyaki)"
+subtitle: 
 date: 2007-10-03T08:00:26+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/idm/27-82nd-ave-crowd-of-zero-yukiyaki

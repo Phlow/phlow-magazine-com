@@ -2,6 +2,7 @@
 image:
   title: /images/cover_ambient_architextures.jpg
 title: 'DJ Mix »Ambient Architextures 2«'
+subtitle: 
 date: 2007-10-23T06:00:30+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/dj-mix/67-dj-mix-ambient-architextures-2

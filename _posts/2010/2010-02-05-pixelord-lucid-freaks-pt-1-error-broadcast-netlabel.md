@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/cover_600_ebc004_front.jpg
+subtitle: 
 title: 'Pixelord – »Lucid Freaks pt. 1« (Error Broadcast Netlabel)'
 date: 2010-02-05T01:23:45+00:00
 author: Brigitte

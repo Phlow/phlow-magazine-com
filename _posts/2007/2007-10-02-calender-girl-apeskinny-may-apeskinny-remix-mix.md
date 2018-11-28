@@ -2,6 +2,7 @@
 image:
   title: /images/calendargirl.jpg
 title: 'Calender girl &#038; apeskinny – »May apeskinny mix«'
+subtitle: 
 date: 2007-10-02T08:00:18+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/35-calender-girl-apeskinny-may-apeskinny-remix-mix

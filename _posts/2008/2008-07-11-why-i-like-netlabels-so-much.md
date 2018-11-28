@@ -2,6 +2,7 @@
 image:
   title: /images/flickrcom-photos-tjt195-2.jpg
 title: Why I like Netlabels so much!
+subtitle: 
 date: 2008-07-11T13:05:28+00:00
 author: Moritz »mo.« Sauer
 permalink: /feature/569-why-i-like-netlabels-so-much

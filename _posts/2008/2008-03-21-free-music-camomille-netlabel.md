@@ -2,6 +2,7 @@
 image:
   title: /images/camomille-portrait-0.jpg
 title: Don't Take Drugs, Take Camomille!
+subtitle: 
 date: 2008-03-21T05:17:42+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/382-free-music-camomille-netlabel

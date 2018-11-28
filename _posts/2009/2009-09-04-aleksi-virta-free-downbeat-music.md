@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/aleksi-monotonik-cover-mtk123.jpg
+subtitle: Universal Downbeat Trip
 title: 'aleksi virta – »..meets torsti« (Monotonik Netlabel)'
 date: 2009-09-04T07:40:31+00:00
 author: Brigitte
@@ -21,22 +22,18 @@ tags:
   - music
   - netlabel
   - space
+download:
+  zip_url      : https://archive.org/compress/mtk123/
+  title        : 'Aleksi Virta - ..Meets Torsti At The Space Lounge'
+  release_url  : https://archive.org/details/mtk123
+mp3:
+  - title : 'aleksi virta - "o tema de viagem especial"'
+    url   : https://archive.org/download/mtk123/mtk123-aleksi-virta-07-o-tema-da-viagem-espacial-da-carolina.mp3
+  - title : 'aleksi virta - "whirlwind pistols dub"'
+    url   : https://archive.org/download/mtk123/mtk123-aleksi-virta-06-whirlwind-pistols-dub.mp3
 ---
-***Universal Downbeat Trip*** // Oh my god! Grab this amazing space funk release from the shelfes of Monotonik. With it you get smooth running downbeats, a funky bag full of organs and some of that reggae dub flavor you like so much. This smoked out space joint will make you smile, forget what you was working on, just take it and leave to the dancefloor.
-
-<!--mp3links-->
-
-
-  
-[aleksi virta - "o tema de viagem especial" (MP3)](http://ftp.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-07-o-tema-da-viagem-espacial-da-carolina.mp3)
-  
-[aleksi virta - "whirlwind pistols dub" (MP3)](http://ftp.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-06-whirlwind-pistols-dub.mp3)
-  
-<!--mp3linksend-->
-
+Oh my god! Grab this amazing space funk release from the shelfes of Monotonik. With it you get smooth running downbeats, a funky bag full of organs and some of that reggae dub flavor you like so much. This smoked out space joint will make you smile, forget what you was working on, just take it and leave to the dancefloor.
 <!--more-->
-
-<!--adsense-->
 
 I don't know why, but I like voice samples in music tracks, babbling some weird sentences like "Are you rrready to accept my domination?!?". And aleksi virta does so, too. He found some sources talking about the universe, space men, whatever... Just listen to "outer edge intro", you'll hear what I mean.
 
@@ -44,16 +41,3 @@ Together with the melodic grooves, the offbeat rhythmics in tracks like "whirlwi
 
 **A damn cool space trip into the world of melodic downbeats...**
 
-PS: Thanks to our writer [Martin aka 020200]({{ site.url }}{{ site.baseurl }}/about) for the hint...
-
-## MP3 Downbeat Music Download
-
-**Download:** [aleksi virta - "..meets torsti" (ZIP-Archive)](http://www.archive.org/compress/mtk123)
-  
-**Release:** [aleksi virta - "..meets torsti"](http://www.mono211.com/content/releases/mtkmp123.html)
-  
-**Netlabel:** [Monotonik](http://www.monotonik.com)
-
-<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">
-  http://ftp.scene.org/pub/music/groups/mono/mp3/%5bmtk123%5d-aleksi-virta-06-whirlwind-pistols-dub.mp3
-</div>

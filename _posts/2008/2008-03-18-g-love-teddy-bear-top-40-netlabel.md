@@ -2,6 +2,7 @@
 image:
   title: /images/g-love_teddy_bear_cover.jpg
 title: 'G-Love – »Teddy Bear« (Top 40 Netlabel)'
+subtitle: 
 date: 2008-03-18T05:55:16+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/367-g-love-teddy-bear-top-40-netlabel

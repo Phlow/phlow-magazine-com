@@ -3,6 +3,7 @@ image:
   title: /images/cover_pantoufle_tagada.jpg
 subtitle: Fluffy Electronica
 title: 'VA – »Pantoufle Tagada« (Petite & Jolie Netlabel)'
+subtitle: 
 date: 2008-01-09T05:29:47+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/237-pantoufle-tagada-petite-jolie-netlabel

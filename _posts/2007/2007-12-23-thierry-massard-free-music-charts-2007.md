@@ -2,6 +2,7 @@
 image:
   title: /images/massard.jpg
 title: Thierry Massard Free Music Charts 2007
+subtitle: 
 date: 2007-12-23T05:52:41+00:00
 author: Bettina Rhymes
 permalink: /charts/182-thierry-massard-free-music-charts-2007

@@ -2,6 +2,7 @@
 image:
   title: /images/netlabels-revue-benoit.jpg
 title: Benoit/Netlabels Revue Free Music Charts 2007
+subtitle: 
 date: 2007-12-25T05:35:33+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/213-benoitnetlabels-revuew-free-music-charts-2007

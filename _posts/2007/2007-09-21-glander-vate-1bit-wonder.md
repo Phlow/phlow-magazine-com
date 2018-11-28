@@ -2,6 +2,7 @@
 image:
   title: /images/cover-artwork-glander-vate-1bitwonder.jpg
 title: 'Glander – »Vate« (1Bit-Wonder)'
+subtitle: 
 date: 2007-09-21T11:48:36+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/3-glander-vate-1bit-wonder

@@ -2,6 +2,7 @@
 image:
   title: /images/comfort-fit-yellow-mix.jpg
 title: 'Comfort Fit – »Yellow Snow Mix«'
+subtitle: 
 date: 2008-02-01T19:06:37+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/dj-mix/277-comfort-fit-yellow-snow-mix

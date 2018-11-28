@@ -2,6 +2,7 @@
 image:
   title: /images/cover-kapitel-1-konsum-prod.jpg
 title: 'VA – »Kapitel 1« (Konsum Productions)'
+subtitle: 
 date: 2008-03-28T00:01:32+00:00
 author: Brigitte
 permalink: /mp3-music-download/drum-and-bass/398-va-kapitel-1-konsum-productions

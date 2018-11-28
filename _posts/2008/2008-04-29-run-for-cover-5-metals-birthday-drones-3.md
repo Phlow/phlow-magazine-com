@@ -2,6 +2,7 @@
 image:
   title: /images/bdd31.jpg
 title: Run For Cover #5: Metal's »Birthday Drones 3«
+subtitle: 
 date: 2008-04-29T12:23:41+00:00
 author: Bettina Rhymes
 permalink: /feature/426-run-for-cover-5-metals-birthday-drones-3

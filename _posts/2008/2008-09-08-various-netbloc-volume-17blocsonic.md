@@ -3,6 +3,7 @@ image:
   title: /images/cover-blocsonic-17.jpg
 subtitle: Netlabel Compilation
 title: 'Various – »netBloc Volume 17« (Blocsonic)'
+subtitle: 
 date: 2008-09-08T14:35:40+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/free-compilation/719-various-netbloc-volume-17blocsonic

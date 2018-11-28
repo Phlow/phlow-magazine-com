@@ -2,6 +2,7 @@
 image:
   title: /images/cover-dava-sobel.jpg
 title: Dava Sobel (Negative Sound Institute Netlabel)
+subtitle: 
 date: 2007-10-31T06:00:24+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/17-dava-sobel-negative-sound-institute

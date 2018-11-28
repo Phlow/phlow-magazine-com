@@ -2,6 +2,7 @@
 image:
   title: /images/cri-kong-hashoil-ep.jpg
 title: 'Cri-Kong – »Hash Oil« (Konfort Netlabel)'
+subtitle: 
 date: 2008-01-21T05:34:36+00:00
 author: Brigitte
 permalink: /mp3-music-download/downbeat/256-cri-kong-hash-oil-konfort-netlabel

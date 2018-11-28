@@ -2,6 +2,7 @@
 image:
   title: /images/dincise.jpg
 title: 'd’incise – »Stase / Contre Stase« (Resting Bell Netlabel)'
+subtitle: 
 date: 2008-10-14T06:22:32+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/754-incise-stase-contre-resting-bell-netlabel

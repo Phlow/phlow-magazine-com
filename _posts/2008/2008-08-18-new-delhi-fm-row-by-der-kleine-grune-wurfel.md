@@ -2,6 +2,7 @@
 image:
   title: /images/cover-new-delphi-fm.jpg
 title: 'New Delhi FM – »Row By« (Der kleine grüne Würfel)'
+subtitle: 
 date: 2008-08-18T10:47:09+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/694-new-delhi-fm-row-by-der-kleine-grune-wurfel

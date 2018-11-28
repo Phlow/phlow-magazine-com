@@ -2,6 +2,7 @@
 image:
   title: /images/kaboom_art.jpg
 title: 'Kaboom Karavan – »Short Walk With Olaf« (Umor Rex)'
+subtitle: 
 date: 2008-02-06T14:28:17+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/230-kaboom-karavan-short-walk-with-olaf-umor-rex

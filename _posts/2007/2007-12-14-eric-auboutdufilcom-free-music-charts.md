@@ -2,6 +2,7 @@
 image:
   title: /images/aubutdufil.jpg
 title: Eric/ auboutdufil.com Free Music Charts
+subtitle: 
 date: 2007-12-14T06:00:35+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/188-eric-auboutdufilcom-free-music-charts

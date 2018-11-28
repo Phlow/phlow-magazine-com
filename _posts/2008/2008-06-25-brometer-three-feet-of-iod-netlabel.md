@@ -2,6 +2,7 @@
 image:
   title: /images/brometer-cover-artwork.jpg
 title: 'Brometer – »Three Feet Of« (IOD Netlabel)'
+subtitle: 
 date: 2008-06-25T05:23:25+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/experimental/468-brometer-three-feet-of-iod-netlabel

@@ -1,6 +1,7 @@
 ---
 image:
   title: 
+subtitle: 
 title: 'Sleepy Town Manufacture – »O Nei«'
 date: 2009-01-14T07:15:44+00:00
 author: Moritz »mo.« Sauer

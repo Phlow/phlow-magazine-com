@@ -2,6 +2,7 @@
 image:
   title: /images/cd_cover_supa006s.jpg
 title: 'Morgenklang – »Deep Dive« (Supafeed Netlabel)'
+subtitle: 
 date: 2008-11-18T12:14:24+00:00
 author: Brigitte
 permalink: /mp3-music-download/house/855-morgenklang-deep-dive-supafeed-netlabel

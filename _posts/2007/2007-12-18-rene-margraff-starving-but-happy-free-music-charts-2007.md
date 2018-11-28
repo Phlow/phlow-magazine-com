@@ -2,6 +2,7 @@
 image:
   title: /images/rene.jpg
 title: René Margraff/ Starving But Happy! Free Music Charts 2007
+subtitle: 
 date: 2007-12-18T06:00:28+00:00
 author: Bettina Rhymes
 permalink: /charts/190-rene-margraff-starving-but-happy-free-music-charts-2007

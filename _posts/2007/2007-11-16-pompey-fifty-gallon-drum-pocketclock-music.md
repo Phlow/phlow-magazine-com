@@ -2,6 +2,7 @@
 image:
   title: /images/pompey_500.jpg
 title: 'Pompey – »Fifty Gallon Drum« (Pocketclock Music)'
+subtitle: 
 date: 2007-11-16T06:00:10+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/electronica-indietronic/101-pompey-fifty-gallon-drum-pocketclock-music

@@ -2,6 +2,7 @@
 image:
   title: /images/thn100-320-00-va_-_100.jpg
 title: 'Various – »100« (Thinner Netlabel)'
+subtitle: 
 date: 2007-11-20T06:15:52+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/122-various-artists-100-thinner

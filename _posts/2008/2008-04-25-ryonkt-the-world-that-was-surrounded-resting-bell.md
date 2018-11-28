@@ -2,6 +2,7 @@
 image:
   title: /images/rb24.jpg
 title: 'Ryonkt – »The World That Was Surrounded (&#8230;)« (Resting Bell)'
+subtitle: 
 date: 2008-04-25T10:49:47+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/448-ryonkt-the-world-that-was-surrounded-resting-bell

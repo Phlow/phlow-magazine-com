@@ -3,6 +3,7 @@ image:
   title: /images/benfay.jpg
 subtitle: The Art of Dub
 title: Tribute to Benfay
+subtitle: 
 date: 2007-09-27T12:23:55+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/23-tribute-to-benfay

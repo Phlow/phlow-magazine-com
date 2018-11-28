@@ -2,6 +2,7 @@
 image:
   title: /images/granlab.jpg
 title: Granlab/Broque Free Music Charts 2007
+subtitle: 
 date: 2007-12-03T06:06:04+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/166-granlabbroque-free-music-charts-2007

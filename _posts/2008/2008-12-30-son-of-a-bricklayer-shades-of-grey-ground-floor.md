@@ -2,6 +2,7 @@
 image:
   title: /images/bricklayer_front500.jpg
 title: 'Son Of A Bricklayer – »Shades Of Grey« (Ground Floor)'
+subtitle: 
 date: 2008-12-30T18:13:07+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/834-son-of-a-bricklayer-shades-of-grey-ground-floor

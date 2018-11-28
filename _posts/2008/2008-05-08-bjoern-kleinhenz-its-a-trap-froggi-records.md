@@ -2,6 +2,7 @@
 image:
   title: /images/bloodbone.jpg
 title: Björn Kleinhenz &amp; Winter Took His Life – “Blood bone / Home alone 2” (it's a trap / froggi records)
+subtitle: 
 date: 2008-05-08T05:29:37+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/pop/496-bjoern-kleinhenz-its-a-trap-froggi-records

@@ -2,6 +2,7 @@
 image:
   title: /images/plx016large.jpg
 title: 'Evolent – »Rise And Fall« (Plex Netlabel)'
+subtitle: 
 date: 2008-03-14T05:37:21+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/362-evolent-rise-and-fall-plex-netlabel

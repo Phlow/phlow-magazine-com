@@ -2,6 +2,7 @@
 image:
   title: /images/cover-pirata.jpg
 title: 'Pirata – »Minimental« (Pueblo Nuevo)'
+subtitle: 
 date: 2008-02-15T05:08:03+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/idm/308-pirata-minimental-pueblo-nuevo

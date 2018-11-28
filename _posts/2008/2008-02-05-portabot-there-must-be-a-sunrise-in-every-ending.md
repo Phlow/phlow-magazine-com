@@ -2,6 +2,7 @@
 image:
   title: /images/055_portabot_there-must-be-a-sunrise_front_large.jpg
 title: 'Portabot – »There Must Be a Sunrise in Every Ending«'
+subtitle: 
 date: 2008-02-05T13:51:57+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/267-portabot-there-must-be-a-sunrise-in-every-ending

@@ -2,6 +2,7 @@
 image:
   title: /images/bump016.jpg
 title: 'Asa – »Bifocal« (Bump Foot Netlabel)'
+subtitle: 
 date: 2007-10-15T00:03:43+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/54-asa-bifocal-bump-foot-netlabel

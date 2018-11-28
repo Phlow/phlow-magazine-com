@@ -2,6 +2,7 @@
 image:
   title: /images/artwork_500.jpg
 title: 'João Triangular – »João Triangular EP« (Merzbau)'
+subtitle: 
 date: 2008-08-13T05:08:20+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/611-joao-triangular-ep-merzbau

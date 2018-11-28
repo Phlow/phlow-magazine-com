@@ -2,6 +2,7 @@
 image:
   title: /images/untitled-3.jpg
 title: 'Kiorda Däkin – »3« (1bit Wonder)'
+subtitle: 
 date: 2008-04-11T13:41:54+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/388-kiorda-dakin-3-1bit-wonder

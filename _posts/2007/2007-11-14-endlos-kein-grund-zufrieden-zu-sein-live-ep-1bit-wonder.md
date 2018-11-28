@@ -2,6 +2,7 @@
 image:
   title: /images/endlos_500.jpg
 title: 'Endlos – »Kein Grund Zufrieden zu Sein« (1Bit Wonder)'
+subtitle: 
 date: 2007-11-14T06:00:19+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/electronica-indietronic/111-endlos-kein-grund-zufrieden-zu-sein-live-ep-1bit-wonder

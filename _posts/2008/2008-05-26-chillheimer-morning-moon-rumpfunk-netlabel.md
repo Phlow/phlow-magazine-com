@@ -2,6 +2,7 @@
 image:
   title: /images/rfr013.jpg
 title: 'Chillheimer – »Morning Moon« (Rumpfunk Netlabel)'
+subtitle: 
 date: 2008-05-26T05:16:08+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/523-chillheimer-morning-moon-rumpfunk-netlabel

@@ -2,6 +2,7 @@
 image:
   title: /images/assignment_3_pheek-mix.jpg
 title: 'Pheek – »Assignment 3: The Sound of Archipel«'
+subtitle: 
 date: 2008-04-24T05:31:41+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/465-pheek-mix-assignment-archipel-netlabel

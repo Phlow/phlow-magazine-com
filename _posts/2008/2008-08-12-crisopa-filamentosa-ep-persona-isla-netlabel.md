@@ -2,6 +2,7 @@
 image:
   title: /images/crisopa-filamentosa-cover-artwork.jpg
 title: 'Crisopa – »Filamentosa EP« (Persona Isla Netlabel)'
+subtitle: 
 date: 2008-08-12T16:10:24+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/629-crisopa-filamentosa-ep-persona-isla-netlabel

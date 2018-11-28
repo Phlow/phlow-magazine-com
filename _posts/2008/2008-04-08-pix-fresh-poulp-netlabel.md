@@ -2,6 +2,7 @@
 image:
   title: /images/life-living.jpg
 title: 'Pix – »Life Living« (Fresh Poulp)'
+subtitle: 
 date: 2008-04-08T13:51:56+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/electronica-indietronic/433-pix-fresh-poulp-netlabel

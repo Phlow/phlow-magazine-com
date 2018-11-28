@@ -2,6 +2,7 @@
 image:
   title: /images/barryboy.jpg
 title: Barry Rogers Favorite Netaudio Moments in 2008
+subtitle: 
 date: 2008-12-20T07:25:58+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/915-barry-rogers-best-of-netaudio-2008

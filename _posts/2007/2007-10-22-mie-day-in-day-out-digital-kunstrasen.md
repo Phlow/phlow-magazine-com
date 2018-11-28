@@ -2,6 +2,7 @@
 image:
   title: /images/front.jpg
 title: 'miè – »Day in, Day out« (Digital Kunstrasen)'
+subtitle: 
 date: 2007-10-22T06:00:55+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/59-mie-day-in-day-out-digital-kunstrasen

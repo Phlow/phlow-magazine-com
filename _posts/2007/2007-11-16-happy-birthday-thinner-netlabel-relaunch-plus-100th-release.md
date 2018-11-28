@@ -2,6 +2,7 @@
 image:
   title: /images/thinner-scr-relaunch.jpg
 title: Happy Birthday! Thinner Netlabel Relaunch plus 100th Release
+subtitle: 
 date: 2007-11-16T13:08:49+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/120-happy-birthday-thinner-netlabel-relaunch-plus-100th-release

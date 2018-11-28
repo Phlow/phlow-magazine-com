@@ -2,6 +2,7 @@
 image:
   title: /images/phlow-redesign1.jpg
 title: 'Fresh Redesign: The Future of Phlow-Magazine.com'
+subtitle: 
 date: 2008-01-30T18:46:05+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/273-fresh-redesign-the-future-of-phlow-magazinecom

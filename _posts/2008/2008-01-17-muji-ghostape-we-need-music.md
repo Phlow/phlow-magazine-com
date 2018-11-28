@@ -2,6 +2,7 @@
 image:
   title: /images/art_dummy.jpg
 title: 'Muji Ghostape – »We Need Music«'
+subtitle: 
 date: 2008-01-17T05:37:34+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/228-muji-ghostape-we-need-music

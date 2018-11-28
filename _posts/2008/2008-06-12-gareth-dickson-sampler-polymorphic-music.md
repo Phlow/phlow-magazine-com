@@ -2,6 +2,7 @@
 image:
   title: /images/dickson_500.jpg
 title: 'Gareth Dickson – »Sampler« (Polymorphic Music)'
+subtitle: 
 date: 2008-06-12T05:42:39+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/folk-acoustic/568-gareth-dickson-sampler-polymorphic-music

@@ -2,6 +2,7 @@
 image:
   title: /images/mdoseroland.jpg
 title: Machtdose Free Music Charts 2007
+subtitle: 
 date: 2007-12-08T06:00:38+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/185-ronsens-free-music-charts-2007

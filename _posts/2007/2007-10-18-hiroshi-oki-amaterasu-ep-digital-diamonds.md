@@ -2,6 +2,7 @@
 image:
   title: /images/digitaldiamonds005_hiroshi_oki_-_amaterasu_ep.jpg
 title: 'Hiroshi Oki – »Amaterasu EP« (Digital Diamonds)'
+subtitle: 
 date: 2007-10-18T06:01:43+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/61-hiroshi-oki-amaterasu-ep-digital-diamonds

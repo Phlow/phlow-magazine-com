@@ -2,6 +2,7 @@
 image:
   title: /images/cover-artwork-destination-cologne-vol1.jpg
 title: 'Destination Cologne – Netlabel-Sounds from Cologne'
+subtitle: 
 date: 2008-07-30T05:52:58+00:00
 author: Brigitte
 permalink: /mp3-music-download/free-compilation/679-destination-cologne-netlabel-sounds-from-cologne

@@ -2,6 +2,7 @@
 image:
   title: 
 title: 'Nettare: First Festival of the Italian Netaudio Movement'
+subtitle: 
 date: 2008-12-01T18:30:42+00:00
 author: Moritz »mo.« Sauer
 permalink: /feature/880-nettare-festival-italy-2008

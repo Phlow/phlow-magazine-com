@@ -2,6 +2,7 @@
 image:
   title: /images/kikapu-rip.jpg
 title: 'Kikapu Netlabel died quietly&#8230;'
+subtitle: 
 date: 2008-02-28T13:33:14+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/328-kikapu-netlabel-died-quietly

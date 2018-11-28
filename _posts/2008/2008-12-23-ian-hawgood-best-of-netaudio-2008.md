@@ -2,6 +2,7 @@
 image:
   title: /images/hawgood.jpg
 title: Ian Hawgood's Favorite Netaudio Moments in 2008
+subtitle: 
 date: 2008-12-23T07:00:11+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/913-ian-hawgood-best-of-netaudio-2008

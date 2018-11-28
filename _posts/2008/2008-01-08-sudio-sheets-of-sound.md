@@ -2,6 +2,7 @@
 image:
   title: /images/id040_frontcover_mittel.jpg
 title: 'Sudio – »Sheets of Sound« (Ideology Netlabel)'
+subtitle: 
 date: 2008-01-08T05:32:19+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/104-sudio-sheets-of-sound

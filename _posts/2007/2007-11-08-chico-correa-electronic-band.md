@@ -2,6 +2,7 @@
 image:
   title: /images/foot018.jpg
 title: 'Chico Correa &#038; Electronic Band (Bumpfoot)'
+subtitle: 
 date: 2007-11-08T06:00:19+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/downbeat/105-chico-correa-electronic-band

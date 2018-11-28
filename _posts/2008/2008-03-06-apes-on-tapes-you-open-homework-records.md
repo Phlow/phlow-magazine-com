@@ -2,6 +2,7 @@
 image:
   title: /images/cover-apes-on-tape.jpg
 title: 'Apes on Tapes – »You Open« (Homework Records)'
+subtitle: 
 date: 2008-03-06T11:41:43+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/283-apes-on-tapes-you-open-homework-records

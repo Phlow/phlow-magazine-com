@@ -2,6 +2,7 @@
 image:
   title: /images/brigitte-bijoux-2.jpg
 title: "Brigitte Bijoux's  Free Music Charts 2007"
+subtitle: 
 date: 2007-12-13T06:25:08+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/157-brigitte-bijoux-free-music-charts-2007

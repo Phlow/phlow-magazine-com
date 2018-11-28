@@ -2,6 +2,7 @@
 image:
   title: /images/bim10big.jpg
 title: 'Werner Kitzmüller – »Proximity EP« (Beat is Murder)'
+subtitle: 
 date: 2008-01-14T05:20:25+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/pop/225-werner-kitzmuller-proximity-ep-beat-is-murder

@@ -2,6 +2,7 @@
 image:
   title: /images/preslav_500.jpg
 title: 'Preslav Literary School – »Autumn Bricolage« (Clinical Archives)'
+subtitle: 
 date: 2008-07-18T10:42:52+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/620-preslav-literary-school-autumn-bricolage-clinical-archives

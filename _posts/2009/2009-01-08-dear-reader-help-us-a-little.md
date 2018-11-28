@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/phlow-promo-package.jpg
+subtitle: 
 title: Dear Reader, help us a little!
 date: 2009-01-08T15:28:05+00:00
 author: Moritz »mo.« Sauer

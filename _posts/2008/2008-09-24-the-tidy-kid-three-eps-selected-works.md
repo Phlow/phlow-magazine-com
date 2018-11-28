@@ -2,6 +2,7 @@
 image:
   title: /images/tidykid.jpg
 title: The Tidy K
+subtitle: 
 date: 2008-09-24T10:30:36+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/electronica-indietronic/730-the-tidy-kid-three-eps-selected-works

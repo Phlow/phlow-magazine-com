@@ -2,6 +2,7 @@
 image:
   title: /images/fun-computer-cover-artwork.jpg
 title: 'Angel Galán – »Fun Computer« (Escala Netlabel)'
+subtitle: 
 date: 2008-10-15T05:26:20+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/techno/784-angel-galan-fun-computer-escala-netlabel

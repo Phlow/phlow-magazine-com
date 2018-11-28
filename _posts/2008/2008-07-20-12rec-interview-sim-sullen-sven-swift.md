@@ -2,6 +2,7 @@
 image:
   title: /images/12rec-team.jpg
 title: '12rec Netlabel: So much achieved. So much left to do!'
+subtitle: 
 date: 2008-07-20T06:45:05+00:00
 author: Moritz »mo.« Sauer
 permalink: /interview-portrait/616-12rec-interview-sim-sullen-sven-swift

@@ -2,6 +2,7 @@
 image:
   title: /images/mogwai.jpg
 title: Mogwai/Kreislauf Free Music Charts 2007
+subtitle: 
 date: 2007-12-02T06:00:02+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/151-mogwaikreislauf-free-music-charts-2007

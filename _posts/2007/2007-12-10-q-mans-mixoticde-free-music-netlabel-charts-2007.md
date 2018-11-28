@@ -2,6 +2,7 @@
 image:
   title: /images/mixotic-logo.jpg
 title: "Q-Man's/ Mixotic free music netlabel charts 2007"
+subtitle: 
 date: 2007-12-10T06:06:23+00:00
 author: Moritz »mo.« Sauer
 permalink: /charts/193-q-mans-mixoticde-free-music-netlabel-charts-2007

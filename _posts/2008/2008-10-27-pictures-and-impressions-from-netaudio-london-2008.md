@@ -2,6 +2,7 @@
 image:
   title: 
 title: Pictures and Impressions from Netaudio London 2008
+subtitle: 
 date: 2008-10-27T15:05:14+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/814-pictures-and-impressions-from-netaudio-london-2008

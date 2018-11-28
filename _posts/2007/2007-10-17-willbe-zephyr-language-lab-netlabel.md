@@ -2,6 +2,7 @@
 image:
   title: /images/cover_willbe_llab010.jpg
 title: 'Willbe – »Zephyr« (Language Lab Netlabel)'
+subtitle: 
 date: 2007-10-17T07:16:09+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/hiphop/57-willbe-zephyr-language-lab-netlabel

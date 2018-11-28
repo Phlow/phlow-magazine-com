@@ -2,6 +2,7 @@
 image:
   title: /images/dharmasound-absolute_balance.png
 title: 'Various Artists – »Absolute balance« (Dharmasound)'
+subtitle: 
 date: 2008-04-26T06:05:49+00:00
 author: MartinWisniowski
 permalink: /mp3-music-download/pop/467-various-artists-absolute-balance-dharmasound

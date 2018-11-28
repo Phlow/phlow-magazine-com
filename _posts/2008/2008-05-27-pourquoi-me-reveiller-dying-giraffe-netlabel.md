@@ -2,6 +2,7 @@
 image:
   title: /images/pmr.jpg
 title: 'Pourquoi me Reveiller – »They took my bed outside« (Dying Giraffe Recordings)'
+subtitle: 
 date: 2008-05-27T05:20:25+00:00
 author: Christian Grasse
 permalink: /mp3-music-download/pop/535-pourquoi-me-reveiller-dying-giraffe-netlabel

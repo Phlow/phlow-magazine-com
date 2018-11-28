@@ -2,6 +2,7 @@
 image:
   title: /images/mep-front.jpg
 title: 'Run for Cover #3: Mickey Eats Plastic’s “To Kill The White Glamour”'
+subtitle: 
 date: 2008-03-27T05:48:33+00:00
 author: Bettina Rhymes
 permalink: /feature/376-run-for-cover-3-mickey-eats-plastic

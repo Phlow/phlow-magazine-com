@@ -2,6 +2,7 @@
 image:
   title: /images/offthesky_movement_500.jpg
 title: 'offthesky – »Cumulae Movement« (Autoplate)'
+subtitle: 
 date: 2007-10-26T06:00:21+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/ambient/78-off-the-sky-cumulae-movement-autoplate

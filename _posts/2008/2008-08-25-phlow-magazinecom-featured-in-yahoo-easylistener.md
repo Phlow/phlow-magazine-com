@@ -2,6 +2,7 @@
 image:
   title: /images/yahoo-easylistener.jpg
 title: Phlow-Magazine.com featured in Yahoo! Easylistener
+subtitle: 
 date: 2008-08-25T11:50:01+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/704-phlow-magazinecom-featured-in-yahoo-easylistener

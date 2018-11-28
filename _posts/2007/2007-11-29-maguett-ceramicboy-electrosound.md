@@ -2,6 +2,7 @@
 image:
   title: /images/es33_413.jpg
 title: 'Maguett – »Ceramicboy« (ElectroSound)'
+subtitle: 
 date: 2007-11-29T06:07:17+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/114-maguett-ceramicboy-electrosound
