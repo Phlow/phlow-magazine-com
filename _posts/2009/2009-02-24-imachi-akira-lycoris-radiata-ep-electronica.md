@@ -29,8 +29,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 **"Lycoris Radiata" is wonderfully diversified!** The album kicks in with the ambient "Noise Dreams". The tracks sounds rather dreamful than noisy and charmed away my misgivings that [Imachi Akira](http://www.imachi.org/) is just another Netaudio Noise-musician. "Birdpia" afterwards entangles Electronica, gentle guitar-chords and field recordings. Alone, the mix is a bit awkward with the clicks n' cuts quite prominent (which is true for some of the tracks and the only major drawback.
 
 At "Aware Si Mono", Akira pulls out the echo chamber, mixing warm noises with harmonica and his guitar pickings.  The title track "Lycoris Radiata" surprises with massive guitar feedback and distortion noises, while "Silent Way" just afterwards shows the way back to Dub and Jazzy soundscapes. Double bass and piano work superb.  "..." is the last track on the album and with it's introspect Folk-motives, all these little noises and lo-fi atmosphere it reminds me of [Rain Netlabel](http://rainmusic.free.fr/) or, more explicit, [Daisuke Miyatani]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/619-daisuke-miyatani-fragments-ep-creation-centre) or [Beddoes](http://www.beddoesmusic.com/) (from whom you will hear somewhat later).

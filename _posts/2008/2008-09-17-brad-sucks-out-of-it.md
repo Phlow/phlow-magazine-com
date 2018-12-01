@@ -21,8 +21,6 @@ tags:
 ---
 **"A One Man Band With No Fans"** // This is what Brad Sucks (Brad Turcotte) says about his music. Well, he is a one man band but he is definitely not with no fans. Since 2001 he releases his music freely on the web and ever since he is using blogs and P2P-technology to spread his works. He can be considered as one of the first fully open source web-based recording artists and he just released his second album "Out of it". <!--more-->
 
-<!--adsense-->
-
 His debut "[I don't know what I'm doing](http://www.bradsucks.net/albums/i_dont_know/)" (2003) was well received in the online community and made him become one of the first "web-musicians" who gained attention beyond the digital world.
 
 > "[...] Despite giving my music away for free online, my songs have been licensed for television, played on commercial and campus radio, and I made enough money from licensing and sales to do a real pressing of my first CD [...] " ([Brad Turcotte](http://www.bradsucks.net/about/#what))

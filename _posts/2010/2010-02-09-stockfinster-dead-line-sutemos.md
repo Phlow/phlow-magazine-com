@@ -10,13 +10,6 @@ categories:
   - Pop
   - Rock
 tags:
-  - batti
-  - download
-  - Pop
-  - progressive
-  - Rock
-  - Sebastian Borg
-  - Stockfinster
   - Sutemos
 download:
   zip_url      : http://www.archive.org/download/Stockfinster.-DeadLinesutemos025/Sutemos025.zip

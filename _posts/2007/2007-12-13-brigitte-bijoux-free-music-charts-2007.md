@@ -21,8 +21,6 @@ tags:
 ---
 The french-german [Brigitte Bijoux]({{ site.url }}{{ site.baseurl }}/about#brigitte) likes to spin her desks in tokyo. Eaten by the magnetic force of the tokyo underground, busy B. released her debut-ep ["Le Fleuve Profonde"](http://www.ideology.de/archives/audio000035.php) already some time ago on ideology.de. But that's no reason for her to surf the web for some music diamonds in her free time. Diamonds are a girls best friend, you know. That's why Brigitte is so fascinated by the worldwide free music movement. As DJs always do, she likes to digg and than to digg some more. Just enjoy her top-5 netlabels, releases and songs she enjoyed 2007 and give her some shouts over at [Phlow-Magazine.com](http://Phlow-magazine.com) where she blogs her favorite netlabel music.<!--more-->
 
-<!--adsense-->
-
 ### Brigitte Bijoux's Top-5 Songs
 
 ### Brigitte Bijoux's Top-5 Releases

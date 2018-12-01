@@ -20,8 +20,6 @@ tags:
 ---
 ***Releaxed Mexican Downbeats*** // Slowly crawls the gaucho out of his hammock, grabs his guitar and plays some melodic riffs for us. The hashoil circulates through his venes and a relaxed and easygoing mood lets him find some delicate melodies. Meanwhile his friends nod smiling to the smooth downbeats. Live can be so sweet.<!--more-->
 
-<!--adsense-->
-
 While I am sitting in the centre of Tokyo, while I see all the hectic on the street, Cri-Kong makes me smile and relax. Again [lovely downbeats from Konfort Netlabel]({{ site.url }}{{ site.baseurl }}/mp3-music-download/downbeat/71-flux-and-vega-believe-ep), lots of tunes and a nearly sedating groove paints pictures in my head. Grab these three wonderful songs and take a downtime. Five stars and "Ola Mexico! Love ya!"
 
 Found via [blog.rebellen.info](http://blog.rebellen.info/2007/09/27/mexican-downbeat-cri-kong-hash-oil-ep/)

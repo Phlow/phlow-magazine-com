@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 The **dub-inspired techno music from New Delhi FM** is slightly dark, deep and of course minimal in its essence. While listening to simple but bright synthesizer chords we let loose and drift on lots of echoes into the world of "Row By". Even though you - if you enjoy yourself listening to DubTechno - won't find new twists in his tracks New Delhi FM has learned his lessons. **The artist from Cologne builds huge hypnotic loops and lets us fall into trance.** What do we want more?
 
 Yes, a warm and melodic arrival! Just listen how the beautiful electronca track "Pharmacy Officers Parade Days" drops us carefully on the ground. Excellent release!

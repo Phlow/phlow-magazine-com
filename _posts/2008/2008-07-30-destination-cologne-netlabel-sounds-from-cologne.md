@@ -21,8 +21,6 @@ tags:
 
 **Spread the word, and embed the compilation-widget on your website! To get the code just click on the Share-Button!**<!--more-->
 
-<!--adsense-->
-
 **Yeeee!** Phlow-Magazine.com proudly presents "Destination Cologne" a free netlabel compilation by netlabels from Cologne. **To get more information about all the netlabels involved click on the Netlabel-Button in the widget.** And these netlabels were involved in the making of "Destination Cologne":
 
   * [Zimmerlautstaerke](http://www.zimmer-records.org/)

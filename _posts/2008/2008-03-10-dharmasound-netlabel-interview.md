@@ -19,8 +19,6 @@ tags:
 ---
 ***Interview with the italian Dharmasound Netlabel*** // Over the past couple of years, the [Rome-based net-label dharmasound]({{ site.url }}{{ site.baseurl }}/interview-portrait/325-dharmasound-netlabel-interview) has put out nearly forty first-rate releases covering a wide range of music. Last Fall, Gianluigi Cocco - dharmasounds’ general manager and artistic director - was kind enough to take some time to talk a bit about the label, their philosophy of music, and their place in the net-label scene. Dave Kneifer talked for Phlow with the labelhead.<!--more-->
 
-<!--adsense-->
-
 <div class="author-info">
   <p>
     Interview done by <a href="http://cageyhouse.com">Dave Keifer</a> who does odd jobs for <a href="http://www.dog-eared-records.com/">Dog Eared Records</a> and releases music as Cagey House.

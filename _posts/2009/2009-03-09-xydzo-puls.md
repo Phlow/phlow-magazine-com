@@ -31,8 +31,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 First off, the term Folklore might be misleading. Ulmar's approach to music is fully electronic, [XYDZO](http://myspace.com/xydzo) is not about going back to the essentials, restoration or whatever. While listening to "Y" the reference that came to me repeatedly was "My Life in Bush of Ghosts" by _Eno & Byrne_.
 
 Back in 1981, Ambient music pioneer _Brian Eno_ and _Talking Heads_ frontman _David Byrne_ hooked up to create a artificial documentation of tribal music, ethnic field-recordings and Avantgarde Pop. Ljekio Ulmar adopts a similar position. He takes elements from Russian and African Folklore, popular and electronic music and glues it together to something new and exiting. **This is wonderfully successful due to his substantial understanding of Pop music and music in general** (is the title "Y" itself a meta-reference to the _Pop Group_'s abrasive debut from 1979?).

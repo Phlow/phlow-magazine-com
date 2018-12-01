@@ -29,8 +29,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 In a way, Cornbeast suits the recent trends in Discorock and punky Electronica quite well. Catchy melodies, uplifting beats, rough sounds. So far, this is true for a lot of chip music releases. But Cornbeast's "<a href="http://www.8bitpeoples.com/discography/by/cornbeast" target="_blank">Chip Hero</a>" brings along more than just 20 minutes dancefloor energy. Below his bleepy textures, _gameboy_ Fredrik hides well-written songs with melodies that make stick and do not solely work by making you remember your Nintendo handheld.
 
 This is the case especially for "Megablast", "Chip Hero" and the _ballad_ "Sparks". _Soulwax_ meets _Daft Punk_ in a 8bit outfit? Gameboy Arena Rock? Probably said too much, but you get the idea. Recommended.

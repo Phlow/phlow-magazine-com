@@ -20,9 +20,7 @@ tags:
   - Pop
   - Portabot
 ---
-**Molten Electronica, Pixelated Pop** ****| The guy behind Portabot is Cesar Pesquera, a professional director and graphic designer from Barcelona. I got to know about him thanks to Heezen's recent mixtape at [Audiotalaia](http://www.audiotalaia.net/at007.htm), which incorporates one of his tunes (and is a wonderful listen in a whole, btw). For his album, Portabot created a carefully rounded down mixture of processed guitars, ambient synth-textures and a lot of in-between.<!--more-->
-
-<!--adsense-->
+**Molten Electronica, Pixelated Pop** ** The guy behind Portabot is Cesar Pesquera, a professional director and graphic designer from Barcelona. I got to know about him thanks to Heezen's recent mixtape at [Audiotalaia](http://www.audiotalaia.net/at007.htm), which incorporates one of his tunes (and is a wonderful listen in a whole, btw). For his album, Portabot created a carefully rounded down mixture of processed guitars, ambient synth-textures and a lot of in-between.<!--more-->
 
 Actually, I tried to convince Cesar Pesquera to give his album a proper release at [12rec.](http://www.12rec.net "12rec. Website") but he didn't dare to respond. So, because I don't want anyone to miss this gem, I advice you to get your lazy fingers over to Last.fm and play the right-click-save-as game for the twelve songs of "There Must Be a Sunrise in Every Ending".
 

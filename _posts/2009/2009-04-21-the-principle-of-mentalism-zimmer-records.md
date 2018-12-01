@@ -29,8 +29,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 But some tracks have wicked twists. The best example for something "out of the ordinary" is "save our souls" from Raganova. Disharmonic, plain and instant groove right from the first second.
 
 As already mentioned, this is a compilation of various artists. Aleks from Zimmer Records told me, that he felt an itch in his fingers and wanted to make more compilations, just after doing mixes and compilations for other occasions and projects - for example the [Cologne-Commons compilation]({{ site.url }}{{ site.baseurl }}/mp3-music-download/free-compilation/1144-cologne-commons-compilation). If we can expect more of this well done compilations in the future, than Zimmer will keep on growing into the "must have" direction.

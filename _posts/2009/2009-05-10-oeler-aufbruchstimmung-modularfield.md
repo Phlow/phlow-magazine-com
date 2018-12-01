@@ -12,8 +12,6 @@ categories:
   
 <!--more-->
 
-<!--adsense-->
-
 There is more to the tracks, that let the train keep rolling in. The name "Aufbruchstimmung (atmosphere of departure)" is clearly meant pragmatically. Don't hesitate - celebrate. Old wisdom like this, is about to happen once again. I visited some of the Modularfield-parties and can agree, that they mean it like this. Turn the volume up and let the things go through. Oeler is also working on live-sets. The Modularfiled-webseite says about this record: "Meanwhile Oeler made a lot of tracks between minimal / techno / techhouse / house and tribal and wants to introduce his favourite Songs of 2007 and his first live production."
 
 ## MP3 Techno Music Download

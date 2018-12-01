@@ -26,8 +26,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Eric Schoster produced and recorded the follow-up to his 2004 debut with a bunch of friends and family, among these Sebastian Kruger of [Inlets](http://www.inletsmusic.com/) and Kevin Gipson aka [allthatfall](http://allthatfall.com/). [Nicholas Sanborn](http://www.myspace.com/madeofoak) borrows his voice and composition talents for one tune (he also did the artwork). Fine guests, all together, and they make "Middlemarch" a fine record.
 
 /images/hecacjog_feature_front.jpg"

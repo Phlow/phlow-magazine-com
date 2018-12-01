@@ -25,8 +25,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 I truly love this slightly pathetic voice of Henrik Jose. I adore these little electronic experiments with sounds. And I simply get hooked by the frenetic flavor of "Possibilies". It's warm, enthusiastic and beautiful. It made my day.
 
 The whole compilation called "hypocondriac" doesn't work for me in general. I skipped a lot of the tracks. To many different styles, sometimes to dark, sometimes just boring. There are only two more interesting songs to mention. One is called "jesus was a b-boy (makunouchi bento remix)" which is heavily inspired by the sound of [Burnt Friedmann](http://www.burntfriedman.com/). It's a playful spoken-word-hip-hop-track. And give a listen to "koi"by Kyle Dawkins a simple but warm electronica track.

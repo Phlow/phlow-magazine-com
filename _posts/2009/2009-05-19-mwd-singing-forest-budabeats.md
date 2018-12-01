@@ -28,8 +28,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 No, I am not related with [Budabeats]({{ site.url }}{{ site.baseurl }}/tag/budabeats), I just respect and love their releases. All productions are well-produced, stuffed with delightful samples and this love for Hip Hop and often also Jazz. Just listen to "Trouble Scene". M.W.D. knows how to melt funky guitar licks, short brass sounds and organ chords together. It sounds so live, so delicious.
 
 **Gimme some more of that groovy jazz juice!**

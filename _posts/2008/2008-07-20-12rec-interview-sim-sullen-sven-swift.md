@@ -29,8 +29,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 12rec Netlabel is a two-headed squirrel. Most of you know already [Sven Swift]({{ site.url }}{{ site.baseurl }}/about#sven) for his in-depth-reviews on Phlow-Magazine.com and his [headstrong compilations]({{ site.url }}{{ site.baseurl }}/dj-mixes-and-compilations) he contributes to the world-wide netlabel-phenomena. In comparison Sim Sullen seems more quiet, but the head behind travels a lot through germany, <a href="http://flickr.com/photos/simsullen/" target="_blank">fotographing creative commons- and web 2.0-conferences</a>. I celebrated already together with them at Netlabel Festival Zürich in 2006 - and guess, what can I tell you about this netlabel-duet? Amusing, freaky and truly dedicated...
 
 **Simon and Sven, how did you guys meet and how did you get the idea of coordinating a Netlabel together?**

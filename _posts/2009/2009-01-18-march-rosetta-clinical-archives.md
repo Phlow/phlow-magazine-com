@@ -32,8 +32,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 I think everybody will agree that all-rounder Tom Carter has a wonderful voice. When it comes to the instrumentals, people could argue about the cheapo 80's drum sound and some kitchy textures. **But who cares about such details when the songs come off in such sublime perfection?** 
 
 Carter borrows a lot from David Byrne (_Talking Heads_, for performance and sexappeal) and Mark Hollis (_Talk Talk_, the fragility) but shines in unmistakeable uniqueness. Sweet and gooey, kitchy, intimate and touching, funky here and there, Tom Carter manages to balance all these references for maximum effect. _Hot Chip_ might serve as an accurate, more contemporary comparison. Two or three songs in the later half drop off a bit with their easy-listening flavour and an unsavoury Garage-influence. Every thing else: ace. Watch this guy.

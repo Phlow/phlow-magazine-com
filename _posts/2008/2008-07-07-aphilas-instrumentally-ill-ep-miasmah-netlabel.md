@@ -32,8 +32,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 And if you own this musical diamond already, than dig this new two free tunes from Aphilas, we found on <a href="http://www.lastfm.de/music/Aphilas/" target="_blank">Aphilas Last.fm-Website</a>: <a href="http://freedownloads.last.fm/download/3217595/Lifelong%2BFiction.mp3" target="_blank">Lifelong Fiction (MP3)</a> and <a href="http://freedownloads.last.fm/download/183458309/Hi%255B.mp3" target="_blank">Hi (MP3)</a>.
 
 ## MP3 Downbeat Music Download

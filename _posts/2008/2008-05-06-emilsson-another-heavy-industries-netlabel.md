@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Emilson named his four tracks simply "Another part I", "Another part II", "Another part III" and "Another part IV". I guess he did so, because all the tracks have the same purpose in mind: Cheerful dancing. Unlike most of the techno-sounds found on Heavy Industries, "Another" awaits you with pure-blooded good old-fashioned Trance-Anthems. Feel ecstatic when the sky opens up in part four to lift you up. **Thrilling in its clarity like in the old days!**
 
 ## MP3 Trance Music Download

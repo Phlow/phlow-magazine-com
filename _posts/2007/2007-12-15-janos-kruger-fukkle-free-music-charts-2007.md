@@ -22,8 +22,6 @@ tags:
 ---
 Janos Krüger aka fukkle is a long-time student in media sciences working as online producer at day. The balance comes from home with his three kids and wife. The rest of the time he is writing together with some friends for the Leipzig based fanzine [abvmob](http://www.abvmob.de/blog) about Eastern europe and music, established in 1999. His private blog ["Fukkle Bim Jerry"](http://www.abvmob.de/fukkle/) is about streetart, netaudio, art and photography. Since september 2007 he is filling the [Podcast "Hudi Pudi Wanze List"](http://www.podchains.net/feed.php?id=43331c306e5bf52406b746965f9ae697) with some ass kicking and nice netaudio tunes. Sometimes he paints pictures with acrylic, takes tons of pictures, experiments in videoblogging or skips through his vinyl collection of old Jazz and Latin records as well as electronic music records.<!--more-->
 
-<!--adsense-->
-
 ### Top-5 Songs
 
   1. [PNFA - "vanilla spider" [art.014] from "push it again"](http://www.arteqcue.de/releases/art014-pnfa-push-it-again/)

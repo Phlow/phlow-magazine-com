@@ -23,8 +23,6 @@ Tokyo Dawn is back from the dead. And while they prepare the funk we sent you ba
 
 <!--more-->
 
-<!--adsense-->
-
 If I listen to Hip Hop music I prefer the jazzy stuff. Especially crackling vinyl, jazzy loops and a pounding beat are damn fine to chill. And that's the part where this beautiful compilation comes in. Lean back and enjoy dusty loops and mysterious tracks by Mentz. Take a bath together with The Groove Guerrilla and the charming voice of Nicole Hadfield. Or listen to the voice of Anthony Baggette in "Summer in the Hood"...
 
 And don't miss the remix of "Pimp Knowledgy" by Kri. This was the Fuck You-Tune the Tokyo Dawn Crew left on MP3.com when the company changed their policy against the will of the musicians... **That truly was back in the days but is a fresher subject than ever before!**

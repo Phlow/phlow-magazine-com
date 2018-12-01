@@ -72,8 +72,6 @@ download:
 ---
 "Busy times we live in, dude!", says the weed-smoker while getting laid back to manage all the information, all the news, all the technological developments running like a rush through his data-pipeline. "It's just sick. How do I stay in touch with all that?!? I need more drugs to come down..."<!--more-->
 
-<!--adsense-->
-
 Yeah, somehow he's right. Everything is growing so fast, so many distractions, funky toys and things out there - all want to be checked. But instead of giving up, smoking your head away Phlow-Magazine.com offers you an interesting opportunity: We invite you to take some time off and try our delicious drug called free music.
 
 Download our first anniversary chill out compilation, rip the internet-cable out of the box and chill **one hour, 22 minutes and 55 seconds** with us somewhere at an imaginary coast, under the water or like my grandpa on his little boat with grandma - Look at the cover how the old freestyler enjoyed his days!

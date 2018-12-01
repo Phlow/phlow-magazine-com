@@ -21,8 +21,6 @@ tags:
 ---
 Afristralian is a programmer who lives in Australia and comes from South-Africa - hence Afri-stralian. He is a music fan of many, many genre's but has a soft spot for anything electronic be it artistic, musical and physical. He spends his free time with music in his studio or writing reviews for his blog [www.netlabelreview.com](http://www.netlabelreview.com) where he tries to hand pick the most accessible netlabel albums. His 2007 selection is mostly downtempo, ambient and IDM. Charts the afristralian way...<!--more-->
 
-<!--adsense-->
-
 ## Afristralian's Top 5 Tracks for 2007
 
 ### Top-5 Releases

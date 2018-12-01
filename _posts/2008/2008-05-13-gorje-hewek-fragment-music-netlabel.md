@@ -21,8 +21,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 "Sur-Dramatic Nature" is like a surrealistic drawing. While drifting through diverse sounds, the EP sounds melancholic, deep and thoghtful. You hear whispering, clicks, soothing epic strings and crackling vinyl sounds. Just listen to those great tracks called "Sudden Care" and "That in it".
 
 **A magnetic EP inbetween genres like Ambient, Trance and Minimal Techno. Truly atmospheric.**

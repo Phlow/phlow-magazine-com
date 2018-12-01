@@ -31,8 +31,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Since his debut-ep ["Current Trends in Neural Science"](http://www.ideology.de/archives/000038.php) on Ideology I enjoy drifting away with Sudio's electronic productions. His finest release to date is the ["Soulstrip (live@Evoke2004) EP"](http://www.ideology.de/archives/000089.php). "Soulstrip" gives you the best insight of how Sudio sounds: cool, melodic, experimental and deep. While "Soulstrip" is a journey into sound, ["Sheets of Sound"](http://www.ideology.de/archives/audio000185.php) comes along with a approach to push some tracks over to Club-DJs. But I doubt, that DJs will use his complex productions on the dancefloor. All those changes, different hooks might frigthen the normal clubbers and make them stumble.
 
 By contrast his tracks can be heard over and over again. This is my favorite side of Sudio. Tracks like "Pulsed Deflection" or "Fundamental Oscillation" never rest on one groove, on one sound or one beat. His music is versatile, vivid and you'll find lots of twists and sound-ideas. Music that survives trends. Music for people with an ear for colourful techno music. In the old days, they called it [intelligent techno](http://en.wikipedia.org/wiki/Intelligent_dance_music).

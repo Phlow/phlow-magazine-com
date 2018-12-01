@@ -37,8 +37,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 **It all started with a Valentine's gift.** It was back in 2006 when Geert van der Velde wrote a song for his girlfriend. She must have liked it. They married and Geert formed a band. [The Black Atlantic](http://www.theblackatlantic.com) was born. Two years, several gigs and countless jams later, the group has recorded its debut album, "[Reverence for Fallen Trees](http://www.beepbeep.nl/the-black-atlantic-reverence-for-fallen-trees/)". It was [created over the fall of 2008 in a log cabin](http://www.youtube.com/watch?v=SWZZlmOcZ2Y) in the [Adirondack Mountains](http://commons.wikimedia.org/wiki/Category:Adirondack_Mountains?uselang=de). 
 
 ![The Black Atlantic]({{ site.url }}{{ site.baseurl }}/images/theblackatlantic.jpg)

@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 "Bittersweet Love EP" is condensed dark atmosphere. I am fascinated by the minimal sound, which sucks you into the deep EP. With little sound elements, some small changes the czech producer creates a cinematic grimmy shortstory. Great stuff, ready to rewind!
 
 PS: Discoverd on <a href="http://soundthefreetrumpet.typepad.com/catching_the_waves/2008/02/lingers-on-the.html" target="_blank">Catching The Waves Weblog</a>.

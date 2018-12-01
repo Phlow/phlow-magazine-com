@@ -37,8 +37,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 2nd Mouse describes his music as being like Plaid, Depeche Mode, Aphex Twin and Square Pusher having a jam session - _imagine what a party that would be_. So, with this illustrious company in mind, standards are set very high. 
 
 Mister Da Mouse chooses his sounds well with an ear to individual combinations of both classic and new sounds that cause you to re-assess your assumptions. "Levite" is an album whose feel is, in one respect, cinematic; tracks such as "Times are hard for dreamers" and a "Fistful of beats" create a sense of place, atmosphere and narrative in the listener that is evocative and entrancing. On the other hand Levite is also an album stuffed full with **good old synth pop tunes**. Throughout there is a sense of playfulness.

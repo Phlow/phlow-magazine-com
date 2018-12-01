@@ -20,8 +20,6 @@ tags:
 ---
 **Electronic Pop** // With their first Hi-Fi release the Birdsong Netlabel from Israel distributes six wonderful pop-orientated remixes by Beatmapper. Every track comes around with another flavour ranging from the fabulous orchester-remix "tattoo" for Her Highness to the enthusiastic "When i go to the barn" for Lonesome Executive. Especially "When i go to the barn" creeps under my skin with these anthem-like chords.<!--more-->
 
-<!--adsense-->
-
 Beatmapper did it: six remixes for three different birdsong artists which are nice to hear. A pleasant journey which takes you from electronic pop to orchestral pop to an instrumental anthem which leaves you quiet and peaceful behind.
 
 **Be kind rewind!**

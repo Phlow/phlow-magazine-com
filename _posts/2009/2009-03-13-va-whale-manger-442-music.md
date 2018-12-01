@@ -33,8 +33,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Actually, this compilation is only _four_ songs and _one_ musical collective:
 
 <img class="alignleft" src="http://static.howstuffworks.com/gif/christmas-songs-16.jpg"Sydney-based [Telafonica](http://telafonica.blogspot.com/) start with their version of "Angels We Have Heard On High". Absolutely intriguing, the band contrasts their coldish Trip Hop / Electronica sound with the heavenly "_Gloria, in excelsis Deo_" hookline of the traditional carol. Wonderful voices (Magill/ Elmer), wonderful _trumpets_.

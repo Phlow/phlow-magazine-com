@@ -23,8 +23,6 @@ tags:
 ---
 ***Way Wild: Something Like Hip Hop*** // The Netaudio scene is a laboratory for musicians, a place to publish sounds the mainstream isn't ready for yet. Exactly the right knothole for Portland-based Owl Dudes. Their approach to experimental lo-fi Hip Hop incorporates shoegazing textures, hardcore rap and a good amount of knob tweaking. Fresh and challenging.<!--more-->
 
-<!--adsense-->
-
 The Owl Dudes are Jesse Johnson and Paul Wig, two white breads from boomtown Portland, Oregon. They published their debut "For The Feelers" by the hands of UK [La Familia](http://8302.net/familia/ "La Familia Netlabel") label, one of the most miraculous and enigmatic _Notlabels_ I know. We get to know nothing about the Dudes despite free access to their songs in MP3 format. That's fairly enough, no?
 
 "For The Feelers" consists of nine rather short tracks and drafts, blending into each other like a mixtape. Part vocal part instrumental, the Owl Dudes take the best from Hip Hop, Punk and electronic music to create something exciting and new. Their snotty raps sound tight and draw influences from both Hip Hop and US Hardcore.

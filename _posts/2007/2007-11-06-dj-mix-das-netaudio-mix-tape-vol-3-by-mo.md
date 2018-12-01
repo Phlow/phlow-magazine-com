@@ -25,8 +25,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 After some diggin' and mixin' it feels now like a revivifying - ghee! what a word - espresso machiato in the afternoon. mo. pleases us again with a blend of diversity and melodic grooves. As always our mate from Cologne proves that just one music-style is just boring. So grab your peace of the pie and reap the benefits of eclectic netaudio-music. It's about freedom of choice, free culture and of course accurate taste.
 
 We say: Thank you for downloading :)

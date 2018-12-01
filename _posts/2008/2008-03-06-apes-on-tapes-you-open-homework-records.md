@@ -32,8 +32,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Fresh, Fresh, Superfresh! Their full length debut after an EP in early 2006 is brilliant from top to bottom. With _Prefuse 73_ and _Dabrye_ as the main contemporary influences in the back, the Apes on Tapes add a good amount of Popappeal to their idea of Hip Hop. Nearly every song has a catchy melody, crisp beat or uncommon element to attend to. "Even If" for example has a warm 70's sound due to the recycled Soul-sample. In concert with cut-up vocals, _J. Dilla_ has to be mentioned as an additional reference. The hit single and opening track is "Catkilla". Carefully entangled guitars, a smooth-but-tight beats, everything's just in place. "Grand 5" has a similar feel and makes your head nod with a melodious piano-loop instead of guitar licks. So good!
 
 On the more abstract, minimal side, "Da Try Brute" and especially the way-out "Limone Nel West" left me stunning. At "Light Dry But Creamy" and "Sleep Soon, Wake Up Soon", Lagàr and Antani fuse tricky IDM-style beats with smooth ambient textures and beautiful piano loops. Awesome! A first potent candidate for 2008's best of-lists.

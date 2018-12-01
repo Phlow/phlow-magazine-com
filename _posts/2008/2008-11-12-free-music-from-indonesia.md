@@ -19,8 +19,6 @@ tags:
 ---
 ***Visiting Hidden Corners of the Global Netlabel Phenomena*** // While internet data highways connect more and more countries and cultures all over the world, the distribution of music speeds up and we get access to places we've never been. Places like Indonesia where cassettes are still a commonly used medium to listen to music next to CDs and MP3s. Indonesia where netlabelism is still a tiny growing plant but where the idea of Creative Commons fall with its seeds on a rich ground. Welcome to the world wide web and the first netlabel from Indonesia: Yes No Wave Music.<!--more-->
 
-<!--adsense-->
-
 The head behind the Indonesian netlabe called Yes No Wave Music is <a href="http://woktherock.mes56.com" target="_blank">Wok The Rock</a>. As a visual artist he lives and works in <a href="http://maps.google.de/maps?f=q&hl=de&geocode=&q=Yogyakarta,+Indonesia&ie=UTF8&ll=-7.798079,110.390625&spn=60.664622,89.648438&z=4&iwloc=addr" target="_blank">Yogyakarta, Indonesia</a>. The 33 years old loves music since his 8th birthday and released his first album when he was 16. In the old days he used an old tape recorder for his first release.
 
 Wok The Rock was involved in the punk scene 1996, writing and publishing a zine, formed a label which focused on punk music, built a web-based punk community and organized some underground music gigs. In 2002 he began forming and organizing [Ruang MES 56](http://www.mes56.com/), an artists initiative space focused on contemporary photography. In 2007 he started Yes No Wave Music by himself with the help of Bagus Jalang who writes the liner notes for each release. For a living he does web and graphic design.

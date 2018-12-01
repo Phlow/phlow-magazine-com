@@ -24,8 +24,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Konfort tell us about their own artist, that he "updates the kitsch spirit of Mexican sci-fi films of the early seventies" and gives them a new soundtrack. I've never seen a mexican sci-fi-movie but I could imagine, that the pumping beats would fit perfectly.
 
 As ingredients for his electronic dance music Rubinskee throws some really funky herbs into the disco-bowl. Together with solid subbass-driven frequencies we celebrate the end of humanity with some hedonistic bodymoves.

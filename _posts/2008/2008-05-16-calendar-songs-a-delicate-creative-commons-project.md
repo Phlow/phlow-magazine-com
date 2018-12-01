@@ -35,8 +35,6 @@ And obviously putting it online was the best solution. But of course, MySpace is
 
 That way I gave people a reason to come back to the site after their first visit, like "I wonder if she made it this month...". It all went online in October 2006. It took about two months to put it together from when I had the idea.
 
-<!--adsense-->
-
 **If you speak in terms of music-engineering, there is a saying "Garbage in, Garbage out!". It means, if you record music badly, you can't do anything to make it sound better. What kind of equipment did you use to produce your songs? Are they all recorded at home?**
 
 I'm not sure I agree with that saying. I would rather listen to a bad recording of a good song than an amazing recording of a terrible song. And I put all my faith in people having the same attitude as me, because I know I can't make the most perfect recordings.

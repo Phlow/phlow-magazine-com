@@ -30,8 +30,6 @@ There are only two of us behind all this - Sutemos and Walkman. We don't want to
 
 It all started out of love for electronic music. Nobody knew it back in 2000 in Lithuania, so we felt that we should promote and share it. It all started with reviews, news and articles. Then we started the English version of the website and the netlabel came in only few years later.
 
-<!--adsense-->
-
 **What impresses me much is that you delivered extraordinary artwork along with your music releases. It seems that you are some sort of collective. Do you come all from the same city? Do you work together? How close are your bonds and why do you present these artworks together with your music?**
 
 The story behind the artworks is pretty simple - most of them are done by the people we know. We just happen to take part in a pretty cool community of local artists and they tend to like what we do. Nowadays it also turns to be a good platform for promotion as well for artists which join us from all over the country and even from abroad. There are also some cases when a certain artwork is a wish of the artist (i.e. 3tronik, FusedMarc) and they already have somebody to complete it. We don't really mind that as long as we like the result ourselves.

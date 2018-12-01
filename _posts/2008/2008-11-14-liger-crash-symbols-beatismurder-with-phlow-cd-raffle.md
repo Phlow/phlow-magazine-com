@@ -24,8 +24,6 @@ tags:
 ---
 ***Vienna's Most Wonderful Popband*** // Dino Spiluttini, the blond beau behind the Liger moniker, asked me to review his "The Infra-Ordinary EP" back in 2005. The EP was a cute little gem of a Netaudio release, filled with fragile, eccentric and electrified Folk songs. Three years later not much has changed- despite the fact that "Crash Symbols" became such a wonderful revelation.<!--more-->
 
-<!--adsense-->
-
 Well- talking about sound, "Crash Symbols" is far apart from the lo-fi Folk of "[The Infra-Ordinary EP](http://www.beatismurder.com/netlabel/index.php?option=com_content&task=view&id=16&Itemid=43)" and the follow-up [split EP](http://www.beatismurder.com/netlabel/index.php?option=com_content&task=view&id=22&Itemid=46) with [A Thousand Fuegos](http://www.myspace.com/athousandfuegos). Carefully mixed and mastered, every instrument is in place, filling the room, filling your head. **Central to the Liger muzak now and then: Dino Spiluttini's trembling bass-baritone, full of strength and failure, sex and melody.**
 
 Every now and then, the music menaces to collapse like a house of carts under a dozen of instruments and the band's emotional ingenuousness. But Dino holds tight the strings of his compositions, supported by former live drummer **Prince Gernot Scheithauer XIII.** (left) of [Mimi Secue](http://www.myspace.com/mimisecue)-fame as a distinct band  member for the first time. On some tracks Liger are joined by label mates [Br'er](http://www.myspace.com/brrer), the [Dust Covered Carpets](http://www.myspace.com/volkever) and famous friends like [Trouble of Tokyo](http://www.myspace.com/troubleovertokyo) or [Gustav](http://www.myspace.com/gustavofficial).

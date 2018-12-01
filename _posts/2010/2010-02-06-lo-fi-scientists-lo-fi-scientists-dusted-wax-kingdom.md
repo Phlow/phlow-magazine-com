@@ -10,12 +10,7 @@ categories:
   - Downbeat
   - Hip Hop
 tags:
-  - Downbeat
   - dusted wax kingdom
-  - free
-  - lo-fi scientists
-  - netlabel
-  - Trip Hop
 download:
   zip_url      : http://www.archive.org/download/DWK044/Lo-Fi_Scientists_-_Lo-Fi_Scientists.zip
   title        : 'Lo-Fi Scientists – »Lo-Fi Scientists«'

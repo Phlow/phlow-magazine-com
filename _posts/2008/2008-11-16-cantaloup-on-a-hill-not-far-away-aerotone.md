@@ -26,8 +26,6 @@ tags:
 ---
 ***Lovely Guitar Pop Impressions*** // Cantaloup is the one man shoegaze Pop outfit of German guitarist Thomas Peters. He released his first EP "Tonight It Shows" via [Aerotone]({{ site.url }}{{ site.baseurl }}/tag/aerotone) and it soon became one of the Netlabel's most successful records. Naturally, hopes for the successor were high. While the ingredients are roughly the same, "On A Hill Not Far Away" beats the debut with ease.<!--more-->
 
-<!--adsense-->
-
 The [first Cantaloup EP](http://aerotone.300l600.de/index.php?aid=44) never really got me. The sound was right, all the ideas were there. But somehow Thomas Peters didn't manage to make his melodies stick and consequently buried them in reverb. For "[On A Hill Not Far Away](http://aerotone.300l600.de/index.php?aid=131)" , Peters cleaned up sound and songwriting a lot. The reverb is still there but guitars and especially Eva Paul's vocals don't drown within it anymore. The music cleaned up so well that I thought about getting some [beginner guitar lessons at Takelessons.com](http://takelessons.com/category/guitar-lessons) so I could play some of Peter's music.
 
 <img class="alignnone size-full wp-image-853" src="{{ site.url }}{{ site.baseurl }}/images/cantaloup.jpg"

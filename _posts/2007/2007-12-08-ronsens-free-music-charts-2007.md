@@ -21,8 +21,6 @@ tags:
 ---
 The [Machtdose](http://machtdose.de/) site is driven by german musiclovers and bloggers Roland and Gregor. They love the underground, the non-compliant and its confrontation with everyday life. Besides their regular radio show at [Radio X](http://www.radiox.de/) they also have a [Podcast](http://machtdose.de/tag/podcast/) with monthly episodes introducing netaudio findings from the weeks before. Not only their podcast is a fantastic adventure, also their charts - collected by [Roland](http://ronsens.de) - digg deep into the netlabel underground.<!--more-->
 
-<!--adsense-->
-
 ### Top-5 Songs
 
 ### Top-5 Releases

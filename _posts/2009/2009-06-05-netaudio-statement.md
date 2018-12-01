@@ -29,8 +29,6 @@ English: <a href="../wp-content/uploads/02_phlow-magazinecom_-_applejux_-_netaud
 
 <!--more-->
 
-<!--adsense-->
-
 ## Download Applejux's Netaudio Statements
 
   * MP3: [Applejux]({{ site.url }}{{ site.baseurl }}/images/03_phlow-magazinecom_-_applejux_-_netaudio_statement_spanish.mp3) <a href="{{ site.url }}{{ site.baseurl }}/images/02_phlow-magazinecom_-_applejux_-_netaudio_statement_english.mp3" target="_blank">netaudio_statement_english</a>

@@ -18,8 +18,6 @@ tags:
 ---
 ***Run for Cover No. 4*** // Phlow Magazine launched a series dedicated to the art of Netaudio: "Run for Cover". In bulk sequence, wonderful artworks are presented and discussed. This time, we [sneak into the fantastic world of one!man]({{ site.url }}{{ site.baseurl }}/feature/451-run-for-cover-4-the-art-of-oneman). one!man is the graphic-designer behind some of the most astonishing artworks from ideology. With artworks for [Cuebism]({{ site.url }}{{ site.baseurl }}/mp3-music-download/house/143-mp3-cuebism-circle-ep), [Velure]({{ site.url }}{{ site.baseurl }}/mp3-music-download/trip-hop/350-velure-songbox-ideology) or our beloved [Brigitte Bijoux]({{ site.url }}{{ site.baseurl }}/about#brigitte), he created a versatile showcase. mo. presents his favorite one!man-works.<!--more-->
 
-<!--adsense-->
-
 The artworks from <a title="one!man" href="http://www.ideology.de/archives/artists000013.php" target="_blank">one!man</a> are still stunning to me after all his years over at <a href="http://ideology.de" target="_blank">ideology.de</a>. Each of his cover-artworks were composed in Photoshop only. Accurance, a faible for details, structures and unique colors are part and parcel of his visual and futuristic works. Have a look!
 
 <a style="border: none;" rel="lightbox[runforcover]" href="{{ site.url }}{{ site.baseurl }}/images/id002_frontcover.jpg"><img style="float:left;" title="id002_frontcover" src="{{ site.url }}{{ site.baseurl }}/images/id002_frontcover-125x125.jpg"</a>

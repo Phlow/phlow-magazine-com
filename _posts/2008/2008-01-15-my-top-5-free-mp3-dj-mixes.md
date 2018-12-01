@@ -22,8 +22,6 @@ tags:
 ---
 ***Various Free DJ-Mixes*** // Since years still just a few DJs with an ear for free mp3 music enjoy mixing netlabel releases. While Dirk Murschall aka [in]anace, the founder of the experimental netlabel subsource was the first to publish netmusic-only-mixes more DJs embraced the idea. I hand-picked 5 netaudio-mixes, I heard over and over again. They are from Elliptic, jm_, p3t3r, Holger Flinsch and mo.<!--more-->
 
-<!--adsense-->
-
 ## Elliptic - "Digital Drive" (Ideology)
 
 [Elliptic](http://www.elliptic-online.de/) normally prefers mixing and producing Drum'n'Bass. Still finding Drum'n'Bass-tunes on the web is a difficult and long journey. That's why Elliptic chose to mix sweet, lush and melodic Dub-House and Dub-Techno. His set called ["Digital Drive"](http://www.ideology.de/archives/audio000109.php) expands into a groovy trip through the free land of 4-to-the-floor.

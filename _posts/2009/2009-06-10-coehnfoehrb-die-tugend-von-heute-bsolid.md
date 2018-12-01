@@ -33,8 +33,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 For sure: if you are able to understand kid Coehns' streetwise and funny Rap lyrics, it is more easy to dig "Die Tugend Von Heute". **[Coehn & Foerhb](http://coehnundfoehrb.de/) kick Hip Hop like it was big in Germany in the late 90's** - straight forward, funky beats, Hip Hop that focuses on Rap with a storytelling vibe. Nice but not too decent, Coehn is a lyricist that knows about Raps' history but is able to extrapolate as well. His rhymes fit the beats of Stuttgart homies Foerhb, [Radsch](http://www.myspace.com/radsch) und [Naturtalent](http://www.myspace.com/naturtalentbeatz) seamlessly and although Coehn is not pushing genre borders, his styles are far above the genre common level.
 
 [<img class="left size-full wp-image-1235" src="{{ site.url }}{{ site.baseurl }}/images/coehnfoehrb-cartoon.jpg"]({{ site.url }}{{ site.baseurl }}/images/coehnfoehrb-cartoon.jpg)

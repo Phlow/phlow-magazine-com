@@ -24,8 +24,6 @@ tags:
 ---
 ***Extraordinary Pop*** // Now and then it happens that I discover music by pure accident. And now and then it happens that I fall in love with the music I find. Both incidents occurred when I discovered the Swedes [Björn Kleinhenz and Susanna Brandin]({{ site.url }}{{ site.baseurl }}/mp3-music-download/pop/496-bjoern-kleinhenz-its-a-trap-froggi-records) (Winter took his life). I can’t remember how I stumbled upon their Split EP “Blood bone / Home alone 2”, but as soon as I downloaded and listened to it, I was caught by their wonderful songs. <!--more-->
 
-<!--adsense-->
-
 Is it indie or pop, is it folk or singer/songwriter? It doesn’t matter. Their blend of humor and sadness, darkness and light is impressive and suddenly there is no need to label their music in terms of a genre.
 
 Susanna’s lovely voice, that doesn’t need a lot of instrumental support and Björn’s great talent to write extraordinary popsongs like “The best days of my life” formed a musical couple that fits perfectly. This is probably one reason for Björn to have Susanna with him as a constant member of his live band.

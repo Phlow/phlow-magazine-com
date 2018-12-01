@@ -33,8 +33,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 **V.O.M.** [again](http://rubored.wordpress.com/2006/09/06/vom-at-analogundehrlichde-vesna-sveta-lp/). The name stands for **Magical Unicellular Music**, and this strange name makes sense on different levels. _Magical_ - something happens between the tracks, something unexpected, something one can not explain. Black magic rituals, Voodoo, call me names. _Unicellular_ - the most simple form of life, evolutions successful all-in-one model. Reduced to the max. _Music_ - well, yeah, music! **V.O.M.** is primitive, hypnotic, threatening... I'm prone to call it Minimal.
 
 ![vom_band]({{ site.url }}{{ site.baseurl }}/images/vom_band.jpg)

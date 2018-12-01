@@ -21,8 +21,6 @@ tags:
 ---
 Mixotic is a netlabel publishing weekly free DJ sets, focused on electronic music in the broadest sense. <a href="http://www.mixotic.net/dj-booking-online/1/q-man-tech-house-techno-minimal-heart-house" target="_blank">Q-Man</a> is the head behind this label. Under this moniker he's mixing electronic club music with a certain amount of rave appeal. His second pseudonym <a href="http://www.mixotic.net/dj-booking-online/17/entactogen-lounge-ambient-indietronic-liquid-drum-n-bass" target="_blank">Entactogen</a> stands for a more chilled and emotional style, made out of downbeats, indietronica and vocal tracks.<!--more-->
 
-<!--adsense-->
-
 ### Q-Man's Top-5 Netaudio Songs
 
 **Find the songs on the following releases:**

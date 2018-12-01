@@ -20,7 +20,7 @@ tags:
   - netlabel
   - rap
 ---
-**Mexican Hip Hop Adventures**| Oh, this one is fresh! Straight from Mexico Hip Hop-Group Menuda Coincidencia delivers us a delicious package full of jazzy loops, a bucket full of trumpets and eight groovy tunes. It's like watching an entertaining cartoon. Or like going down to your favorite jazz club just being knocked down by this bunch of excellent spanish Raps.
+**Mexican Hip Hop Adventures Oh, this one is fresh! Straight from Mexico Hip Hop-Group Menuda Coincidencia delivers us a delicious package full of jazzy loops, a bucket full of trumpets and eight groovy tunes. It's like watching an entertaining cartoon. Or like going down to your favorite jazz club just being knocked down by this bunch of excellent spanish Raps.
 
 [menuda coincidencia "corre" (MP3)](http://mp3.phlow.de/phlow-magazine/05._ai_con_permisito_%5B2008%5D_-_menuda_coincidencia_-_corre.mp3)
   
@@ -29,8 +29,6 @@ tags:
 [menuda coincidencia "sin enganche" (MP3)](http://mp3.phlow.de/phlow-magazine/03._ai_con_permisito_%5B2008%5D_-_menuda_coincidencia_-_sin_enganche.mp3)
 
 <!--more-->
-
-<!--adsense-->
 
 <img class="alignright size-full wp-image-965" title="menuda_coincidencia" src="{{ site.url }}{{ site.baseurl }}/images/menuda_coincidencia.jpg"To be honest, I don't understand spanish at all. To be even more honest, I don't care. Because like in my childhood I like the flow of words, the groove, fat beats and a bunch of crazy rhymes. Back than in my youth I adored Hip Hop without any clue what they talked about...
 

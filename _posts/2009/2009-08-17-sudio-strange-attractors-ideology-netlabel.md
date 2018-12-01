@@ -28,8 +28,6 @@ image:
 
 <!--more-->
 
-<!--adsense-->
-
 You may have a problem with music by Sudio, because he has problems himself to reduce his ideas, tricks and fun to play around technics. He can't stick to one idea or just one loop for one track. On the other hands, that's his strong part. You have to listen to his music more than once. And the more and more you listen, the more you get suck into his wonderland. And the more and more you know the twists coming around the next corner, you will love the complexity.
 
 If you're a DJ, maybe these tracks ask to much to clubbers. It's like playing Future Sound of London where people demand Chemical Brothers. But I was always more the listening type of guy, so **five stars for this one.**

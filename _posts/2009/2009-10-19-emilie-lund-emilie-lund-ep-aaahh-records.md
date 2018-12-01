@@ -34,8 +34,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Five tiny songs, acoustic guitar, vocals, some little gimmicks every now and then. Emilie Lund's voice is slightly girlish but brings forth a certain mature timbre I enjoy a lot. I tend to say she sounds very Swedish although I can not explain what this means - maybe it's the very rolemodel _Nina Persson_ burned into my mind. Hard to resist however.
 
 Despite her voice and the fact Emilie writes beautiful and mesmerizing melodies, **her songs are always more than just folky lullabies**. There is a strong 60s feel about her selftitled EP. I can hear she is up for the likes of _Vashti Bunyan_, _Nick Drake_, _Brian Wilson_, _Van Dyke Parks_ and everything in-between. Still the record does not sound dated by any chance.

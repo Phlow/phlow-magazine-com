@@ -21,8 +21,6 @@ tags:
 ---
 ***Calm and Soothing Textures*** // Under the name of Biathalon, NYC-based Eric Adrian Lee composes [smooth organic Ambient music]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/334-biathalon-expanding-electronic-diversity) that continuously oscillates from analog to digital. Inspired by equally sky and sea, Eric delivers mesmerizing textures and meditatively meandering synthlines that make you forget time and space.<!--more-->
 
-<!--adsense-->
-
 I was wondering how Eric might achieve the specific [Biathalon](http://www.myspace.com/ericadrianlee)-sound. All his synths and field-recordings sound a bit like wrapped in wool and the melodies shift in tone like molten cassettes. Imagine a broken tape deck under a blanket, playing _Brian Eno_ and _Cluster_-tunes. And indeed: all his music is recorded on an old cassette multitracker, as he told me when I got in contact with him, asking about the music. Cool.
 
 The EP starts with the lulling "Warm Front". Though it's very harmonic, a feeling of subtle menace remains... The song captures the feeling of "calm before the storm" quite perfect. For "Neumayer Station" and "Cloud Formation", Eric gets close to the _Boards of Canada_. With it's minimal oscillations, tiny pitches and overall fluctuation, particularly "Cloud Formation" is more than just copying the Boards' trademark-sound... _Eric Satie_ comes to my mind, and again, _Eno_.

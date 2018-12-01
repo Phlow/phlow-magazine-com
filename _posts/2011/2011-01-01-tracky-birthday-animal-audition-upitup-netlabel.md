@@ -9,12 +9,8 @@ permalink: /mp3-music-download/hiphop/1088-tracky-birthday-animal-audition-upitu
 categories:
   - Hip Hop
 tags:
-  - download
-  - free
-  - Hip Hop
-  - mp3
-  - music
-  - netlabel
+  - tracky Birthday
+  - upitup
 download:
   zip_url      : http://www.upitup.com/upzip/upfree26.zip
   title        : 'Tracky Birthday - "Animal Audition"'

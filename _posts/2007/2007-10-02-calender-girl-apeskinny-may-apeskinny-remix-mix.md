@@ -18,8 +18,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 [Calendar Girl](http://www.calendarsongs.com) lives and works in London where her disco alter-ego is a vocalist for big fun funkateers [Freeform Five](http://www.freeformfive.com/). With her lovely voice, 12 recorded songs licensed under a creative commons, she got 167 remixes in return. We pitched on the incredible "May apeskinny mix". Before you listen to the remix, give the [Original vocals](http://calendarsongs.com/mp3/May%20vox.mp3) (MP3) a try or listen to the calendar girls sweet vocals along with some [backing sounds from a harp](http://calendarsongs.com/mp3/May%20track.mp3) (MP3). Than check out the fantastic remix done by [apeskinny](http://myspace.com/apeskinny) and enjoy!
 
 ## MP3 Techno Pop Music Download

@@ -32,8 +32,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Passage Netlabel is an ambient sub-division of [Fragment Music netlabel](http://www.fragmentmusic.net) established in 2009. While the russians deliver HiFi-Minimal Techno and similiar tracks on Fragment Music _the main course of Passage is to explore the deepest and most charming forms of abstract musical expression_. Passage is handling flexible style borders with several main settings - flowing ambience, organic structure and depth.
 
 /images/feldmaus.gif"Feldmaus is a collaboration between Evgeny Shchukin and Alexander Tochilkin both known as [Modul]({{ site.url }}{{ site.baseurl }}/mp3-music-download/idm/715-free-idm-electronica-download-on-phonocake-netlabel). The title of their album describes best what the music is about: spaces where you find musical ambience in each corner.

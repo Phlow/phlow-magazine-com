@@ -31,8 +31,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Let's start with the obvious reference: _Boards of Canada_. I'm sorry, Karl, you must have heard it a thousand times... The heavy influence of the Scottish pioneers is the reason I never sang the praise of [Orange Crush](http://www.myspace.com/orangecrushmusic) I guess. Solid production, good tracks but something was missing on "[The Field](http://www.archaichorizon.com/releases/ah002/ah002.html)", Endersons' debut for [Archaic Horizon](http://www.archaichorizon.com/). On "[Autumn Reflections](http://www.archaichorizon.com/releases/ah031/ah031.html)", apparently nothing has changed. The improvements, however, are subtle and essential.
 
 <img class="alignnone" src="http://c2.ac-images.myspacecdn.com/images02/78/l_f4522dc6883646a68860410a3b56acc1.jpg"

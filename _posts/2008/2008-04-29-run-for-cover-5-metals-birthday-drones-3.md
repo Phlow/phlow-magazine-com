@@ -18,8 +18,6 @@ tags:
 ---
 ***Run for Cover No. 5*** // Phlow Magazine launched a series dedicated to the art of Netaudio: "Run for Cover". In bulk sequence, [wonderful artworks]({{ site.url }}{{ site.baseurl }}/feature/426-run-for-cover-5-metals-birthday-drones-3) are presented and discussed. This time, I decided to write about the simple photo artwork for Metal's "Birthday Drones 3". Metal is the band of Eric Adrian Lee known to our subscribers as [Biathalon]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/334-biathalon-expanding-electronic-diversity "Biathalon @ Phlow Magazine"). <!--more-->
 
-<!--adsense-->
-
 On the picture, you can see a pastoral landscape. It's summer. There is a sunbaked cow paddock, a lot of skies and, forming above a meandering country lane, a tiny little sand spout. A green belt of trees connects the fields with a smooth hill's top in the back. There is not a single cloud in the sky. The dominant colors are green, light blue and ocher, all washed-out and faint. As Eric is from Portland, Oregon (north of California), this photo has probably been taken somewhere there.
 
 If you consider the artwork being composed of different layers, there is hill and heaven for the background, trees and lutescent velds in the midst, the road in front. Atop, two twigs come in from both left and right, the bigger one casting a substantial shadow. The only graphical element is a white _sticker_ in the upper left announcing the name of the record.

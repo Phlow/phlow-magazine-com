@@ -24,8 +24,6 @@ tags:
   
 <!--more-->
 
-<!--adsense-->
-
 Joshuas productions are best when he slows down the beats, so we can nod empathic. "Trails" comes along with jazz-influenced melodies and a diversity of styles ranging from instrumental Hip Hop to slighty Elektro-influenced tracks like "Trails".
 
 Strong tracks like "A Thousand Pages", "Tai Chi" or "Crystal Ball" could be used as a colourful film score. These tracks are magnificent and carry their own mood. A release which makes me want to visit Chicago and its musiciansmakes me curious to see this city...

@@ -22,8 +22,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Back from my holidays I like to take you back into the wonderful world of netlabel music by offering you a deepsea-trip with Crisopa. Since I discovered "Medicamentosa" I played his **sweet electronica and ambient music** over and over. If you enjoy melodic electronic music with a slight touch of kitsch, Crisopa is the right travel companion. My favorite is the airy and fluffy "Fibra de Carbono y Cambios Automaticos". Calm, deep and groovy.
 
 ## MP3 Electronica Music Download

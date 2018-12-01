@@ -33,8 +33,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 For their releases, Stasisfield create highly processed images playing with the effects of extrem enlargement, blur and digital halftoning. The art for Kalte's "Lanthanide Series" is especially beautiful. Pallid coloured pixel strings fall like northern lights over a dark background, giving both an idea of alienation and pulchritude. Same is for the music.
 
 Fully synthetic, enhanced with a little bit of scraping noises, Kalte music is quite _kalt_ (which is "cold" in German). But in between the multiple layers of sound, harmonies dwell like fungi in the dark. **"Buzzes and drones intertwined in a mesmerizingly thick blanket of static"**, as the label puts it in fine precision. Their minimal Drones remind me of [Direwires & Freder]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/18-direwires-freder-sleeping-near-highways-robotopera), [offthesky]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/874-offthesky-subtle-trees-rope-swing-cities) or [entia non]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/156-entia-non-distal-test-tube).

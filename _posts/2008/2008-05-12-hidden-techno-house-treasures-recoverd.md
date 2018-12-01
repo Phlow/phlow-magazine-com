@@ -20,8 +20,6 @@ tags:
 ---
 From time to time I stumble upon netlabel-releases which don't convince me with the whole release. Unfortunately you discover sometimes on these albums true hidden treasures. What to do? Being picky? Right! Otherwise you would miss some really great tunes for your ears.<!--more-->
 
-<!--adsense-->
-
 ## Tosol - "Trip around Midnight EP" (Auflegware)
 
 German sound-engineer Tosol enjoys playing with sounds and tricky beats. His <a href="http://www.auflegware.de/auflegware/releases/alw018.html" target="_blank">"Trip around Midnight EP"</a> is a Techno EP where Minimal meets some Breakbeat-trickery. All tracks are slightly dirty and what I like best, is how Tosol twists beats and sounds. Unfortunately not the whole EP convinced me, but his track "Format 2000" is a monster. The track reminds me a bit of "Funk Phenomena" by Armand van Helden but is much more techy and stands for itself.

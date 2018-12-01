@@ -28,8 +28,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Jason Corder's Ambient music rises from the ashes of a thousand instruments like fume from a wasted fireplace. It escapes the crashed corpora of violins, guitars and chimes. It's fluid and ghostlike, drifts from here to there, but once it had entered your ears, you can't get it out of your head. His tickeling textures swarm with micro-tonalities and bring forth that wonderful richness **offthesky** can be recognised by in all his releases.
 
 In a way, Corder appears like someone who rather _captures_ sound, more like a scientist who knows where to point the microscope to to reveal the beauty of the unseen. For a music video, I'd put someone catching insects with a butterfly net on a late Summer hayfield. In slow motion and back light. Humble beauty! Listen to "Swallow Shallow" and join my praise. **A veritable Ambient masterpiece**, you name it.

@@ -35,8 +35,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Usually, I avoid talking about the same Netlabels over and over again. But this release is too important to keep it in the closet just because I wrote about [Brometer](http://www.brometer.co.uk/ "Brometer Website") and IOD [two weeks ago]({{ site.url }}{{ site.baseurl }}/mp3-music-download/experimental/468-brometer-three-feet-of-iod-netlabel "Brometer @ Phlow Mag"). The Green Kingdom, Detroit-based musician and graphic designer gave out the song "Miniature Forest" from his [self titled CD debut](http://semlabel.com/thegreenkingdom/ "The Green Kingdom @ SEM") for a bunch of house-keeping IOD artists to let them redraft his delicate Ambient textures.
 
 Exile-Irishman [Darren McClure](http://www.myspace.com/darrenmcclure "Darren McClure @ myspace") takes the original with him on a trip underwater. Not a trip to abysmal pits but a smooth skin-dive through colorful coastal waters. [SEM](http://semlabel.com/ "SEM Label")-mastermind [Alexandre Navarro](http://alexandrenavarro.com "Alexandre Navarro Website") treats the song with his cine scope delay mainly. Navarro's edit is pretty close to his own sound of semi-experimental, melancholy guitar Ambient and brings forth a sniveling feel of prairie vastness. [Letna](http://www.myspace.com/letna "Letna @ myspace") (SEM) and Mexican [Manrico Montero](http://www.manricomontero.com/ "Manrico Montero Website") (of [Mandorla](http://www.mandorla.com.mx/ "Mandorla Website")-fame) rework the track from a similar minimalistic point of view, the former with a good amount of Pop, the later with a rather dark approach. Both at huge success.

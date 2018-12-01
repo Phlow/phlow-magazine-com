@@ -74,8 +74,6 @@ mp3:
 
 <!--more-->
 
-<!--adsense-->
-
 ## Phlow Jahtari Mixtape
 
 <!--mp3links-->

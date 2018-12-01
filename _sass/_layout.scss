@@ -160,12 +160,6 @@ the padding will be perfect.
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
-@media (max-width: $mobile) {
-  .grid {
-    // Turn off grid for mobile
-    display: block;
-  }
-}
 
 
 /* Card

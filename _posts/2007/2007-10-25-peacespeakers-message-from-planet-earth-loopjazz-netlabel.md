@@ -18,8 +18,6 @@ tags:
 ---
 ***Melodic NuJazz*** // The hungarian Peacespeakers-music-projects supply us with some easy-listening NuJazz. The electronic instrumental project consists of three music-freaks who enjoy producing music for an hawaiian weekend at the beach. Listening to the Peacespeakers reminds you of the possibility, that planet earth is an nice place to live.<!--more-->
 
-<!--adsense-->
-
 To some people the songs of the Peacespeakers may sound a little bit too round, too cosy and too sweet. Others will highly enjoy their peaceful moods. When you enjoy music by Thievery Cooperation, De-Phazz or Boozoo Bajou you should give the hungarian trio a listen. They know how to squeeze some jammin' melodies out of their instruments. Just try a trip with "The deep green sea", "It's all the same" or "Nobody Can Help us" and float away on agile played instruments like saxophones, keyboards and guitars.
 
 ## MP3 NuJazz Music Download

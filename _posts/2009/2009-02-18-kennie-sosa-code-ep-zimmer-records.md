@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/zimmer038-kenni-sosa.jpg
+subtitle: Hard-Pumpin Techno
 title: 'Kennie Sosa – »Code EP« (Zimmer Records)'
 date: 2009-02-18T07:16:49+00:00
 author: MartinWisniowski
@@ -11,23 +12,18 @@ tags:
   - mp3
   - Techno
   - zimmer
+download:
+  zip_url      : http://www.archive.org/compress/ZIMMER038
+  title        : 'Kennie Sosa – »Code EP«'
+  release_url  : http://www.archive.org/details/ZIMMER038
+  netlabel_url : http://www.zimmer-records.org/
+  artist_url   : 
+mp3:
+  - title : 'Kenni Sosa - "Rotate"'
+    url   : http://www.archive.org/ZIMMER038/Zimmer038.1_Kenni_Sosa_-_Rotate.mp3
+  - title : 'Kenni Sosa - "Testify"'
+    url   : http://www.archive.org/ZIMMER038/Zimmer038.3_Kenni_Sosa_-_Testify.mp3
 ---
-**Hard-Pumpin' Techno**| Zimmer-Records slowly grew into one of the solid sources for techno music on the internet. Their latest release "Code EP" from Kenni Sosa is an brilliant journey into hard punching techno - you eventually remember the hard techno guys from Skandinavia at the late 90ies? Now you got a picture. Very dense, very loud, very kicking.
-
-[Kenni Sosa - "Rotate" (MP3)](http://www.archive.org/ (MP3)/ZIMMER038/Zimmer038.1_Kenni_Sosa_-_Rotate.mp3)
-  
-[Kenni Sosa - "Testify" (MP3)](http://www.archive.org/ (MP3)/ZIMMER038/Zimmer038.3_Kenni_Sosa_-_Testify.mp3)
-
-<!--more-->
-
-<!--adsense-->
+Zimmer-Records slowly grew into one of the solid sources for techno music on the internet. Their latest release "Code EP" from Kenni Sosa is an brilliant journey into hard punching techno - you eventually remember the hard techno guys from Skandinavia at the late 90ies? Now you got a picture. Very dense, very loud, very kicking.<!--more-->
 
 When I uploaded this release onto my iPod and pressed play, a loud alert went through my headphone and I had to put the volume down. Well mastered stuff. The enery floating through the minimal techno-patterns is so pure. Each track similar, but each with another "function" to work on the dancefloor. And that is what I thought: I want to dance to this sound! And forget about everything else. Highly recommended for techno lovers.
-
-## MP3 Techno Music Download
-
-**Download:** <a href="http://www.archive.org/compress/ZIMMER038" target="_blank">Kenni Sosa - Code EP (ZIP-Archive)</a>
-  
-**Release:** <a href="http://zimmer-records.blogspot.com/index.html#6131214304259322200" target="_blank">Kenni Sosa - Code EP</a>
-  
-**Netlabel:** <a href="http://www.zimmer-records.org/" target="_blank">Zimmer Records</a>

@@ -30,8 +30,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 [No Snow](http://www.myspace.com/nosnowww) is Lyon duo <span lang="en-GB">Gael Moissonier and <a href="http://www.myspace.com/francoisvirot">François Virot</a>, the later who was reviewed for his <a href="{{ site.url }}{{ site.baseurl }}/mp3-music-download/experimental/1027-virot-friends-clapping-music">delightful split release</a> with <a href="http://www.myspace.com/karaocake">Karaocake</a> and <a href="http://www.myspace.com/mariemariecells">Marie Marie Cells</a> a few weeks ago. However, to get an idea about the Snow music the Virot-link doesn't help an inch. </span>
 
 After some self-distributed CDr on Moissonier's [Zero Jardins](http://www.myspace.com/zerojardins) imprint and two compilation appearances, [No Snow](http://www.myspace.com/nosnowww) hooked up with Portuguese [Merzbau Netlabel](http://www.merzbau-label.org) for an untitled one-track EP. This single 22-minutes song "ZDB" feels like being displaced from a bunch of _savages_, hidden in their wet dark cave, tortured by tribal drums and subsonic waves of bassguitar.

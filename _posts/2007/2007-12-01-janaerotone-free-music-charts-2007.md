@@ -21,8 +21,6 @@ tags:
 ---
 As the founder of aerotone netlabel Jan is constantly trying to spread beautiful music. He is husband, father, hard worker and eventually heavy music consumer. Aerotone became this year one of the most prolific netlabels to spread folk-orientated indietronica. Not only Aerotone-music is a pleasure also the beautiful artwork and artistic webdesign supports a feeling, that the people over at aerotone are a bunch of music lovers who just enjoy themselves sharing true music. Check out his charts he made for Phlow-Magazine!<!--more-->
 
-<!--adsense-->
-
 ### Jan's Top-5 Netaudio Songs
 
 ### Top-5 Releases

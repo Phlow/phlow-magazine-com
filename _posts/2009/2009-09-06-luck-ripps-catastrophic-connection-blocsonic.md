@@ -33,8 +33,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 This release is classic hip hop music. Classic in every sense. Luck and Ripps brag about coolness, rap about how fantastic they are,... This one is truly classic also if you listen to the beats. Somehow they are cheesy, with a hihat ticking and a loop running straight through the whole track. But nevertheless I enjoy tracks like  "Never Be Another", "Complicity", "Roll Call" or "Matty Ice".
 
 <img class="alignnone size-full wp-image-1310" title="catastrophic-connection" src="{{ site.url }}{{ site.baseurl }}/images/catastrophic-connection.jpg"

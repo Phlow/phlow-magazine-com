@@ -22,8 +22,6 @@ tags:
 ---
 Eric comes from Melun/France. He is the editor of the french [free music podcast](http://www.auboutdufil.com "free music podcast") auboutdufil.com. His website is covers since 2 years free music downloads on the web. With more than 400.000 downloads, 900.000 listenings and lots of comments from his visitors and fans, he build one of the biggest music weblogs in france and i guess in whole europe. Have a look at his charts!<!--more-->
 
-<!--adsense-->
-
 ### Eric'sAubudufilc.om Songs Top 5
 
 ### Eric's/Aubudufilc.om Netlabel Top 5

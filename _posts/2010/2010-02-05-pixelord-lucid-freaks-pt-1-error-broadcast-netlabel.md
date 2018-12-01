@@ -11,11 +11,7 @@ categories:
   - Hip Hop
 tags:
   - Alexey Devyanin
-  - chipfunk
   - error broadcast
-  - Gultskra Artikler
-  - Hip Hop
-  - pixellord
 ---
 ***Glitchy Chipfunk Hipedihop Music*** // OK, let's get down once again with the Error Broadcast Crew. Open the windows of your hipster car and let the sounds cover the streets with a heavy dose of subbass, quirky and glitchy bleeps and funk. Meister Pixelord knows how to build some wonky beats and bass. His debut brings you some chipmusic-inspired hip hop instrumentals Mario would loved to stumble upon while jumping his way through the next level.
 
@@ -33,8 +29,6 @@ tags:
 <!--mp3linksend-->
 
 <!--more-->
-
-<!--adsense-->
 
 The Pixelord is Moscow-based musician Alexey Devyanin. To some he is known as Gultskra Artikler. Under this moniker he produced some freaky experimental music. Now, he tickles the knobs of his synthesizers and mixer to squeeze out some extraordinary and truly funky hip hop I've never listen to before in that kind of combination.
 

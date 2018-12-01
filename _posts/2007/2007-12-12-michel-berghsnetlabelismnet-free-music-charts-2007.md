@@ -25,8 +25,6 @@ We asked **Michel Berghs** some questions about his project [Netlabelism.net](ht
 
 Check out his [podcast](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=203424250) or his charts coming straight to us from Belgium.<!--more-->
 
-<!--adsense-->
-
 ### Top-5 Songs
 
 You find the songs above on these websites and netlabels: [Autoplate](http://www.thinner.cc/pages/releases/releases_detail.php?id=apl047), [1 Bit Wonder](http://www.1bit-wonder.com/), [headphonica.com](http://www.headphonica.com), [WM Recordings](http://www.wmrecordings.com/releases/wm063.htm) and [Sutemos](http://www.sutemos.net/en/release;gid,20).

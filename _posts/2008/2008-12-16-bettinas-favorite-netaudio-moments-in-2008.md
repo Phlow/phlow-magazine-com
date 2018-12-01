@@ -19,8 +19,6 @@ tags:
 ---
 ***Advent Calendar Door 10*** // What to say about Bettina? Following mo. and Brigitte, Betty is an integral part of the [**Phlow Magazine collective**]({{ site.url }}{{ site.baseurl }}/about#authors). Rhymes is not what she pretends to be. But she _is_ an expert in Netaudio. Experimental Ambient and IDM, Hip Hop and Pop, this is Bettina's playground. You probably read one of her reviews.<!--more-->
 
-<!--adsense-->
-
 ## Top-5 Netlabels
 
   * <a href="http://ropeswingcities.com" target="_blank">ropeswingcities.com</a>

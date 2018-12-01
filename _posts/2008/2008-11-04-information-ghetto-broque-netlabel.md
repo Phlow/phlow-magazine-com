@@ -22,8 +22,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 "Information Ghetto" is one of those releases where you won't find hit after hit, except the title track itself, but true and solid tracks for successful dj techno mixes. And on top you get a whole EP where every track fits together with its counterparts to form an EP which can be listended to from begin to end and once again. **Techno for intelligent Science Fiction movies.**
 
 ## MP3 Techno Music Download

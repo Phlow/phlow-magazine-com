@@ -3,7 +3,6 @@ image:
   title: /images/upfree23.jpg
 subtitle: "Cute Melodic Drill'n'Bass"
 title: 'Candlestickmaker – »Seeds« (Upitup Netlabel)'
-subtitle: 
 date: 2008-11-06T06:49:13+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/idm/829-candlestickmaker-seeds-upitup-netlabel

@@ -10,18 +10,7 @@ categories:
   - Electronica-Indietronic
   - Pop
 tags:
-  - bandcamp
-  - Bluermutt
-  - download
-  - electronica
-  - folk
-  - free
-  - Leafcutter John
-  - Misread Records
-  - mp3
-  - music
   - netlabel
-  - Pop
 download:
   title        : 'Bluermutt – »The Dislocation (and Consequences) EP«'
   release_url  : https://bluermutt.bandcamp.com/album/the-dislocation-and-consequences-ep

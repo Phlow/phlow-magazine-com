@@ -24,8 +24,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 <a href="http://www.inanace.de/" target="_blank">[in]anace</a> is/was the Labelhead behind <a href="http://subsource.de" target="_blank">Subsource</a> - one of the first experimental netlabels the web-audience has seen. During the last years he managed to mix a lot of different coloured netaudio-mixes from experimental journeys to 4-to-the-floor-driven sets pushing your legs and making you sweaty. Don't miss "Repetitive Luxury" if you like solid and groovy Techno to House music.
 
 ## MP3 Techno Mix Download

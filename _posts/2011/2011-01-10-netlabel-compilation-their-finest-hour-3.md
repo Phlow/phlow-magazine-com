@@ -10,12 +10,6 @@ permalink: /mp3-music-download/free-compilation/411-netlabel-compilation-their-f
 categories:
   - Compilation
 tags:
-  - compilation
-  - download
-  - free
-  - mp3
-  - music
-  - netlabel
   - phlow compilation
 download:
   zip_url      : http://www.archive.org/download/their_finest_hour_vol3/their_finest_hour_vol3_vbr_mp3.zip

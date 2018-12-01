@@ -27,8 +27,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Start the track "Exx Fuck" by Suhov and this smart EP sucks you immediately into the music. Suhov opens his music-library and like in the old days of Hip Hop, he samples what sounds great and fits best. Take a flute from this record, combine it with that lively piano-hook and fatten the big beats...listen...yeah... definitely groovy!
 
 But the best thing of all: Next to the delicious toppings I am happy, that I never haven't listened to all those samples before - fascinating. **This is killer material, searched with care and composed to present an amazing music release.**

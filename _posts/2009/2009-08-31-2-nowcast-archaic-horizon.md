@@ -28,8 +28,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Californian Trenton McElhinney is a tech-savvy kid. For his second EP "<a href="http://www.archaichorizon.com/releases/ah035/ah035.html" target="_blank">Nowcast</a>" he is using <a href="http://www.cycling74.com/" target="_blank">Max/ MSP</a>, the <a href="http://monome.org" target="_blank">Monome</a> controller and his acoustic guitar. While the pattern-based programmings of the Monome do not easily allow for crazy breakbeat frenzy, it suits the <a href="http://profile.myspace.com/2pourcent" target="_blank">2%</a> music perfectly well: monochrome, rich textures and crunchy Hip Hop beats.
 
 "Stop", you might want to object, "All music at <a href="http://www.archaichorizon.com/" target="_blank">Archaic Horizon</a> sounds like this!" - fairly true, but somehow <a href="http://profile.myspace.com/2pourcent" target="_blank">2%</a> does better than most. **Microloops dream in concentric stagger, textures intensively fill the room with warm noise and canny harmonies.** A certain feel for what is _necessary_ is manifest in McElhinney's music. Here is another connection to [Para]({{ site.url }}{{ site.baseurl }}/mp3-music-download/dub-reggae/1292-para-motion-dub-quiet-bump-netlabel) I guess: minimalism as compository guideline.

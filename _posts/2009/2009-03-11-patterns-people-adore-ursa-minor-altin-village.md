@@ -27,8 +27,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 In the meantime, the band released a split LP with [The Falcon Five](http://www.myspace.com/thefalconfive) and another shared 7" with [fuckuismyname](http://www.fuckuismyname.de/), and  [Patterns](http://www.myspace.com/pttrns)' full-length debut is about to be done according to the band's blog. A good moment to get familiar with **Germany's finest Postpunk outfit**!
 
 The band play nervous and awkward DC-style Punk- and Mathrock, charged top to bottom. Their melodies are unconsumed, all grooves and breaks come tight. Of course I have to mention _Q & Not U_ and _Les Savy Fav_, but I guess [Patterns](http://www.myspace.com/pttrns) are fine with this comparison. Sooo good.

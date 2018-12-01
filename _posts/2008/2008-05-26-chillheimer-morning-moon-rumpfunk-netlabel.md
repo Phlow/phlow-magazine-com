@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 "Dreamy" was the first attribut which came to my mind, while listening to the title-track"Morning Moon" on Chillheimers EP released on Rumpfunk Records. Every sound feels warm, in a good-mood and if you play his tunes in the morning hours after a cheerful Club-Night you will surely catch the hearts of the clubbers. If you aren't afraid of some Kitsch also the other tracks will "enlighten" you.
 
 If you like the sound of Chillheimer, make sure to sneak through <a href="http://www.chillheimer.de" target="_blank">his website</a>.

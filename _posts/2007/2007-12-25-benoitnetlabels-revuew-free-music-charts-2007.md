@@ -21,8 +21,6 @@ tags:
 ---
 Benoit Richard from [Epinal in France](http://maps.google.de/maps?f=q&hl=de&geocode=&time=&date=&ttype=&q=Epinal+in+France+&sll=50.940664,6.959911&sspn=0.31109,0.725098&ie=UTF8&ll=48.166085,6.459961&spn=21.094558,46.40625&z=5&om=1) likes to publish. He is the creator not of just one but a few webzines. Next to his [benzinemag](http://www.benzinemag.net), he publishes on [ondefixe](http://www.ondefixe.net), [poprevuexpress](http://poprevuexpress.blogspot.com) and [netlabelsrevue](http://netlabelsrevue.blogspot.com). Netlabels Revue is of course the place to find some new sounds from the worldwide netlabel scene. But we have to mention one last place to stop by: [hop](http://hop.over-blog.com). On hop you'll find some music Benoit composed for his project hopsounds. So let's have a look what Benoit proposes us...<!--more-->
 
-<!--adsense-->
-
 ## Benoit's Top-5 Songs 2007
 
 You find the songs above on the following releases [Nest](http://www.serein.co.uk/music/ser013/), [Chapi Chapo & les petites musiques de pluie](http://www.error-lofi.com), [snug trio](http://lesdiksquisautent.free.fr/catalogue.htm) ([rar-download](http://snugtrio.free.fr/snugtrio_vol3_2007.rar)), [Aitänna77](http://www.monocromatica.com/netlabel/releases/tube081.htm) and [Herzog](http://www.archive.org/details/12rec.039).

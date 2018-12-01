@@ -30,8 +30,6 @@ tags:
 ---
 ***Refreshing Electropop Psychedelica*** // [Daniel Maze]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/439-daniel-maze-red-after-image-serein) is a name you stumble about every now and then. Despite his new record for the Welsh Serein Netlabel, Vancouver-boy Maze has an opulent discography in the back including releases for Test Tube, EKO, 12rec. and many more. His electronic music incorporates diverse genres from glitch to Pop. "Red After Image" is Daniel Maze' masterpiece.<!--more-->
 
-<!--adsense-->
-
 While some of his former releases were either a bit too poppy or a bit too noisy for me, his full-length debut is just right. Not only well-balanced and "quality music" in terms of craftsmanship, slippy Maze can't be hold to any style conventions. "Delightfully strange", as [Huw Roberts](http://serein.co.uk/artists/huw_roberts/ "Huw Roberts @ Serein") puts it on the liner notes.
 
 Warm in tone and texture, Maze mixes processed instruments like flutes and strings with a lot of crackling noise and programed beats. His melodies are splendid and lush and create an artificial 70's Progrock-feel that goes along with the analog sound very well. The idea seems to resemble Jan Jelinek's approach to Krautrock on [Kosmischer Pitch](http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:wjfexqtsldte "Kosmischer Pitch @ allmusic.com").

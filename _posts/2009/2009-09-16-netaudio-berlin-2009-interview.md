@@ -20,8 +20,6 @@ tags:
 ---
 Don Ludwig, Antina Michels and Raimund Reintjes prepared one - if not the most - exciting creative commons festival in 2009. Netaudio Berlin 2009 will present nearly hundred artists, groups or music projects making noise in the free culture movement called netaudio. Since weeks music lovers from all over europe wait for the festival. We interviewed Antina and Raimund to get to know what will happen in october in Berlin.<!--more-->
 
-<!--adsense-->
-
 ### After two years the second Netaudio Gathering in Berlin will open its gates from 8th to the 11th of October. Who is taking part in the Netaudio Berlin Festival and who are the main creators of the event?
 
 Who is taking part? It would be a long list if we were to mention all the artists, speakers and participants! Solely the night program from Thursday to Saturday contains **close to a hundred artists, groups or music projects**. The free daytime program on Friday and Saturday is also packed with workshops, lectures, discussions, showcases and various art installations resp. performances. It would be better for you to flip through the lineup on our website.

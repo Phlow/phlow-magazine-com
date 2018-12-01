@@ -37,8 +37,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Huw Roberts, the face behind Serein, is a critical mind that shaped the label's identity for the last three years, choosing artists and artwork with greatest care. Roberts starts <a href="http://serein.co.uk/" target="_blank">Serein 4.0</a> with a mesmerizing mix of favourites and unreleased material. Highly recommended if you are digging rich and analogue-ish Ambient music.
 
 For the future, Huw Roberts promises new release by <a href="http://theioa.com/" target="_blank">The Inventors of Aircraft</a>, <a href="http://www.myspace.com/iosong" target="_blank">1000 Hours of Staring</a> (sooo looking forward!) and the Phlow Mag darlings [Nest]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/28-nest-nest-ep-serein). Website looks clean and beautiful, only the loss of all previously released material is a miss - still, via <a href="http://www.archive.org/details/serein" target="_blank">archive.org</a>, everything remains accessible. Watch this place!

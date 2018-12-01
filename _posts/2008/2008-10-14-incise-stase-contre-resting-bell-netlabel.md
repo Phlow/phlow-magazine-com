@@ -27,8 +27,6 @@ tags:
 ---
 [**Geneva Deconstructions** // d'incise is the Switzerland-based sound engineer Laurent Peter. He's the coordinator of Audioactiviste and Insubordinations Netlabels and is involved in 1.000 musical projects. His impressive discography involves releases at Zymogen, Test Tube, eDogm and many more. His most recent EP is delivered by the welcome hands of Resting Bell Netlabel.<!--more-->
 
-<!--adsense-->
-
 While some of Laurent Peter's older recordings have a strong foundation in 1990's electronica acts like _Autechre_, _Squarepusher_ and _SND_, his style slightly shifted in recent years.
 
 With "Stase / Contre Stase", [Resting Bell](http://www.restingbell.net/releases/rb040-stase-contre-stase) releases a two track EP of post-industrial field music, a one-hour mediation on noise, textures and Collage Ambient, to make use of the term I introduced for [Preslav Literary School]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/620-preslav-literary-school-autumn-bricolage-clinical-archives) a few months ago. Two tracks that stand like monoliths, two tracks that sum-up the glitch aesthetics, d'incise stands ultimately for.

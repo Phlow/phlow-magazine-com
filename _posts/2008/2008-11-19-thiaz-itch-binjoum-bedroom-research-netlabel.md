@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 The puerile happiness you discover in this fabulous release will overwhelm you the first time. That's because "Binjoum" is the equivalent of a childrens room. Coloured toys are spread all over the place and you're confronted immidiately with a bunch of kids showing you all their favorite toys. Who will you pay attention to?
 
 **But stop!** Before you leave the room in panic, give Thiaz Itch a chance. Explore his instrumental tracks, listen to his songs where he sings like "The Gardener's Lament" or "B Line".  And get convinced by his original instrumentation, his happy, funky music with lots of twists and weird surprises.

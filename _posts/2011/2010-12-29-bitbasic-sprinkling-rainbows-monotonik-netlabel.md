@@ -13,11 +13,7 @@ categories:
   - Jazz
 tags:
   - bitbasic
-  - drill and bass
-  - "drum'n'bass"
-  - Jazz
   - monotonik
-  - netlabel
 download:
   zip_url      : http://www.archive.org/compress/mtk213
   title        : 'Bitbasic - "Sprinkling Rainbows"'

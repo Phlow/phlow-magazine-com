@@ -28,8 +28,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 **Jacques Demierre** uses the piano as a source of sound rather than a classical instrument. Part _Cecil Taylor_ part _John Cage_, his play is full of little noises and surprising tonal cascades, percussive and herein the perfect complement for [Cyril Bondis'](http://www.myspace.com/cyrilbondi) poetic and introspect drums. Between the clusters, there is a lot of space- or none. A refreshing and rich concept that requires concentrated listening admittedly.
 
 On two tracks, [Plaistow]({{ site.url }}{{ site.baseurl }}/mp3-music-download/jazz/63-plaistow-trio-los-criminales-reciclados-insubordinations) head [Johann Bourquenez](http://www.edogm.net/johann/) joins the gang. His approach to piano is much different from Demierre's delicate boned experimentalism. "Tornade" rushes the listener with the energy of  a, well, tornado and leaves the wastelands, **Jacques Demierre** and [Diatribes](http://diatribes.dincise.net/) can perform their subtle improvisations on afterwards.

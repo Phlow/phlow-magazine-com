@@ -27,8 +27,6 @@ tags:
 ---
 **Three Times Weird Folk From France**</a> // François Virot released a wonderful LP at the French Clapping Music recordlabel. For the release party in Paris, François gave away 100 copies of a CD-R featuring two friendly artists and two unpublished tunes by Virot himself. Soon after, Clapping Music decided to go online with exactly these tracks for free download. Hooray!<!--more-->
 
-<!--adsense-->
-
 The compilation brings together three young French artist, all situated between edgy Pop- and some kind of lo-fi Folkmusic. [Karaocake](http://www.myspace.com/karaocake) is the solo outlet of Paris-based Camille Chambon. With four self-published records and a lot of tourring through Europe, the US and Canada in the back, Chambon comes off quite professional. Her loose lo-fi Pop miniatures don't do fortunately. **Charming introspect home recordings**, and a beautiful voice.
 
 [Marie Marie Cells](http://www.myspace.com/mariemariecells) hit the spot more rude. Rumbling bass meets juvenile male vocals meets lurching keys that sound like 90's Shoegaze. A strange combination, but somehow this cheeky Paris _boygroup_ has a knack as well.

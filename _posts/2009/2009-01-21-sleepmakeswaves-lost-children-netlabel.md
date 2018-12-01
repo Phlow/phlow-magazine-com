@@ -27,8 +27,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 
   
 The EP kicks off with "I Will Write Peace On Your Wings And You Will Fly Over The World" - a 7:22 minutes long track that kicks off hard to slow down and build up again. Some parts of the song can even be associated with a metal-like style.

@@ -26,8 +26,6 @@ tags:
   
 <!--more-->
 
-<!--adsense-->
-
 Originally "Cen Art" was compiled for a lounge in Barcelona. On the compilation you find warm, melodic and most of the time relaxed tunes. The style of music ranges somewhere inbetween IDM, Downbeats and Ambient. This makes the compilation quite homogenic and all the tracks fit well together.
 
 Who had thought of, that a project like a file sharing platform would give birth to a music compilation where musicians would join free of will to give their music to the world for free... Yes, not someone in the music industry.

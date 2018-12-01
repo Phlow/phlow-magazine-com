@@ -21,8 +21,6 @@ tags:
 ---
 Christian "applejux" Negre i Walczak is a musiclover from [Calella/ Barcelona in Spain](http://maps.google.de/maps?f=q&hl=de&geocode=&time=&date=&ttype=&q=Calella%2F+Barcelona&sll=50.940664,6.959911&sspn=0.315417,0.725098&ie=UTF8&ll=41.607228,2.658691&spn=11.970714,23.203125&z=6&om=1). He manages [op3n.net](http://www.op3n.net/op3n/home.htm), a free Netaudio mixtape-label where Netculture activists (not only djs, producers or musicians but designers, journalists, webmasters or simply enthusiasts) are invited to create a personal selection from the wide online spectrum. He is also heavily involved in [minifu.com](http://www.op3n.net/minifu/), a Spanish Netlabel ezine and [netaudio.es](http://www.op3n.net/en/), which was the first Spanish Netlabel meeting. He collaborates in several Netculture publications, online and print.<!--more-->
 
-<!--adsense-->
-
 ### Applejux's Top-5 Songs
 
 **You find the songs above on these netlabels:**

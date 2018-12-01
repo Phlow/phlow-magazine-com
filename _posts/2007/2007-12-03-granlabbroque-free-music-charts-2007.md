@@ -18,8 +18,6 @@ tags:
 ---
 Granlab is one of the two [Broque.de](http://www.broque.de/)-makers and has the name Technical Director written on his door. This guy from Thuringia lives in the proximity of Munich and sometimes also plays guitar, beside his Technomachines. And this is how one could listen to his music till now, on the R.A.N.D.-Label 3b, as well as on Bavarian Open Source, [Polyfon](http://www.polyfon.org/) and of course on Broque.de. His music is extremely various and can move informally between Ambient, Indietronic, House and Techno. His passion however lies in the song arrangement and the certain pop element in the middle of old-school techno structures. Enjoy [Granlabs charts]({{ site.url }}{{ site.baseurl }}/news/166-granlabbroque-free-music-charts-2007)!<!--more-->
 
-<!--adsense-->
-
 ### Top-5 Songs
 
 ### Top-5 Releases

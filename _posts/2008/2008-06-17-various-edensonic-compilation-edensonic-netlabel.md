@@ -21,8 +21,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 This compilation isn't constructed for mellow-minded people. Edensonic awaits you with tight and pumping techno beats which are fast, with a solid kick and ready to rock the techno-club. If you like pumping techno-tracks from labels like <a href="http://www.tresorberlin.de/" target="_blank">Tresor Records</a> than this sampler is right for you. If you prefer gentle production, than you better leave this compilation alone. This techno-sampler is full of testosterone and some tracks are even on steroids.
 
 **Great tools for Techno-DJs.**

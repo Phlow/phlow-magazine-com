@@ -29,8 +29,6 @@ While Broque recently pushed out a fantastic release called <a href="http://broq
   </p>
 </div>
 
-<!--adsense-->
-
 <img class="alignnone size-full wp-image-570" title="christian_kausch_heiko_schwanz" src="{{ site.url }}{{ site.baseurl }}/images/christian_kausch_heiko_schwanz.jpg"
 
 <small>Music connects! Friends for lifetime, partners on Broque Netlabel: Christian and Heiko</small>

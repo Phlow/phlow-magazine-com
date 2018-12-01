@@ -12,8 +12,6 @@ categories:
 ---
 ***Indie at it's best!*** // There is a new baby in town: **Beep! Beep! Back up the truck** from Utrecht, Netherlands. The dutch independent and free music scene seems to hook up. Postrock- and Indiefans will be pleased. Seven known and talented Bands have already joined the young label and there is surely more to come. Prepare for the next step on netlabelism. <!--more-->
 
-<!--adsense-->
-
 Beep! Beep! is going for promotion and distribution of independent music and tries to create an accessible communtiy which is supposed to unite artists and their audience. By using the Creative Commons licence, the dutch netlabel offers all releases as free downloads but also promotes ‘hardcopy’ albums wrapped up in a beautiful artwork, as one can read on their [website](http://beepbeep.nl).
 
 Their first [labelsampler](http://www.beepbeep.nl/music/) (Behold My Puny Bears Vol. I), which contains songs of all seven Bands that allready joined [Beep! Beep!](http://www.beepbeep.nl/), offers some surprises. There is the Postrockers from [We vs. Death](http://www.beepbeep.nl/bands/we-vs-death/profile) who actually sing for the first time ever! You get to hear great Indierock from [The Walt](http://www.beepbeep.nl/bands/the-walt/profile), [Kismet](http://www.beepbeep.nl/bands/kismet/profile) and [Embrace Fire](http://www.beepbeep.nl/bands/embrace-fire/profile/), Hardcore by [Schotel Van De Dag](http://www.beepbeep.nl/bands/schotel-van-de-dag/profile/), Indiepop by [Paper Tiger](http://www.beepbeep.nl/bands/paper-tiger/profile/) and very new to my ears: Dutch Singer/Songwriter Pop by [Het Gloren](http://www.beepbeep.nl/bands/het-gloren/profile/). All in all very talented groups and high quality recordings.

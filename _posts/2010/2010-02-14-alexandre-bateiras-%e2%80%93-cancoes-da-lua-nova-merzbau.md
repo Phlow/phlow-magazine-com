@@ -9,17 +9,12 @@ categories:
   - Ambient
   - Folk-Acoustic
 tags:
-  - acoustic
-  - alexandre bateiras
-  - Instrumental
   - Merzbau
 ---
 This one is an oldie. In fact, almost three years passed since this was released on Merzbau. Enough time for the netlabel to shut its doors - the website is still on and will be for long, so make sure you stop by and listen to the other records.
 <!--more-->
 
 What is truly remarkable on “Canções da Lua Nova” (in portuguese “Songs of the New Moon”) is that these eleven songs (and an outro) were in kept in a drawer for over thirty years.
-
-<!--adsense-->
 
 Though Alexandre Bateiras has always been a <a href="http://en.wikipedia.org/wiki/Portuguese_guitar" target="_blank">portuguese-guitar</a> player – he plays since he was 15 -, he was never concerned about releasing new songs. Well, it was only due to his son's persistence that the tracks saw daylight.
 

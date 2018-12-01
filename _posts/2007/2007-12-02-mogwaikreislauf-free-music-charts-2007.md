@@ -21,8 +21,6 @@ tags:
 ---
 10 years ago Mogwai started his project "Kreislauf" in Mannheim/ Germany. Meanwhile relocated to Hamburg/ Germany he keeps being busy all over the years. Nowadays [Kreislauf](http://kreislauf.org/) is a little universe with a radio show, a netlabel, events and a personal outlet for netaudio-music charts. According to [Mogwai](http://mogwai.de)'s his prefered sound is chill out music!<!--more-->
 
-<!--adsense-->
-
 ### Mogwai Top-5 Songs 
 
 ### Mogwai Top-5 Releases 

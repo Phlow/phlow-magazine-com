@@ -18,8 +18,6 @@ tags:
 ---
 ***Electrified Jazz*** // [The songs of TrianguliZona]({{ site.url }}{{ site.baseurl }}/mp3-music-download/jazz/342-triangulizona-flossy-testtube-netlabel) drift somewhere inbetween electro-jazz, distant references to 70’s electric Miles Davis to ambient-flavored experimentalism. The Croatian collective is hard to catch, hard to define. Sometimes you here beautiful melodies, than you listen to the carefully played drums, than you refind yourself in some sort of experimental jazz-ambient-soundscapes. Definitely a magnetic adventure from Portuguese netlabel test tube.<!--more-->
 
-<!--adsense-->
-
 You rarely discover jazz in the free music world. And often if you download a release which proclaims "Hey, I am Jazz!" the glamour fades away quickly. But with the jazz-trioTrianguliZona it's totally different. The three musicians know how to play their instruments. Ivan Kapec (electric guitar and electronics), Andrej Jakuš (trumpet, flugelhorn and electronics) and Janko Novoselić (drums).
 
 Their music is vivid, sometimes hard to catch in the first moment but always on point. Along with effects from dub to sampled loops TrianguliZona produce music in the tradition of modern jazzers like [Bugge Wesseltoft](http://www.buggesroom.com/) or [Nils Petter Molvaer](http://www.nilspettermolvaer.no/). Enjoy this complex and live improvisations with progressive electric guitar, jazz trumpet with pedal and electronic effects. Catch that groove!

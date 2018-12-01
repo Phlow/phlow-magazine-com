@@ -24,8 +24,6 @@ tags:
   
 <!--more-->
 
-<!--adsense-->
-
 OK, I don't like "Koerperkontakt". There is nothing new about this one and the track sounds quite "cheesy". So let's skip this track and listen instead to the laidback "Kaffeehaus"-track and the classic house-tune "grow old along with me" with these typic chords in an endless loop. Together with its title, "grow old along with me" is a wonderful commitment to house music. And "Kaffeehaus" - which means "coffee house" - is perfect easy-listening-house-music to chill and sneak through a newspaper while enjoying a latte machiato.
 
 ## MP3 House Music Download

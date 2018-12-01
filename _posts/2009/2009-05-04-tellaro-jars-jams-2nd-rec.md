@@ -26,8 +26,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 [2nd rec](http://www.2ndrec.com/blog/) is a German record label that released CDs some years back. When sales went down, [2nd rec](http://www.2ndrec.com/blog/) decided to sell-out and re-start as an experimental online label. "[Jars, Jams & You](http://www.2ndrec.com/034/)" by <span style="text-decoration: line-through;">Italian</span> Sicilian duo [Tellaro](http://www.myspace.com/tellaro) is available for download only, and you can choose the price, including downloading the full-length album for free. **We support [2nd rec](http://www.2ndrec.com/blog/) and want to convince you to pay something valuable for this wonderful record.**
 
 [Tellaro](http://www.myspace.com/tellaro) are Francesco Cantone and Tazio Iacobacci. Their electronic Pop music is build from a billion sources, like a beautiful Frankenstein patched up from the junkyard of 40 years' pop culture. The download package comes with a 17 sides pdf booklets including notes for every song, charming and interesting. We learn about friends making political speeches, grandmother and baby sister Iacobacci singing a song, Tazio's uncle from the US playing slide guitar, etc. etc. Most contributions include vocal performances, not necessarily singing though.

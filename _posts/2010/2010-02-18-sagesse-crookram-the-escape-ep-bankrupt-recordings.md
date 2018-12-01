@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/cover_sagesse_crookram_escape_the_ep.jpg
+subtitle: Dutch HipHop English Rap
 title: 'Sagesse &#038; Crookram – »The Escape EP« (Bankrupt Recordings)'
 date: 2010-02-18T12:45:56+00:00
 author: Brigitte
@@ -10,13 +11,8 @@ categories:
 tags:
   - Bankrupt Recordings
   - budabeats
-  - Crookram
-  - Netherlands
-  - Sagesse
 ---
-***Dutch HipHop, English Rap*** // While [Crookram's album "19/76"]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/428-crookram-1976-budabeats) on Budabeats sounded dusty, analogue, funky and deep, the productions with his partner Sagesse shine polished and bass-loaded. With a bassdrum deep like Miami Bass and a tos of funkyness between the beats the Dutch producer makes another step in his evolution. Now I know why the Netherlands are such a flat land. Too much bass...
-
-<!--mp3links-->
+While [Crookram's album "19/76"]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/428-crookram-1976-budabeats) on Budabeats sounded dusty, analogue, funky and deep, the productions with his partner Sagesse shine polished and bass-loaded. With a bassdrum deep like Miami Bass and a tos of funkyness between the beats the Dutch producer makes another step in his evolution. Now I know why the Netherlands are such a flat land. Too much bass...<!--more-->
 
 
   
@@ -32,9 +28,7 @@ tags:
   
 <!--mp3linksend-->
 
-<!--more-->
 
-<!--adsense-->
 
 I adore crackling samples, the collage technique of old school hiphop productions. That's why I adore so much the releases of [Budabeats]({{ site.url }}{{ site.baseurl }}/tag/budabeats). Crookram was the second artist who refined the catalogue. Now he starts his own netlabel Bankrupt Recordings.
 

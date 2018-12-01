@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Sometimes I wonder who listens to dark techno tracks like I found on Audioexits sublabel Ae-Tech. These badass tracks kick fast and deep, but any interesting groove and twist is missing. I used to dance to such streamlined tracks in my youth, today I scratch my neck how I could provide enough energy to dance to such music for even half an hour.
 
 No surprise, I found myself listening to the deeper and more minimal tracks lending the sublabel Ae-Min an ear. Even in this subcategory the hungarian tracks sound dark and push with an extra-portion of subbass. But nevertheless the fat production kick you constantly and especially the trance-influenced "Butterfly" by Dorian Knox has potential to get the hands of the clubbers into the air in front of your dj-mixing-desk. Somehow the track reminds me of this trance-megahit "7 Days And One Week". Of all four tracks "Butterfly" has the most pop-orientated touch and if you like minimal techno, give the whole quality ep a try.

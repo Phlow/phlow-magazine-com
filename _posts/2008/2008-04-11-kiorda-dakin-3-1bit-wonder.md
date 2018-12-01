@@ -28,8 +28,6 @@ tags:
   
 <!--more-->
 
-<!--adsense-->
-
 With two EPs and numerous single tunes Däkin is a real housekeeping artist at 1bit Wonder. With his third appearance "3", he founds himself connecting to the Deephouse-style of his debut "[Interstellar Paradise](http://www.1bit-wonder.com/004/004.html "Interstellar Paradise @ 1bit-Wonder")" (which is the name of [his own Netlabel](http://www.myspace.com/interstellarparadise "Interstellar Paradise Netlabel"), too). Spaced out synthesizers, naive melodies and interstellar echo chambers evoke memories of late 70's retro futurism.
 
 Imagine the [Discovery](http://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29 "A Space Odyssey @ Wikipedia") approaching the stars with "Meditate" for score rather than _György Ligeti's_ composition. The fine echo-chords and grumbling synth textures of "Median" sound like [Thinner](http://www.thinner.cc "Thinner Netlabel") gone Pop, while "Melt" marries Deephouse and cautious Minimal Techno. The title track "3" has wonderful full-synthetic strings, fine stage piano pads and brings forth a certain Fusion-feel. Did someone say [Return to Forever](http://en.wikipedia.org/wiki/Return_to_Forever_%28album%29 "Chick Corea @ Wikipedia")? I do.

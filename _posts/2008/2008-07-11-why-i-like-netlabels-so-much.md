@@ -18,8 +18,6 @@ tags:
 ---
 ***Netlabels are Fortune Cookies*** // Here and than, I ask myself: What is so fascinating about netlabels, that I stayed in touch all over the years? Why am I so excited and keep digging into the wild woods of netlabelism? Isn't it exhausting digging through 5 Gigabytes of music to find only one row diamond? Yes, it is. But you have to cut the shit everywhere, sometimes a really huge pile. But when you find those nuggets, you're excited that musicians allow you to spread the music, the vibes and show them legally to your friends. But there are still more reasons why netlabels are amazing, read on!<!--more-->
 
-<!--adsense-->
-
 ## Why I like netlabels so much!
 
   1. Netlabels invite me to spread their music for free and let me make propaganda not only by mouth, but with music itself!

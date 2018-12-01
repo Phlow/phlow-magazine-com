@@ -21,8 +21,6 @@ tags:
 ---
 ***Deep and Minimal Techno-Mix*** // Archipel Netlabel concentrates on [minimal music]({{ site.url }}{{ site.baseurl }}/mp3-music-download/techno/465-pheek-mix-assignment-archipel-netlabel "Minimal Music in da Mix with Pheek") since its first emergence. With a fresh relaunch labelhead Pheek demonstrates how exclusive a netlabel showcase can be. With stylish pictures and an extraordinary look, Archipel Netlabel presents high quality minimal music for lovers. With their collaborative sampler called "Assignment 3" they give DJs and Artists a package of tools. In his mix Pheeks shows how the tools could sound if used right.<!--more-->
 
-<!--adsense-->
-
 In the retrospection Archipel looks back at its history and reconsiders what happened and will happen in the future:
 
 > After 3 years of existence, Archipel went a few steps further than what was originally planned. While the initial project was supposed to be about releasing samplepacks for a community, it grew to various scenes where it got even some vinyl releases. As things became more busy and demos flew in, we decided to aim at new goals and not propose a new samplepack.

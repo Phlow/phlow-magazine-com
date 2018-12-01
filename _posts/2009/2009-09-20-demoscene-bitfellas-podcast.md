@@ -30,8 +30,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 In the last two years I more and more discovered, that cooperations between like-minded are the best elixir to make magic moments happen. And you have to meet them in reality. Since two years now, I rock this magazine together with Sven Swift. And it's pure fun. This year a team of creative comons freaks rocked our city with Cologne Commons. And now you can discover with me another of this fantastic moments. Listen to the excellent and with love crafted [BitFellas Podcast](http://podcast.bitfellas.org/). And don't miss to <a href="http://www.bitfellas.org/podcast/podcast.xml" target="_blank">grab their Podcast Feed</a>.
 
 <img class="alignnone size-full wp-image-1357" title="bitjam-podcast-phlow" src="{{ site.url }}{{ site.baseurl }}/images/bitjam-podcast-phlow.jpg"

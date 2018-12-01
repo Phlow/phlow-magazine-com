@@ -30,8 +30,6 @@ tags:
 
 
   
-<!--adsense-->
-
 Nothing matters anymore. Happy tunes unite with floating beats, the IDMish sounds have not show teeth, but a breath of magic is closely in on their side. Airy windows of wonder and opportunity. And then sometimes little fragments of game-like soundeffects just make you wonder, while the trip goes on. Also some excellent precise breaks are on this release.
 
 This is the 20th, and maybe the most grown-up, release on the brilliant II-Music netlabel. The Label normally features music, that go from chiptune to miniature compositions made with chip. All releases combine clever music with extreme high quality. Something like Iqtu. Definitely my dig of the month.

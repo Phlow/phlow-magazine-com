@@ -3,46 +3,47 @@ nav_title           : MP3
 title               : MP3 Music Archive
 permalink           : /free-mp3-music-download/
 ---
-<h2>Categories</h2>
-<ul>
-{% assign categories_list = site.categories %}
-{% if categories_list.first[0] == null %}
+Choose your favorite music genre, visit a review and listen to the music!
+{: .h4 }
 
-    {% for category in categories_list %}
-      {% if
-        category[0] == 'Charts' or
-        category[0] == 'News' or
-        category[0] == 'Music Video' or
-        category[0] == 'DJ/Liveact Mix' or
-        category[0] == 'Music Marketing Promotion' or
-        category[0] == 'Interview Portrait' or
-        category[0] == 'Feature'
-      %}
-      {% else %}
-        <li><a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}</a> // {{ site.tags[category].size }}</li>
-      {% endif %}
-    {% endfor %}
+<div class="grid col-3">
+  <div>
+    <h2>Dance</h2>
+    <ul>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/house">House</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/techno">Techno</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/hip-hop">Hip Hop</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/dub-and-reggae">Dub and Reggae</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/drum-and-bass">Drum and Bass</a></li>
+    </ul>
+  </div><!-- /col1 -->
 
-{% else %}
-  {% for category in categories_list %}
-    {% if
-      category[0] == 'Charts' or
-      category[0] == 'News' or
-      category[0] == 'Music Video' or
-      category[0] == 'DJ/Liveact Mix' or
-      category[0] == 'Music Marketing Promotion' or
-      category[0] == 'Interview Portrait' or
-      category[0] == 'Feature'
-    %}
-    {% else %}
-        <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</a></li>
-    {% endif %}
-  {% endfor %}
+  <div>
+    <h2>Pop</h2>
+    <ul>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/pop">Pop</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/downbeat">Downbeat</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/rock">Rock</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/folk-acoustic">Folk-Acoustic</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/trip-hop">Trip Hop</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/jazz">Jazz</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/compilation">Compilation</a></li>
+    </ul>
+  </div><!-- /col2 -->
+
+  <div>
+    <h2>Electronic</h2>
+    <ul>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/idm">IDM</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/electronica-indietronic">Electronica-Indietronic</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/ambient">Ambient</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/experimental">Experimental</a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/music-genre/chip-music">Chip Music</a></li>
+    </ul>
+  </div><!-- /col3 -->
+</div><!-- /grid -->
 
 
-{% endif %}
-{% assign categories_list = nil %}
-</ul>
 
 {% for category in site.categories %}
 {% if

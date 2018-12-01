@@ -25,8 +25,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 **I enjoy the idea of remixing.** Especially my curiosity gets triggered if musicians remix musicians. Like Kruder & Dorfmeister with their sessions or the remixes done for Björk in the early years between her debut and the homogenic-album... **Remixing is art which has to reinvent the original by keeping its true soul alive.** Not an easy task if you ask me, and I did remixes myself...
 
 Just digg deep into this song called "Complete" and check out the tricky shuffled Bad Comfort Remix or the warm melancholic and slowly drifting remix by Madstyle. Also interesting the Sm Remix using a piano for the melody instead of using bleeps. While the SM Remix transforms "Complete" into a enigmatic anthem only the Illuminated Faces Remix straightens the beats and produced a sensitive 4 to the floor track...

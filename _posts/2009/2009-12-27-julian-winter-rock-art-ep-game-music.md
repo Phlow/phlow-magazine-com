@@ -27,8 +27,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 **<a href="http://www.alchemiagame.com/" target="_blank">Alchemia</a>** is a point and click adventure in the tradition of the beautfil **<a href="http://www.amanita-design.net/samorost-1/" target="_blank">Samorost</a>** and **<a href="http://www.amanita-design.net/samorost-2/" target="_blank">Samorost 2</a>** games. And it's the visual counter part of Julian Winter's "Rock Art EP" or the other way round. Like the game, you listen to lots of samples, which generate a dense atmosphere along with the melodies. Like the game everything is handmade, no synthies doodling around.
 
 <img class="alignnone size-full wp-image-1481" title="screenshot_alchemiagame" src="{{ site.url }}{{ site.baseurl }}/images/screenshot_alchemiagame.gif"

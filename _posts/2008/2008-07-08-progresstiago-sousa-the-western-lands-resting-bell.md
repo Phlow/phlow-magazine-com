@@ -20,8 +20,6 @@ tags:
 ---
 **Free MP3 Folk Music** // OK, strange heading I admit... but a precise one. Tiago Sousa of Portuguese Merzbau Netlabel releases his fourth album "The Western Lands" at Resting Bell and manages to establish himself as the Brian Eno of desert Rock. Textures that flicker like hot air, wishful guitar melodies and desolate folk pickings make up for a unique piece of campfire Ambient.<!--more-->
 
-<!--adsense-->
-
 "The Western Lands" is a Folk record. Despite all the processing, Sousa's guitar-play is what makes up all songs on his album. A handful of simple melodies, some improvisation and a lot of repetition, an trashy amp and the courage to go public with it, Tiago Sousa doesn't need too much to release a cool album.
 
 Weightlessly draped on the infinite howl of a fuzzy guitar, piano and acoustic guitar come together for a beautiful waltz at "The Roads To Western Lands". It's stunning to hear the instruments merge, interfere and _ab initio_ build new structures. Imagine Belgian Free Folk-collective [Kaboom Karavan]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/230-kaboom-karavan-short-walk-with-olaf-umor-rex "Kaboom Karavan @ Phlow Mag") in a slightly more traditional arrangement. Focusing on the interplay of noisy, electric guitar and fine unplugged pickings on top, "Waghdas" is another good example for Tiago Sousa's approach to experimental (Folk) music. With it's haunting distortion grim, first drone "Can Any Soul Survive (...)" is the one extreme, while calm piano/ guitar ballad "The Valley" shows Tiago from his rather dreamy side. Chapeau Tiago!

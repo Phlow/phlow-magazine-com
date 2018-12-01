@@ -23,8 +23,6 @@ tags:
 ---
 **An Electronic Music Adventure from Chile**) // "Quizás quiso decir Rolando" is what I would call a true full-length album. It has all the ingredients to master a musical trip over 52:47 minutes. While the different songs and tracks float into each other, Rolancho takes us from IDM to Ambient to Techno to Instrumental Hip Hop. His compositions and ideas offer us a music album to discover. A deep journey, indeed!<!--more-->
 
-<!--adsense-->
-
 <img class="alignright size-full wp-image-973" title="rolo_bio" src="{{ site.url }}{{ site.baseurl }}/images/rolo_bio.gif"
 
 We live in an age of click and pick! Listeners turn true albums into a Download à la carte-Album where they pick only their favorites out of a list.

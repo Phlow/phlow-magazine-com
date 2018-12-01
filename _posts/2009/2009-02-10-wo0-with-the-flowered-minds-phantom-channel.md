@@ -28,8 +28,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Wo0, founding member of the [Belgrade Noise Society](http://www.belgradenoise.com/), has an interesting approach to "play" his guitar. He uses the pickups of his instrument to receive certain frequencies (from cell phones, radio transmitters, and similar).  Processed by multiple effect pedals and amplified to Rock n' Roll volume, mesmerizing drones emerge that are carefully interlaced and focused in an all-live setup by Wo0. The outcome sounds familiar yet fresh and disturbing.
 
 <img class="size-full wp-image-1074" src="{{ site.url }}{{ site.baseurl }}/images/wo0_live.jpg"

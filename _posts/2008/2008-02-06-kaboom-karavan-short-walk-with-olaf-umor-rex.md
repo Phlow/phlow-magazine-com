@@ -21,9 +21,7 @@ tags:
   - netaudio
   - Umor Rex
 ---
-**Ambient Music Marching Band** ****| I found out about Kaboom Karavan when listening to [d'incise's free music-charts]({{ site.url }}{{ site.baseurl }}/charts/172-dincise-free-music-charts-2007 "d'incise Free Music Charts 2007") we had published in December 2007 as part of the Netaudio Adventcalender. His choice of Folk-influenced electronic music is stunning, and the Belgian Kaboom Karavan-collective was totally new to me. Fortunately, the full-length record keeps the promise a single tune made up.<!--more-->
-
-<!--adsense-->
+**Ambient Music Marching Band** ** I found out about Kaboom Karavan when listening to [d'incise's free music-charts]({{ site.url }}{{ site.baseurl }}/charts/172-dincise-free-music-charts-2007 "d'incise Free Music Charts 2007") we had published in December 2007 as part of the Netaudio Adventcalender. His choice of Folk-influenced electronic music is stunning, and the Belgian Kaboom Karavan-collective was totally new to me. Fortunately, the full-length record keeps the promise a single tune made up.<!--more-->
 
 Kaboom Karavan is mainly Bram Bosteels. For his adventurous Free Folk music, Bosteels regularly gets together with his friends, situated in "a very small town in a rather small country", like he notes on [his myspace account](http://www.myspace.com/kaboomkaravan "Kaboom Karavan @ Myspace"). Sounds pretty much like a collective-thing going on, and if you take the open structure of his songs, the high amount of processing and all these jingle bells in account, a certain esoterism-charge might be appropriate.
 

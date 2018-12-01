@@ -27,8 +27,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 **New Earth Objects** is Clemens Wegener, Marian Reinig and Tommy Neuwirth. Not much is known about the band- anyway, we've got this wonderful live recording! Within 73 minutes and basically four tracks (ranging 12 - 27 minutes), the band creates their very own sound vision blending minimal Electronica, Krautrock and Pop.
 
 Synthesizers go along with decent sound gimmicks, super simple drums and hushed vocals. Warm textures are played out to maximal duration, **drums and beats are a meditation on structure, a natural pulsing rather than an instrument to agitate the crowd**. Especially the first two tracks are absolutely bewitching. "Slow down, slow down..." - must have been a special performance!

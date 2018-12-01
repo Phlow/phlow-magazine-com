@@ -26,8 +26,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Czech Netlabel [Ground Floor Records](http://www.groundfloorrecords.com/) is active since 2005. How come I never heard of them? Their style is pretty dark, _Death Hop_, a mixture from Punk, Industrial and Gothic imagery which is prominently featured by artists like _Dälek_, _Necro_ or _Aesop Rock_. Not what you would expect from a Hip Hop label but quite well done- label head [noizcut](http://www.myspace.com/djnoizcut) is responsible for the design of the website and all Ground Floor releases.
 
 <span class="searchMonkey-displayURL">Consequently, the artwork for Son Of A Bricklayer's "<a href="http://www.groundfloorrecords.com/catalog/GFR21LP.html">Shades Of Grey</a>" LP is bleak and dirty as well. And although his music is not exactly uplifting and colourful, <strong>I was surprised to find relaxed and jazzy end-90s Hip Hop tunes </strong>rather than noisy break beats. Experimental in parts ( "Man Hunt", "Bolga") but mostly very well crafted instrumentals that sound like rainy streets at night, long car rides and  New York City in general. The instant hits are "One", "Bloom" or "La Chambre". <a href="http://www.myspace.com/instrumental78">Son Of A Bricklayer</a> sounds like <em>SixToo</em>, <em>Shadow</em> and </span><span class="searchMonkey-displayURL">the early <em>RJD2</em> </span><span class="searchMonkey-displayURL">and did an awesome job on "Shades Of Grey".<br /> </span>

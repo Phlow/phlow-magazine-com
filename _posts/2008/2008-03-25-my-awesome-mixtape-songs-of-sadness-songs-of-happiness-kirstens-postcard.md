@@ -25,8 +25,6 @@ tags:
   
 <!--more-->
 
-<!--adsense-->
-
 My Awesome Mixtape is that type of indie-band that sound personally, a little bit trashy and full of fun. Each song makes us feel slightlymelancholic but gives us hope with a fine groove and nice vocals. The band on the italian netlabel called Kirstens Postcard include their listeners and it seems as we are their buddies. Maybe these emotions come from the refrain often sang as a chorus.
 
 Let's bring it to the point: **Great melodic music with a personal touch!**

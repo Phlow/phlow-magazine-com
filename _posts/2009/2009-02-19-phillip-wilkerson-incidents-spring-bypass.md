@@ -26,8 +26,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 According to [his website](http://www.phillipwilkerson.net/), Wilkerson is a busy man. He has a good cue of releases with the usual candidates for experimental Ambient/ Drone stuff ([Clinical Archives](http://www.clinicalarchives.spyw.com/), [Treetrunk](http://www.archive.org/details/treetrunk), [JNN](http://justnotnormal.wordpress.com/)). I do not consider myself an expert in his oeuvre, but Wilkerson's EP "[Incidents in Spring](http://bp.bai-hua.org/releases/bp016.htm)" makes me speculate to become one.
 
 [Phillip Wilkerson](http://www.phillipwilkerson.net/) shifts harmonious layers of processed textures, each rich in tone and design. His sound is artificial and glitchy, still Wilkerson manages to  enshrine the warmth of his source material. While the first two compositions are plain Ambient or Drone, tracks three and four come off with songwriting qualities. Rural beats, transparent instruments (if you dare to call that cheapo GM piano in  "Incident 4" an instrument) at interfering micro-melodies make me think of German Electronica like _To Rococo Rot_ or _Kreidler_. Auspicious.

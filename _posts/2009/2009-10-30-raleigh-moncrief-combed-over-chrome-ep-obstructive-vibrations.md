@@ -36,8 +36,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 
   
 Ah c'mon! I can't find out ANYTHING about neither "**Raleigh Moncrief**" nor the remixers (?) "Chandeliers" and "Dash!". <a href="http://obstructivevibe.com/" target="_blank">Obstructive Vibrations</a>, please! Moncrief is from Cali, is he? Everything I got is the private Myspace of designer <a href="http://www.myspace.com/brandon_k" target="_blank">Brandon Kalarney</a> and these five tunes...

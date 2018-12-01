@@ -9,17 +9,9 @@ categories:
   - Experimental
   - Pop
 tags:
-  - Avantgarde Pop
   - Clinical Archives
-  - download
-  - Experimental
-  - folk
-  - free
   - Gillicuddy
-  - mp3
-  - music
   - netlabel
-  - Noiserock
 ---
 ***Metapop with a wink*** // Our [friend]({{ site.url }}{{ site.baseurl }}/mp3-music-download/folk-acoustic/1216-gillicuddy-repeating-thoughts-zinng-zanng-resting-bell) Gillicuddy returns with a new EP which is great fun t2b. Five songs that oscillate between lo-fi Folk, textural experiments in sound, and Noiserock (!). What has been planted in all his music finds its way through the soil on "The Yaouhl! Mashups" eventually: Gillicuddy is the fourth in line of Frank Zappa, Mike Patton, and Jim O'Rourke.
 

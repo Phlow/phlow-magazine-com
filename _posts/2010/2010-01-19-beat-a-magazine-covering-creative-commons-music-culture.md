@@ -7,12 +7,6 @@ author: Moritz »mo.« Sauer
 permalink: /feature/1582-beat-a-magazine-covering-creative-commons-music-culture
 categories:
   - Feature
-tags:
-  - creative commons
-  - free culture
-  - magazine
-  - media
-  - print media
 ---
 After years of working as an music journalist I am still surprised how the print music media ignore the world of free music. Creative Commons Musicians nearly get no support by print magazines which write about music. Netlabels get no spot, even if they try. The only print media which cover creative commons topics are newspapers and live style magazines. Only one exception proves the rule: A German magazine called Beat writing about synthesizers, music production and... yes, Creative Commons Music. We interviewed its driving force aka main editor aka Thomas Raukamp.<!--more-->
 

@@ -33,8 +33,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Without no doubt: Roland from Machtdose has a wonderful taste when it comes to music. More fascinating are his skills to find those wonderful nuggets in the huge pond of creative commons music. Even though he says about himself not being a dj, this blend of dubby techno, lush electronica and bright ambient speaks different.
 
 **Simply a wonderful selection while swimming through the reefes of netaudio.**

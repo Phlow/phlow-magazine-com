@@ -24,8 +24,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 All six tracks on "But We Made It So Far" are dance music in a way. So what's special about the Monomen? The three guys from Cologne and Bochum have been around for more than ten years now, with albums and EPs at [Ideology](http://ideology.de/) since 2005 and a handful of self-released CDs and vinyl. They started as a Drum & Bass act, discovering the sweet ambrosia of Pop music very soon. Since then, Monomatik refined their organic dance music by going into big naive melodies, decently bouncing rhythms and wonderful little sound surprises.
 
 For instance, the whistling melodie in "The One Where Everybody Joins In" is funny and charming and makes you listen up. "The One With The Leadguitar" is a must-hear as well. Alongside a fuzzy guitar, the chorus brings up sweet memories of genuine (and strange) German popacts like _La Düsseldorf_ and _Trio_ (sic!). Like these acts, **Monomatik don't take themselves too serious and spice their music with whatever comes along.** Fresh.

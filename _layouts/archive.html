@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <h1>Music Genre // {{ page.title }}</h1>
+
+    <div class="grid col-3">
+
+      {% for post in page.posts limit:3 %}
+
+      <a class="card" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+        <div>
+          <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image.title }}" alt="{{ post.title | escape }}">
+        </div>
+      </a>
+      {% endfor %}
+
+    </div>
+
+
+    <ul class="no-bullet tem2">
+      {% for post in page.posts offset:3 %}
+        <li class="bem1">
+          <a class="post-link" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subtitle %}{{ post.subtitle }} // {% endif %}{{ post.title }}</a>
+          {{ post.excerpt | strip_html | remove: '<p>' | remove: '</p>' | truncatewords: 20 }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</main>
+

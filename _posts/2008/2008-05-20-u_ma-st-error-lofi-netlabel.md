@@ -20,9 +20,7 @@ tags:
   - netlabel
   - Pop
 ---
-***Intimite Homerecordings*** // [U_mä is an indie folk duo]({{ site.url }}{{ site.baseurl }}/mp3-music-download/pop/512-u_ma-st-error-lofi-netlabel "Free MP3 Music Downloads") and at the same time couple from Barcelona, that put its love to one another on an album, which perfectly makes sense if you take some time to think about it: u\_mä is Pau Vallvé and Maria Coma and if you look at their first names you might get a little closer to what u\_mä is. To make it easier for you: pa|**u_mä**|ria. So, their self-titled album (u_mä) IS what they ARE. <!--more-->
-
-<!--adsense-->
+***Intimite Homerecordings*** // [U_mä is an indie folk duo]({{ site.url }}{{ site.baseurl }}/mp3-music-download/pop/512-u_ma-st-error-lofi-netlabel "Free MP3 Music Downloads") and at the same time couple from Barcelona, that put its love to one another on an album, which perfectly makes sense if you take some time to think about it: u\_mä is Pau Vallvé and Maria Coma and if you look at their first names you might get a little closer to what u\_mä is. To make it easier for you: pau_märia. So, their self-titled album (u_mä) IS what they ARE. <!--more-->
 
 The organic, sensitive and emotional sound of their homerecorded 13 track debut is highlighted through Paus and Marias voices that perfectly fit into the glockenspiel, piano, keyboard and guitar sounds. Their music is based on looped instrumental sounds that are usually slowly building up until the point where the drums or vocals start.
 

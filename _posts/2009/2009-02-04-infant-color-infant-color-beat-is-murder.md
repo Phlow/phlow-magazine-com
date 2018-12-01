@@ -28,8 +28,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 I'm writing a lot about [Beat is Murder](http://www.beatismurder.com/netlabel) but be assured- it's only for the sake of music. The latest addition on the Netaudio-branch of the label is [Infant Color](http://www.myspace.com/holpband), a mysterious guy from the South of North America according to his [Myspace](http://www.myspace.com/holpband)-account. The label, as usual, doesn't dare to post any helpful information. The Infant music, however, does not sound a lot like Texas.
 
 [Infant Color](http://www.myspace.com/holpband) combines drum-machine grooves and cheapo synthpads with his vulnerable singing voice and guitar. Everything mixes quite rough and the whole EP sounds rather awkward than iced. Which is cool- the music and especially Color's dedicated vocal performance might have turn pretentious otherwise. The old _Depeche Mode_ are an influence for sure, but [Infant Color](http://www.myspace.com/holpband) took Electropop to the cleaners and boiled it down to its very essentials.

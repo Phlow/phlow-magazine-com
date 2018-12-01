@@ -35,8 +35,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Bluermutt refined his style on "Decivilice After Consumption". While "[When I'm Not](http://www.nexsound.org/ns55.html)" showed Giovanni Civitenga's addiction to leftfield Pop only in traces, the new Bluermutt album can be considered an avowal to groove, melody and vocals in general. Therefore, it suits the Nexsound Pickup-series beautifully.
 
 Be aware: **Bluermutt music is light years away from radio-friendly muzak**. But Giovanni's stumbling IDM and Hip Hop beats are do not stand isolated in tracks but form _songs_ nowadays. Bluemutt is accompanied by a vocalists [Fredo Viola](http://www.myspace.com/fredoviola), [Steph Thirion](http://www.myspace.com/superstephworld) and Linn Rasimelli plus a series of random sample voices. The wonky IDM hymn "Fashion Arithmetic" is outstanding, "Self Approach" strongly reminds me of Canadian Electropop wizard [adcBicycle](http://adcbicycle.blogspot.com/) and "Before Going To Bed" is nothing but bewitching.

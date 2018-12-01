@@ -24,8 +24,6 @@ tags:
 ---
 ***The Maestro of Acc****idental Folk is Back*** // Daisuke Miyatani lives on a small Japanese island, works in a bookshop and releases beautiful, erratic guitar-music all over the world. His records at MiMi, Rain Music, Magic Book and Ahornfelder dog me ever since I started listening to free music. What joy to see his most recent "Fragments" EP published at Creation Centre!<!--more-->
 
-<!--adsense-->
-
 Gabriel Hernandez' [Rain Music](http://rainmusic.free.fr/ "Rain Music Netlabel") Netlabel is a good home for Daisuke Miyatani, but [Creation Centre](http://www.creation-centre.com/ "Creation Centre Netlabel") is no less. His loose and lo-fi Folk scribbling suit the ideals of Pop on the one hand and an approach of spontaneity <!--[if gte mso 9]>  Normal 0 21   false false false        MicrosoftInternetExplorer4  <![endif]-->
 
 <!--[if gte mso 9]>   <![endif]--> and defectiveness and the other. It's a shame the EP is so damn short (just about 8 minutes) but following title and liner notes, it makes perfect sense at last:

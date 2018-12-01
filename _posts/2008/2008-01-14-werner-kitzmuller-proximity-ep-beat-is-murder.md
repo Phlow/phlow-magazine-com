@@ -19,9 +19,7 @@ tags:
   - Pop
   - Werner Kitzmüller
 ---
-*Angstpop & Post-Teenage Drama** ****| Werner Kitzmüller is the newest addition to the chosen artists-rooster at Beat is Murder-Netlabel. His five-track "Proximity EP" is a collection of grumbling Folk-tunes, precious little lo-fi scribbles and a lot of withdrawn navel-gazing. But due to this, Kitzmüller is a performer and adds the right amount of glamour to make his music stand out in the multitude of nice Folk music.<!--more-->
-
-<!--adsense-->
+*Angstpop & Post-Teenage Drama** ** Werner Kitzmüller is the newest addition to the chosen artists-rooster at Beat is Murder-Netlabel. His five-track "Proximity EP" is a collection of grumbling Folk-tunes, precious little lo-fi scribbles and a lot of withdrawn navel-gazing. But due to this, Kitzmüller is a performer and adds the right amount of glamour to make his music stand out in the multitude of nice Folk music.<!--more-->
 
 In this specific context, _glamour_ does not necessarily has to mean opulence & tinsel. Glamour means that Kitzmüller's music is strange, hard to catch and maybe a bit nasty. _Will Oldham_ is glamorous, _Mark E. Smith_ is, too. After all, _glamour_ is one of the singular constants in the colourful [Beat is Murder](http://www.beatismurder.com/netlabel/ "Beat is Murder Netlabel")-back catalogue. Think of [Liger](http://www.myspace.com/postfolk "Liger @ Myspace"), remember Robintone's stunning "[She Ate All the Pancake](http://www.beatismurder.com/netlabel/index.php?option=com_content&task=view&id=27&Itemid=50 "Robintone @ Beat is Murder")"-EP. Vienna-based Werner Kitzmüller sings with his rasping gloomy voice over sparse instrumentals, sometimes distanced ("Light a Hungry"), sometimes with huge effort ("Outta Sorts"). The music is surprisingly catchy, with tight and unspent melodies. If your player can stand a bit of post-teenage drama, this EP is a must-have for you!
 

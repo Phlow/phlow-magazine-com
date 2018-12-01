@@ -20,8 +20,6 @@ tags:
 ---
 Christian Roth is the founder of [Resting Bell](http://www.restingbell.net/), a young netlabel from Berlin/Germany. Started in early 2007, Resting Bell has released 18 EPs of Drone- and Ambient-music, including critically acclaimed artists like [Off the Sky](http://www.restingbell.net/releases/rb017-rare-decay), [K.M. Krebs](http://www.restingbell.net/releases/rb009-symmetries), [Astrowind](http://www.restingbell.net/releases/rb008-somewhere-the-music-had-been-played) and [Adrián Juárez](http://www.restingbell.net/releases/rb005-caleta-dos). Christian is 30 years old and works as a [graphic-designer](http://www.goyippi.net/) when he's not playing with his cat.<!--more-->
 
-<!--adsense-->
-
 ### Christian's Top-5 Songs
 
 ### Christian's Top-5 Releases

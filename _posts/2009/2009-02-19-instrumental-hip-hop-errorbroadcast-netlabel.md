@@ -24,8 +24,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 There are many netlabels out there! But why are there so few netlabels which care about broken beats. Where are all these Hip Hop and Drum'n'Bass netlabels? Fortunately our dear Sven Swift teamed up with Filippo Aldovini. If you thought those boys already had enough to run their netlabels <a href="http://12rec.net" target="_blank">12rec.net</a> and <a href="http://www.zymogen.net/" target="_blank">Zymogen</a> the present tells you, you've been wrong.
 
 [<img class="alignnone size-full wp-image-1110" title="eb-banner" src="{{ site.url }}{{ site.baseurl }}/images/eb-banner.jpg"]({{ site.url }}{{ site.baseurl }}/mp3-music-download/hiphop/1100-instrumental-hip-hop-errorbroadcast-netlabel)

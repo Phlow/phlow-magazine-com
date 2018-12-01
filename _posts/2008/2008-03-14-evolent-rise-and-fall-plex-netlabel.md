@@ -20,8 +20,6 @@ tags:
 ---
 ***Frenetic Techno Signals*** // The [Swiss producer-duo Evolent]({{ site.url }}{{ site.baseurl }}/mp3-music-download/techno/362-evolent-rise-and-fall-plex-netlabel) come around the corner with three astonishing techno-tracks. With the title-track "Rise And Fall" they produced an outstanding rave-track with wicked twists, excellent sounds and a powerful bassdrum. Where Mnml-Music focus on some sounds, Evolent storm the dancefloor with a whole bunch of sound-experiments. Their ideas nearly explode in this killer-track.<!--more-->
 
-<!--adsense-->
-
 Long time, no techno. I got bored a little bit. Always some DubTechno or Minimal-Tunes begged for downloading, but in the end there where no grooves or hooks which got me raving.
 
 But Evolent from Switzerland made me listen up. Their little EP surprises with three dense and exciting tracks. Each track has its own identity and evolves. Next after "Rise And Fall" the second track "Cornflakes In My Ears" starts with some funky electro-beats to get concrete on a steady bassdrum later on. But also the closing track "Evolver" is everything but a flop. More atmospheric than the first tracks, Evolent trip with us on some fine bleeps and quirky melodies. Respectful production!

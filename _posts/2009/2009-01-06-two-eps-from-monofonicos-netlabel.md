@@ -26,8 +26,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 While <a href="http://www.monofonicos.net/index.php/netlabel/lanzamientos/mns-001-va-colores-fluidos/" target="_blank">"Colores: Fluidos"</a> opens Monofónicos with a compilation to the public which represents five artists, Dsum makes the first steps as a solo artist with his <a href="http://www.monofonicos.net/index.php/netlabel/lanzamientos/mfn-001-dsum-libertad-ep/" target="_blank">"Libertad EP"</a>. Both EPs deliver melodic House-Chords accompanied with beautfilul easy swinging percussions. Sometimes you feel like dancing on the rainbow. Somehow I got the impression Dsum likes Thomas Fehlmann and his extraordinary TechHouse-Tunes...
 
 Especially the sweet "Liberdad (Original Mix)" track floats with its analogue jazz bassline like the setting sun into the sea. Easy, man! If you like it a little bit darker, check out the remix by Rat with some playful clickering percussions for a deeper TechHouse-approach.

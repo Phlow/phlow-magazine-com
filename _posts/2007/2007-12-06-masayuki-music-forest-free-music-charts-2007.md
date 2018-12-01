@@ -25,8 +25,6 @@ The 27-seven-years-old Masayuki is the brain behind the japanese music weblog [M
 
 After enjoying [his charts made in japan]({{ site.url }}{{ site.baseurl }}/charts/192-masayuki-music-forest-free-music-charts-2007), I guess, we have to digg into this subject deeper.<!--more-->
 
-<!--adsense-->
-
 ### Top-5 Songs
 
 **Click on the following links to find the corresponding release:**

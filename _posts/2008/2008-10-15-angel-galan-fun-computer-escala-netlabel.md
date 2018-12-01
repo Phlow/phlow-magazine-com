@@ -22,8 +22,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 "Fun Computer" is a pure single with two remixes/alternative takes. These takes sound interesting but haven't the suicidal hook the original electro song crosses your ears. Just dig it and get addicted, you'll hear what I mean.
 
 ## MP3 Electro Music Download

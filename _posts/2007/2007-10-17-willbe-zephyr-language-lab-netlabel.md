@@ -24,8 +24,6 @@ tags:
   
 <!--more-->
 
-<!--adsense-->
-
 So it's no surprise that [Willbes](http://www.williamlamy.com/) one-track-release on [Language Lab](http://www.language-lab.net/) called "Zephyr" is one of those mellow tracks, i like cruisin around with. Build on straight-forward and kicking beats "Zephyr" rolls and rolls like his incredible production ["Tribal City"](ftp://ftp.scene.org/pub/music/groups/language_lab/llab001d_willbe_-_tribal_city.ogg&id=196944) (Ogg Vorbis) also released on Language Lab. Great music for a relaxed chill out on a late friday afternoon.
 
 ## MP3 HipHop Music Download

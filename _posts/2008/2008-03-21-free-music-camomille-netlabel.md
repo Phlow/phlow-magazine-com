@@ -19,8 +19,6 @@ tags:
 ---
 ***The Love For Music*** // Camomille is one of the oldest and most exceptional netlabels to date. With Vince Fugère as its head Camomille set some high fidelity milesstones in the netaudio world. The sound could be best described as a mixture of Ambient, Indietronica and IDM. With extraordinary strong illustrations and artworks Camomille confronts its audience with beautiful art. In our interview Vince unveils [the origin, secrets and history of Camomille]({{ site.url }}{{ site.baseurl }}/interview-portrait/382-free-music-camomille-netlabel).<!--more-->
 
-<!--adsense-->
-
 <div class="author-info">
   <p>
     Interview done by <a href="http://cageyhouse.com">Dave Keifer</a> who does odd jobs for <a href="http://www.dog-eared-records.com/">Dog Eared Records</a> and releases music as Cagey House.</div> 

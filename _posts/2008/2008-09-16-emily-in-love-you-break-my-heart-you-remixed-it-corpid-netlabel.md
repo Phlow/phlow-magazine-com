@@ -24,8 +24,6 @@ tags:
   
 <!--more-->
 
-<!--adsense-->
-
 While surfing for information about this electropop release, you read:
 
 > "Emily In Love is the side project of Emily, one half of the electropop duo Bisexual Cyborg, a sad Australian girl who makes dreamy indiepop/folk/tronica for herself and her imaginary cats."

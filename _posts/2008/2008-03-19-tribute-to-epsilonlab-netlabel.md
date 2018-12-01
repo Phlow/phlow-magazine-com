@@ -37,8 +37,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 The canadian netlabel Epsilonlab has quite well-known producers on its roster like Paul Keeley, Eloi Brunelle, Pheek, Sensual Physics or Jeff Benett. Somehow I think the sound is best described as friendly. While the heart is full of love for house-music, **the production of most of the releases sound digital and most of the time crystal clear.**
 
 One of my favorite musicians on Epsilonlab is [Paul Keeley](http://www.epsilonlab.com/main/artists/index.php?lang=en&id=22). Paul Keeley who did also the mastering for a lot of releases on Epsilonlab produces colorful TechHouse-Music. With each release he convinced me again that **he is a master of melodic TechHouse** tunes with a slight trance-approach. To discover the sound of Paul Keeley you have to begin with his beautiful live-act-mix ["Paul Keeley - Live @ Elektra, QC"](http://www.epsilonlab.com/main/releases/details.php?lang=en&id=44&t=1&p=1). Than dig deeper into the archive.

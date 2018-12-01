@@ -20,8 +20,6 @@ tags:
 ---
 Bruno, also known as [nelas](http://organelas.com), is a Biologist from [São Paulo, Brazil](http://maps.google.de/maps?f=q&hl=de&geocode=&time=&date=&ttype=&q=S%C3%A3o+Paulo,+Brazil&ie=UTF8&ll=-23.563987,-46.669922&spn=55.995375,92.8125&z=4&iwloc=addr&om=1), keen on <a href="http://www.flickr.com/photos/nelas/sets/72157600249755962/" target="_blank">marine invertebrates</a>. After discovering a world of free music, and being directly inspired by [ccMixter](http://ccmixter.org/) and [Jamendo](http://www.jamendo.com/) initiatives, nelas decided to create the blog [ccNeLaS](http://ccnelas.org/) by the end of 2006. The blog's idea is simple: he listens to as much music as he can, selects the good ones and shares them at [ccnelas.org](http://ccnelas.org)! Two important influences during the blog's first year of existence were [Remixtures](http://remixtures.com/) and [blocSonic](http://blocsonic.com/). Nelas was (and still is) amazed by the great diversity of music released in 2007 and can't wait to see the future of music. Check out his brazilian choice of free music...<!--more-->
 
-<!--adsense-->
-
 ## Nelas's Top-5 Songs 2007
 
 You find the songs above throudh these links...

@@ -19,8 +19,6 @@ tags:
 ***Free Music Digger*** // With his Podcast called "Machtdose" Podcaster Roland presents a treasure box full of the most terrific netlabel-music around. While fascinated hopping from country to country he presents music from all kind of genres. His Machtdose Show gives a damn about music-boundaries and leads you each time into new corners of the netlabel world. An interview with a Netaudio-Podcaster.
 <!--more-->
 
-<!--adsense-->
-
 **When did you make your first contact with the free music scene, especially netlabels? Do you remember the first release you downloaded?**
 
 I can't remember exactly but it must have been in 2003 or 2004 when I had discovered the (now dead) webjay.org site. On webjay you were able to create playlists with links to online available mp3's - and through playlists by other users I became aware of netlabels like <a href="http://www.observatoryonline.org/">Observatory</a>, Tokyo Dawn and Bevlar (unfortunately all three aren't active anymore, last two are even down for a longer time now).

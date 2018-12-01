@@ -22,8 +22,6 @@ tags:
 ---
 ***SciFi Downbeats*** // [Oskar Rudzki aka Phonout]({{ site.url }}{{ site.baseurl }}/mp3-music-download/downbeat/586-phonout-da-ni-zimmerlautstarke-netlabel "Free MP3 Music Downloads") has a faible for futuristic electronic productions driven by broken beats. These beats are built with care and love for sweet details. While his music communicates in a slight dark and moody temper, his album "Da ni" on the German Netlabel Zimmerlautstärke still reveals some fine melodies and melodic atmospheres.<!--more-->
 
-<!--adsense-->
-
 I am sure Oskar Rudzki digged a lot of Autechre, Squarepusher, Plaid and listened closely to musicians from Warp Records and the early era, the so-called "intelligent techno" era. His art is filled with details, details, details and a love for extra ordinary sounds. But wait, this ain't IDM in the old-skool way. Phonout loves - I guess - old school breakbeats which he enjoys to chop up to build new fascinating beats. With "Da ni" he created a nearly perfect album where tricky production meets soul, melodies and grooves. A deep and excellent soundtrack to read science fiction literature.
 
 ## MP3 Music Download

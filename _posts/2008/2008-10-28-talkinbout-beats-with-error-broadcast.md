@@ -31,8 +31,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Both music nerds teamed up to stem a heavy-weight bassloaded **netlabel called <a href="http://www.error-broadcast.com/" target="_blank">Error-Broadcast</a> for Instrumental Hip Hop**. At Netaudio London 2008 they gave the party crowd a first listen, distributed some exclusive Promo-CDs and were caught by mo. to speak out loud into the microphone. Enjoy a Podcast-Radio-Show with an **exclusive track** from the upcoming Error Broadcast Compilation which gives you a glimpse how deep Error Broadcast digs into the ground.
 
 [<img class="alignnone size-medium wp-image-819" title="error-broadcast_logo" src="{{ site.url }}{{ site.baseurl }}/images/error-broadcast_logo.gif"](http://www.error-broadcast.com/)

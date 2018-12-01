@@ -27,8 +27,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 There are minimum two pieces on "Heartcode" that are outstanding and blasting away any doubts about the grown-up abilities of chip-musicians. The masterpiece is "Ensis" from Disasterpeace. He likes to combine crazy things with different speeds, surprising breaks, fine melodies - all put together with extraordinary composational abilities. It is really hard to shine next to such a burner.
 
 Nevertheless... the other tracks on "Heartcode" are pure 1-a finest quality. "Ikea Shopper Credits" from Alex Maurer brings back the Marble Madness vibe, while tracks like "Monstrox" or "Get Pumped" the complexity and the addicitve sound that you maybe missed since the days of Turrican or old games from Konami. Don't let this music get out of your head. Get and download it now. It's free!

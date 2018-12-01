@@ -25,8 +25,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 And Lord Numb certainly knows how to write songs. "A Man With A ? For A Face" skips along with Lord Numb’s trade mark combination of edgy live guitar and monophonic analogue synth sounds, driven by an urgent and mechanized drum beat.
 
 However, this is certainly no exercise in Heritage Electronica. The gritty "Cubitt", with its classic synth sounds and flat distorted guitars, is a good example of a track where Lord Numb makes good use of momentary glitches and contemporary production values to ensure that this is definitely an album for the Twenty First Century.

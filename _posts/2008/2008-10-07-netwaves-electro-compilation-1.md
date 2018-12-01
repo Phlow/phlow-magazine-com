@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 I like the idea of making [netlabel music compilation]({{ site.url }}{{ site.baseurl }}/dj-mixes-and-compilations) for music lovers who have no clue of netlabels or creative commons music. While the netlabel world is like a huge ocean where normal people drown because they don't see the horizon, it's better to invite them to take a bubbling bath in a whirlpool filled with music by interesting netlabels.
 
 In the sonic whirlpool from Belgium the waves are dark, electronic and sometimes with seducing vocals. A fine electro-compilation.

@@ -26,8 +26,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 While bouncin' on excellent beats you listen sometimes to raps from the Blaktronics to Mercury Waters. Nevertheless the album hides some amazing instrumental hiphop-tracks. From lounge-inspired tunes like "Smiles of Miles" to the enigmatic "The Hunt", Comfort Fit knows various styles. Definetly a classic.
 
 ## MP3 HipHop Music Download

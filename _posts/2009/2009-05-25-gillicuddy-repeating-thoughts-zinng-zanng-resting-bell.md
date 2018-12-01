@@ -24,8 +24,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Let's start with the downer - behind the five tunes the tracklist promises, only two songs lurk actually. "I" and "II" are the same as "IV" and "V", as an interlude "III" is ten seconds silence. "[The Repeating Thoughts Of Old Zinng Zanng](http://www.restingbell.net/releases/rb058-the-repeating-thoughts-of-old-zinng-zanng)". Got it?
 
 [Gillicuddy](http://www.gillicuddy.de) a.k.a. Andreas Rohden is much more subtle songwriter on his new EP than it was the case on "Shmalhans is Kuechenmeister". Both "I" and "II" are subtle and decent Folk songs that deliver a certain 60's feeling but are far to clever to be judged retro. The two-voiced vocals are very beautiful. **Gillicuddys' songs float in a strange place in-between, they do not seem to serve any purpose.** While "I" is a bit more traditional, say _Wilco_ meets _Sea & Cake_,  "II" takes the __song imperciptible into textural regions, makes it disappear somehow.

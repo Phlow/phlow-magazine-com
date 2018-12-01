@@ -23,8 +23,6 @@ tags:
 ---
 ***Pianotronics*** // I think most of our readers know the Munich-based Aerotone-Netlabel for at least one of their handpicked releases. But to make sure not a single one of you misses their latest gift, I'm writing about the self-titled debut album of Japanese piano-player Reiko Matane. Right between introvert Pop, Chamber Music and traces of Electronica, Reiko creates her manifold vision of postmodern piano music. <!--more-->
 
-<!--adsense-->
-
 The ultimate richness of the piano has been documented throughout the history of music. Just lately the instrument re-gained attention by contemporary artists like _Hauschka_, _Gonzales_ or _Polly-Jean Harvey_. The idea to feature the piano in all it's diversified aspects is also evident in Reiko Matane's compositions. You can hear her cloth rustle, nails on the keys, you can follow the hammers beat the strings in a delicate, intimate manner. Reiko's songs draw influences from Ambient and Electronica ("Kodo"), Shoegaze Pop ("Susu", "Hashirihaki Suru") and all along film music, and she manages to make all these sound like fresh and unused. Bewitching. Unmissable.
 
 ## MP3 Piano Music Download

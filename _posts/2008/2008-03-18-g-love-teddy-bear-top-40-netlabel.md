@@ -20,8 +20,6 @@ tags:
 ---
 ***Trashy Techno-Pop Hysteria*** // Prepare yourself for some good old rave signals! The mysterious G-Love takes you back to the old days where the crowds shook their bodies frenetic at the Berlin Love Parade. When everything was about hedonism, [XTC]({{ site.url }}{{ site.baseurl }}/mp3-music-download/techno/367-g-love-teddy-bear-top-40-netlabel?preview=true) and some awfully bad vocal shortcuts like "Superstar", "Mayday" or "Ce-e-e-lebration Ge-e-enartion!". Ah, and did I mention the Remix-Package which invites musicians to make a remix?<!--more-->
 
-<!--adsense-->
-
 I like good stories whether they are true or not. If I read the funny description about the "Teddy Bear"-release and how the music found its way to Top40-Netlabel, I get a little bit suspicious. Is it true, that some unknown producer from Dresden send these solid dancefloor-smash-hits to the russian netlabel? Was he really an active member of rave movement in the middle of 90's? And did he really start again to make music after 10 years of absence?!?
 
 Nothing of that matters because these tracks are great. Great if you like some odd-vocals like "I Got You Under My Skin", "The Flavour of the Drive" or "You Feel The Drive" along with a powerful and catchy Techno-production with some Pop in it. Especially "Flavour of z drive" reminds me a little bit of these awful Scooter-Tracks with way too much pathetic vocals. But check out "Superstar" or the humorous track "Teddy Bear". In some manner a definitive club hit!

@@ -19,8 +19,6 @@ tags:
 ---
 ***Floating Ambient Mix*** // ["Ambient Architextures 2"]({{ site.url }}{{ site.baseurl }}/mp3-music-download/dj-mix/67-dj-mix-by-mo-ambient-architextures-2) is a quiet and peaceful dj-mix to relax. No disturbing sounds, no fuzz, no harm. Just peaceful vibrations to calm your soul down, to lean back into the sofa and chill out. I mixed "Ambient Architextures 2" years ago when netlabels where still a young phenomena. To be precise it was the year 2003.<!--more-->
 
-<!--adsense-->
-
 Once in a while I dig into my archives and enjoy listening music I listend years ago, sometimes also my old dj-mixes. One of my best mixes so far is the "Ambient Architextures 2"-mix which I mixed in a relaxed mood with an ear for classic ambient. Since I released the mix on [archive.org](http://www.archive.org/details/phlow_mix_002) there has been plenty of reactions. Besides reactions from musiclovers over at Archive.org even people who believe in esoteric stuff enjoyed the mix. As an artist and producer it's always interesting how and which people respond to your art.
 
 The selection is **heavily influenced by music works such as albums like "Selected Ambient Works"** from Aphex Twin or the amazing "G-Spot" album by Speedy J. The mix takes you on a pleasant and peaceful trip which lasts exactly 77:14 minutes. During this deep journey into melodic ambient-works produced by various artists, the mix drifts mainly on beatless tracks. Have a nice journey!

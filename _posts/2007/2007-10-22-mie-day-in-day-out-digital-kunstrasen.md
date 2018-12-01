@@ -12,9 +12,7 @@ categories:
 tags:
   - digital phlow
 ---
-**Tiny Bits of Ambient Bliss |** Most ambient music is made for expanded listening. Sounds are shifted in slow-motion and every single event can unfold itself in perfect balance. Usually, an ambient track works totally different than a 3:30-Pop song. With the new EP by sound-designer miè, Digital Kunstrasen gain prove for the fact that ambient tunes may function in even less than ten minutes.<!--more-->
-
-<!--adsense-->
+**Tiny Bits of Ambient Bliss  Most ambient music is made for expanded listening. Sounds are shifted in slow-motion and every single event can unfold itself in perfect balance. Usually, an ambient track works totally different than a 3:30-Pop song. With the new EP by sound-designer miè, Digital Kunstrasen gain prove for the fact that ambient tunes may function in even less than ten minutes.<!--more-->
 
 [miè](http://www.myspace.com/mientertaining "miè @ Myspace") is Martin Seidel, a young fellow from the city of Leipzig in Eastern Germany. You might know him for his nice debut EP “[Subjektive Perspektiven](http://www.fileden.com/files/2007/6/1/1133066/mie-subjektive%20perspektiven.zip "Subjektive Perspektiven Download")” or his appearance at the second “[Electronica Unplugged](http://aerotone.300l600.de/index.php?id=2,41,0,0,1,0 "Electronica Unplugged 2 @ Aerotone")”-sampler at [Aerotone](http://aerotone.de "Aerotone Website").
 

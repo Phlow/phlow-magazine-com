@@ -33,6 +33,4 @@ The first compilation from Petite & Jolie Netlabel tastes like sweet candy. Kitt
 
 <!--more-->
 
-<!--adsense-->
-
 Compilations often offer just a collection of songs or tracks put together. In contrast "Pantoufle Tagada" comes around the corner with a **interesting concept: cute music.** But don't be fooled, some of the cute tracks reveal a darker side while listening to them. All tracks are worth listening, full of different shades of electronica. Sometimes we here songs with vocals like "Je viendrai" from Doroasako, sometimes we listen to idm-ish tracks like "That Smell Of Spring Rain" full of sweet melodies - somewhere near Kitsch. A fantastic compilation with lots of facets.

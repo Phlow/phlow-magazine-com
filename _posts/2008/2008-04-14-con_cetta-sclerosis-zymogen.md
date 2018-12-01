@@ -30,8 +30,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Filippo Aldovini, the smart guy behind [Zymogen](http://www.zymogen.net "Zymogen Netlabel"), has a sovereign feel for choosing the right music for his label. If you make up a compilation including Zymo folks [Letna](http://www.zymogen.net/releases/zym018/ "Lena @ Zymogen"), [Lezrod](http://rubored.wordpress.com/2007/08/02/lezrod-genki-zymogen/ "Lezrod @ RUBored") and [Marihiko Hara]({{ site.url }}{{ site.baseurl }}/mp3-music-download/ambient/127-marihiko-hara-cesura-zymogen "Marihiko Hara @ Phlow Magazine"), people might doubt there's more than one artist featured at all. Taking place between the later two, con_cetta fits this musical terrain just perfect. Harmonious Ambient drones, spiced with glitch and field-recordings, how does that sound to you?
 
 The album opens with the hypnotizing string-miniature "2.53" that sounds like _Arvo Pärt_ underwater. "hexagram" is a dense meditation on processed guitar and different high- and low-frequent noises which surprisingly make up a smooth listen. The song features Nicola Fernoli of Posthardcore outlet [Go Down Moses](http://www.myspace.com/godownmoseshq "Go Down Moses @ Myspace") on guitar. Afterwards, "sad.ay" is back with a dense piece of synthesizer Ambient, including echoing sine waves, a mesmerizing synth loop, songbirds and white noise distortion. For "hornplant", con_cetta approaches Indietronica from an Ambient point of view, introducing a plain and beautiful texture to rattly sample beats. "Sclerosis" closes with the magnificent "calendaexl", the orchestral counterpart of "hexagram".

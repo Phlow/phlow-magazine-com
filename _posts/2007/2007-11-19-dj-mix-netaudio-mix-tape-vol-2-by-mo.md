@@ -27,8 +27,6 @@ tags:
 
 <!--more-->
 
-<!--adsense-->
-
 Where a cook knows about the desires of your nose and tongue, mo. enjoys pleasing your ear with handcrafted beats from drum'n'bass- and downbeats stars from the international netlabel-scene. After the [first part]({{ site.url }}{{ site.baseurl }}/mp3-music-download/dj-mix/69-dj-mix-das-netaudio-tape-vol1-by-mo), it's time to enjoy the second part of our beloved mixing serie "Das Netaudio Tape".
 
 After the [first part]({{ site.url }}{{ site.baseurl }}/mp3-music-download/dj-mix/69-dj-mix-das-netaudio-tape-vol1-by-mo) of "Das Netaudio Tape"-mix we are proud to present you the second part of our serie. Again mo. collected only his absulute favorites to drift with you together through the land of broken beats. Enjoy music from netlabels all over the globe. And don't forget to leave a message for your favorite musicians! Just click the links of the netlabels below after listening and [downloading “Das Netaudio Mix Tape Vol 2″](http://www.archive.org/download/DasNetaudioMixTapeVol2/phlow_mix_003_mo.-das_netaudio_mix_tape_vol_2.mp3).
