@@ -10,15 +10,23 @@ categories:
   - House
   - Techno
 tags:
-  - download
-  - dub
-  - free
-  - minimal
-  - mp3
-  - music
   - netlabel
-  - techhouse
-  - Techno
+  - modularfield
+download:
+  zip_url      : https://archive.org/compress/modularfield-mdf01
+  title        : 'PHVSR – »Bassment«'
+  release_url  : https://archive.org/details/modularfield-mdf01
+  netlabel_url : www.modularfield.net
+  artist_url   : 
+mp3:
+  - title : 'Schnittgrößen'
+    url   : https://archive.org/download/modularfield-mdf01/01-phvsr-schnittgroessen.mp3
+  - title : 'Metro'
+    url   : https://archive.org/download/modularfield-mdf01/02-phvsr-metro.mp3
+  - title : 'Percuss'
+    url   : https://archive.org/download/modularfield-mdf01/03-phvsr-percuss.mp3
+  - title : 'Juno'
+    url   : https://archive.org/download/modularfield-mdf01/04-phvsr-juno.mp3
 ---
 modularfield is the rebirth of DCC Records from Cologne/Germany. "Bassment" is the first release to kick off the renamend netlabel. And PHVSR sets immediately the course of this techno spaceship: Groovy Minimal Techno. And PHVSR is definetely a good choice because you got some tricky sounds and rhythmic experiments with with this EP.<!--more-->
 
