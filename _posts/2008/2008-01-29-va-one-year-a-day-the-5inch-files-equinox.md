@@ -3,26 +3,13 @@ image:
   title: /images/equimod.jpg
 subtitle: Instrumental Hip Hop
 title: 'V.A. – »One Year« A Day- The 5inch Files« (Equinox)'
-subtitle: 
 date: 2008-01-29T05:39:24+00:00
 author: Bettina Rhymes
 permalink: /mp3-music-download/hiphop/254-va-one-year-a-day-the-5inch-files-equinox
 categories:
   - Hip Hop
 tags:
-  - Aqua Luminus III.
-  - B-Ju
-  - DJ Scientist
   - Equinox Records
-  - German Hip Hop
-  - Instrumental Hip Hop
-  - J. Baracuz
-  - Misanthrop
-  - Mnemotrauma
-  - netaudio
-  - SmoKey131
-  - The Raincoated Man
-  - Vangel
 download:
   zip_url      : http://download.e-q-x.net/eqx013/eqx013_one_year_&_a_day_5inch_compilation.zip
   title        : 'V.A. - "One Year & A Day"'

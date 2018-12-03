@@ -1,7 +1,7 @@
 ---
 image:
   title: /images/portada.jpg
-subtitle: 
+subtitle: Mexican Hip Hop Adventures
 title: 'Menuda Coincidencia – »Ai con Permisito« (Delhotel Records)'
 date: 2009-01-05T19:06:52+00:00
 author: Moritz »mo.« Sauer
@@ -19,18 +19,21 @@ tags:
   - music
   - netlabel
   - rap
+download:
+  zip_url      : 
+  title        : 'Menuda Coincidencia - "Ai con Permisito"'
+  release_url  : https://menuda-coincidencia.bandcamp.com/album/ai-con-permisito
+  netlabel_url : http://delhotel.com/
+  artist_url   : https://menuda-coincidencia.bandcamp.com/album/ai-con-permisito
+mp3:
+  - title : '"verso sin esfuerzo"'
+    url   : https://archive.org/download/music_from_all_around_the_world/09._music_from_all_around_the_world_-_menuda_coincidencia_-_verso_sin_esfuerzo.mp3
 ---
-**Mexican Hip Hop Adventures Oh, this one is fresh! Straight from Mexico Hip Hop-Group Menuda Coincidencia delivers us a delicious package full of jazzy loops, a bucket full of trumpets and eight groovy tunes. It's like watching an entertaining cartoon. Or like going down to your favorite jazz club just being knocked down by this bunch of excellent spanish Raps.
+Oh, this one is fresh! Straight from Mexico Hip Hop-Group Menuda Coincidencia delivers us a delicious package full of jazzy loops, a bucket full of trumpets and eight groovy tunes. It's like watching an entertaining cartoon. Or like going down to your favorite jazz club just being knocked down by this bunch of excellent spanish Raps.<!--more-->
 
-[menuda coincidencia "corre" (MP3)](http://mp3.phlow.de/phlow-magazine/05._ai_con_permisito_%5B2008%5D_-_menuda_coincidencia_-_corre.mp3)
-  
-[menuda coincidencia "perspectivas" (MP3)](http://mp3.phlow.de/phlow-magazine/04._ai_con_permisito_%5B2008%5D_-_menuda_coincidencia_-_perspectivas.mp3)
-  
-[menuda coincidencia "sin enganche" (MP3)](http://mp3.phlow.de/phlow-magazine/03._ai_con_permisito_%5B2008%5D_-_menuda_coincidencia_-_sin_enganche.mp3)
+<img class="alignright size-full wp-image-965" title="menuda_coincidencia" src="{{ site.url }}{{ site.baseurl }}/images/menuda_coincidencia.jpg">
 
-<!--more-->
-
-<img class="alignright size-full wp-image-965" title="menuda_coincidencia" src="{{ site.url }}{{ site.baseurl }}/images/menuda_coincidencia.jpg"To be honest, I don't understand spanish at all. To be even more honest, I don't care. Because like in my childhood I like the flow of words, the groove, fat beats and a bunch of crazy rhymes. Back than in my youth I adored Hip Hop without any clue what they talked about...
+To be honest, I don't understand spanish at all. To be even more honest, I don't care. Because like in my childhood I like the flow of words, the groove, fat beats and a bunch of crazy rhymes. Back than in my youth I adored Hip Hop without any clue what they talked about...
 
 Back to Delhotel Records and their fantastic Hip Hop-album "Ai con Permisito"...
 
@@ -42,14 +45,4 @@ PS:  Mexico and the whole sout american continent becomes more and more the new
   
 PPS: Thanks to <a href="http://metawelle.net/" target="_blank">Christian Grasse</a> for this delicious music treasure box.
   
-PPPS: Hello <a href="http://Netaudio.es" target="_blank">Netaudio.es</a>, what about an english translation of the lyrics?
-
-## Free MP3 Hip Hop Music Download
-
-**Download:** [Menuda Coincidencia - "Ai con Permisito" (ZIP-Archive)](http://gratis.delhotel.com/menuda_c-aiconpermisito.rar)
-  
-**Artist-Website:** <a href="http://www.myspace.com/menudacoincidencia" target="_blank">www.myspace.com/menudacoincidencia</a>
-  
-**Release:** <a href="http://delhotel.com/menuda-coincidencia-ai-con-permisito/" target="_blank">Menuda Coincidencia - "Ai con Permisito"</a>
-  
-**Netlabel:** <a href="http://delhotel.com/" target="_blank">Delhotel Records</a>
+PPPS: Hello Netaudio.es, what about an english translation of the lyrics?
