@@ -3,7 +3,6 @@ image:
   title: /images/waveform_-_soul_flight_ep_cover.jpg
 subtitle: Techno meets House
 title: 'Waveform – »Soul Flight« (Deep In Dub Netlabel)'
-subtitle: 
 date: 2008-09-18T05:02:21+00:00
 author: David McQuillan
 permalink: /mp3-music-download/house/739-waveform-soul-flight-deep-in-dub-netlabel
@@ -20,7 +19,7 @@ tags:
   - netlabel
 download:
   zip_url      : http://www.archive.org/download/waveform_soul_flight/did024_Waveform_Soul_Flight.zip
-  netlabel_url : http://www.deepindub.org/
+  netlabel_url : https://deepindub.bandcamp.com/
 ---
 Sweet minimal dub-techno and deep house brought to you by the people at Deep in dub. Sit down, and soak it up as gentle waves of dubness envelop you. Every now and again understated funky rhythms emerge from the warm layers of synth to get your head bobbing and your feet tapping. A perfect sound for a chill out session on the weekend.
 <!--more-->

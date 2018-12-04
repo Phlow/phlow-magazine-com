@@ -3,7 +3,6 @@ image:
   title: /images/id002_frontcover_mittel.jpg
 subtitle: Glitter Disco House Classic
 title: 'Cuebism – »Circle EP« (Ideology Netlabel)'
-subtitle: 
 date: 2007-11-23T06:10:05+00:00
 author: Moritz »mo.« Sauer
 permalink: /mp3-music-download/house/143-mp3-cuebism-circle-ep
