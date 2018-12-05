@@ -3,7 +3,6 @@ image:
   title: /images/pp020md_cover.jpg
 subtitle: "Drum'n'Bass Science"
 title: 'Iaka – »Es rappelt im Karton« (Plainaudio Netlabel)'
-subtitle: 
 date: 2007-09-22T13:31:59+00:00
 author: Brigitte
 permalink: /mp3-music-download/drum-and-bass/10-iaka-es-rappelt-im-karton-plainaudio-netlabel
