@@ -10,11 +10,6 @@ categories:
   - House
 tags:
   - Blaxrotationists
-  - digital phlow
-  - download
-  - House
-  - mp3
-  - music
   - supafeed
 download:
   title        : 'Blaxrotationists – »Nu Bits From Da Block«'

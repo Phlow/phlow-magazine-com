@@ -1,7 +1,7 @@
 ---
 image:
   title: /images/apl042cover.jpg
-title: 'Klotzsch &amp; Sudermann – Holzlaub (Autoplate)'
+title: 'Klotzsch & Sudermann – Holzlaub (Autoplate)'
 subtitle: 
 date: 2007-10-08T08:58:07+00:00
 author: Bettina Rhymes
@@ -9,7 +9,7 @@ permalink: /mp3-music-download/electronica-indietronic/32-klotzsch-sudermann-hol
 categories:
   - Electronica-Indietronic
 tags:
-  - digital phlow
+  - Autoplate
 ---
 <img class="right" src="{{ site.url }}{{ site.baseurl }}" alt="Klotzsch & Sudermann - Holzlaub - Front" />**Metaimprovisations** // Some might remember [Emil Klotzsch](http://www.myspace.com/emilklotzsch "Emil Klotzsch @ myspace.com") for his kinescope ambient album [Tiefe Berge](http://autoplate.cc/releases.php?r=apl036 "Tiefe Berge @ Autoplate") or his outstanding [Feinquisit EP](http://one.dot9.ca/2/releases.php?id=032 "Feinquisit EP @ One Netlabel") at US Netlabel [one.dot9.ca](http://www.one.dot9.ca "One Website") (see [mo.'s review]({{ site.url }}{{ site.baseurl }}/mp3-music-download/15-emil-klotzsch-feinquisit-netlabel-one)). His new LP [Holzlaub](http://autoplate.cc/releases.php?r=apl042 "Holzlaub @ Autoplate") is close to [Tiefe Berge](http://autoplate.cc/releases.php?r=apl036 "Tiefe Berge @ Autoplate"), still there are many things different. The whole thing was born from expanded jams with guitarist [Raimund Sudermann](http://www.myspace.com/raimundsudermann "Raimund Sudermann @ myspace.com") whose name I never heard before. Thus, Sudermann’s guitar-chords play a key role if you want to describe [Holzlaub](http://autoplate.cc/releases.php?r=apl042 "Holzlaub @ Autoplate").<!--more-->
 

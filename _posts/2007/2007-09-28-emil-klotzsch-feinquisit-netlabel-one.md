@@ -10,7 +10,7 @@ categories:
   - Electronica-Indietronic
   - IDM
 tags:
-  - digital phlow
+  - one netlabel
 download:
   zip_url      : http://www.archive.org/compress/one028
   title        : 'Emil Klotzsch - feinquisit'

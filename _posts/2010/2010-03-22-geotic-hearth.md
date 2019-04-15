@@ -1,6 +1,7 @@
 ---
 image:
   title: /images/Hearth.jpg
+subtitle: Warm Drones
 title: 'Geotic – »Hearth«'
 date: 2010-03-22T23:46:57+00:00
 author: Bettina Rhymes
@@ -19,9 +20,14 @@ tags:
   - netlabel
   - Postfoetus
   - Will Wiesenfeld
+download:
+  zip_url      : 
+  title        : 'Geotic – »Hearth«'
+  release_url  : http://freemusicarchive.org/music/Geotic/Hearth/
+  netlabel_url : 
+  artist_url   : 
 ---
-***Warm Drones*** // **Geotic** is the Ambient music outfit of Anticon recording artist **Baths** who is active as **Postfoetus**, too. While Baths is biased towards Brainfeeder-style Hip Hop and Postfoetus can clearly be attributed to beatladen Electronica, **Geotic** is all about blurry, harmonious Ambient music. California dreaming...
-<!--more-->
+**Geotic** is the Ambient music outfit of Anticon recording artist **Baths** who is active as **Postfoetus**, too. While Baths is biased towards Brainfeeder-style Hip Hop and Postfoetus can clearly be attributed to beatladen Electronica, Geotic is all about blurry, harmonious Ambient music. California dreaming...<!--more-->
 
 - Geotic - "Smiles and Experiments In The Vanilla Kitchen
 - Geotic - "Sleeping Forever; We're Gods On Miles Of Clouds

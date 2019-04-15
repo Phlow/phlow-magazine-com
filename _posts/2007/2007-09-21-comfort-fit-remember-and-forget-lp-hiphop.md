@@ -10,7 +10,6 @@ categories:
   - Hip Hop
 tags:
   - comfort fit
-  - digital phlow
 download:
   zip_url      : 
   title        : 'Comfort Fit – »Forget and Remember«'

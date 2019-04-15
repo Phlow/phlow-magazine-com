@@ -10,7 +10,7 @@ categories:
   - Dub and Reggae
   - House
 tags:
-  - digital phlow
+  - 1Bit-Wonder
 download:
   zip_url      : https://archive.org/compress/1bit_026/
   title        : 'Glander – »Vate«'

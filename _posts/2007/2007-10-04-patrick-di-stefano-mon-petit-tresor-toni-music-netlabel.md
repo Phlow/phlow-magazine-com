@@ -10,7 +10,7 @@ categories:
   - House
   - Techno
 tags:
-  - digital phlow
+  - toni music
 download:
   zip_url      : https://archive.org/compress/toni02/
   title        : 'Patrick di Stefano – »Mon petit tresor«'

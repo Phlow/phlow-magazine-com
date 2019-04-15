@@ -9,7 +9,6 @@ permalink: /mp3-music-download/ambient/30-gogooo-nuages-ep-eko
 categories:
   - Ambient
 tags:
-  - digital phlow
 ---
 **Electro-Acoustica** // I’ve been following the way of Gabriel Hernandez a.k.a. [GoGooo](http://gogooo.free.fr/ "GoGooo Website") for quite a while. He runs one of the most beautiful and inspiring Netlabels around ([Rain Music](http://rainmusic.free.fr/ "Rain Music Website")) and released his music on various small compilations and EPs, both free and commercial. What about his new release at Alexandre Navarro’s EKO Netlabel?<!--more-->
 

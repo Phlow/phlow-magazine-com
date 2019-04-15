@@ -2,7 +2,7 @@
 image:
   title: /images/calendargirl.jpg
 title: 'Calender girl &#038; apeskinny – »May apeskinny mix«'
-subtitle: 
+subtitle: Electro Pop
 date: 2007-10-02T08:00:18+00:00
 author: Moritz »mo.« Sauer
 permalink: /news/35-calender-girl-apeskinny-may-apeskinny-remix-mix
@@ -10,9 +10,8 @@ categories:
   - News
   - Pop
 tags:
-  - digital phlow
 ---
-**Electro Pop** // [ccMixter](http://ccmixter.org/) is a community music remixing website featuring remixes and samples licensed under [Creative Commons](http://creativecommons.org/) licenses. One musician who used ccMixter quite cleverly is [Calendar Girl]({{ site.url }}{{ site.baseurl }}/interview-portrait/509-calendar-songs-a-delicate-creative-commons-project). Over one year she recorded each month a song, packed the vocals on ccMixter and asked the community to remix. One producer who did a hell of a job is apeskinny who remixed the may-song and turned it into an electrifying techno-pop-song.
+[ccMixter](http://ccmixter.org/) is a community music remixing website featuring remixes and samples licensed under [Creative Commons](http://creativecommons.org/) licenses. One musician who used ccMixter quite cleverly is [Calendar Girl]({{ site.url }}{{ site.baseurl }}/interview-portrait/509-calendar-songs-a-delicate-creative-commons-project). Over one year she recorded each month a song, packed the vocals on ccMixter and asked the community to remix. One producer who did a hell of a job is apeskinny who remixed the may-song and turned it into an electrifying techno-pop-song.
 
 [Calendar Girl - "May" (MP3)](http://mp3.phlow.de/phlow_2008/jellyman3_-_May_apeskinny_mix.mp3)
 
