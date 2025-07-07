@@ -16,25 +16,23 @@
     <h2>Album of the Week</h2>
 
     <div class="grid col-33-67 bem2">
-    {% for review in site.posts %}
-    {% if review.id contains 'comfort-fit-remember-and-forget-lp-hiphop' %}
 
-      <a class="card" href="{{ site.url }}{{ site.baseurl }}/{{ review.url }}">
+      <a class="card" href="https://mosonic.net/releases/album-habitat/" target="_blank">
         <div>
-          <img src="{{ site.url }}{{ site.baseurl }}{{ review.image.title }}" width="970" alt="{{ review.title | escape_once }}" itemprop="image">
+          <img src="https://phlow-magazine.com/images/cover-habitat.jpg" width="1000" alt="Cover of Habitat" itemprop="image">
         </div>
       </a>
 
       <div>
-        {% if review.subtitle %}<p class="subtitle">{{ review.subtitle }}</p>{% endif %}
+        <p class="subtitle">Wonderful ChillOut and Ambient</p>
         <p class="h5" itemprop="name headline">{{ review.title | escape }}</p>
-        <p>{{ review.excerpt }}</p>
-        <p><a class="button success" href="{{ site.url }}{{ site.baseurl }}/{{ review.url }}">Check out and download ›</a></p>
+        <p>
+          mosonic’s “Habitat” on mosonic.net is a captivating dive into immersive soundscapes. With intricate rhythms, lush textures, and a fluid blend of electronic and ambient elements, this full-length album transports you through a rich sonic ecosystem.
+        </p>
+        <p><a class="button success" href="https://mosonic.net/releases/album-habitat/">Check out and listen ›</a></p>
       </div>
 
     </div>
-    {% endif %}
-{% endfor %}
 
 
     <h2>Music by Genres</h2>
